@@ -10,11 +10,12 @@
 
 ## workflow 
 
-* 截图： 包括电脑和手机，条件是值得复习和深入了解的知识点
-* 每天早上使用App: 「Shortcuts」将手机截图传到特定目录。
-* 然后使用我自己的做的Alfred的「workflow - review」, 将所有传到Evernote, 并打开笔记。
-* 浏览截图，在「workflowy」中记录所有知识点
-* 对知识点分类
+* **截图**： 包括电脑和手机，条件是值得复习和深入了解的知识点
+* **归档**：Shortcuts & Alfred 
+	* 每天早上使用App: 「Shortcuts」将手机截图传到特定目录。
+	* 然后使用我自己的做的Alfred的「workflow - review」, 将所有传到Evernote, 并打开笔记。
+* **记录**: 在evernote中浏览，在「workflowy」中记录所有知识点
+* **分类**：对知识点分类
 	* 值得系统化的，进一步阅读，归纳
 	* To do list
 
