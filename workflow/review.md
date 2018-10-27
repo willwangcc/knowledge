@@ -2,7 +2,7 @@
 
 ## To do 
 * [x] [morning routine](https://i.imgur.com/xZVfpTV.png): 把Alfred中的命令(m1, m2, m3)三合一: `screenshots to evernote`: 方案：连接，存疑？
-* [ ] 如何提高 @review 整理的时间效率，让其Focus在最重要的事情上？
+* [ ] 如何提高 @review 整理的时间效率，让其**Focus**在最重要的事情上？
 
 ## tools
 
@@ -47,6 +47,7 @@
 
 ![evernote](https://i.imgur.com/2OIL9Zf.jpg)
 
+![workfowy](https://i.imgur.com/ADELdZ0.jpg)
 
 
 ## How 
