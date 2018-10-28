@@ -43,14 +43,13 @@
 
 ## show me 
 
-![shortcuts](https://i.imgur.com/TdhUSIf.png)
-
-![screenshots to evernote](https://i.imgur.com/9XqaseO.png)
-
-![evernote](https://i.imgur.com/2OIL9Zf.jpg)
-
-![workfowy](https://i.imgur.com/ADELdZ0.jpg)
-
+<img src="https://i.imgur.com/TdhUSIf.png" alt="shortcuts" width="100"/> 
+<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
+<img src="https://i.imgur.com/9XqaseO.png" alt="alfred-review" width="100"/>
+<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
+<img src="https://i.imgur.com/2OIL9Zf.jpg" alt="evernote" width="100"/>
+<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
+<img src="https://i.imgur.com/ADELdZ0.jpg" alt="workflowy" width="100"/>
 
 ## How 
 
