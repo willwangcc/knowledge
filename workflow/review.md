@@ -6,8 +6,14 @@
 
 ## tools
 
+<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
+<img src="https://i.imgur.com/5L0C5zD.png" alt="shortcuts" width="20"/>
+<img src="https://i.imgur.com/xeFNz0B.png" alt="review" width="20"/>
+<img src="https://i.imgur.com/wkAKmBc.png" alt="evernote" width="20"/>
+<img src="https://i.imgur.com/8MyBvDP.png" alt="drawing" width="20"/>
+
 1. Shortcuts 
-1. Alfred - review 
+1. Alfred - review  
 1. Evernote 
 1. workflowy.com 
 
@@ -23,27 +29,24 @@
 	* 值得系统化的，进一步阅读，归纳
 	* To do list
 
-## 操作操作度(13步)
+## 操作操作度(10步)
 
-1. 拿起iPhone
-1. 右滑屏幕
-1. 点击workflow1
-1. 点击workflow2
-1. 跳出窗口，点击“Delete”
-1. Mac: 快捷键唤出Alfred
-1. 输入m...
-1. 选择 m1: convert png to jpeg
-1. 选择 m2: convert file to evernote
-1. 选择 m3: m3: delete jpeg3
-1. Evernote: 快捷键进入“Present”模式
-1. 鼠标点击图片，进入图片模式
+1. **拿**起iPhone
+1. 右**滑**屏幕
+1. **点击**workflow1
+1. **点击**workflow2
+1. 跳出Alert窗口，**点击**“Delete”
+1. Mac: **快捷键**`option + command + space`唤出Alfred
+1. 输入`m,`, 回车`return`: 得到`evernote` 
+1. Evernote: 快捷键`shift + return`进入“Present”模式
+1. 鼠标**点击**图片: 进入图片模式
 1. 开始在workflowy中记录“知识点”
 
 ## show me 
 
 ![shortcuts](https://i.imgur.com/TdhUSIf.png)
 
-![screenshots to evernote](https://i.imgur.com/0Cnx2EH.png)
+![screenshots to evernote](https://i.imgur.com/9XqaseO.png)
 
 ![evernote](https://i.imgur.com/2OIL9Zf.jpg)
 
