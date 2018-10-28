@@ -1,7 +1,7 @@
 # Review system
 
 ## To do 
-* [x] [morning routine](https://i.imgur.com/xZVfpTV.png): 把Alfred中的命令(m1, m2, m3)三合一: `screenshots to evernote`: 方案：连接，存疑？
+* [x] [morning routine](https://i.imgur.com/xZVfpTV.png): 把Alfred中的命令(m1, m2, m3)三合一: `screenshots to evernote`
 * [ ] 如何提高 @review 整理的时间效率，让其**Focus**在最重要的事情上？
 
 ## tools
@@ -78,29 +78,9 @@ Second step:
 ``` applescript   
 on alfred_script(q)
   -- your script here
-	
-tell application "Finder"
-    set fl to files of folder POSIX file "/Users/wangzhixiang/Desktop/review" as alias list
-end tell
 
-set theDate to current date
-set today to date string of theDate
-
-tell application "Finder"
-	set NoOfFiles to count of (files of folder POSIX file "/Users/wangzhixiang/Desktop/review" )
-end tell
-
-tell application id "com.evernote.evernote"
-	set note1 to create note title today & " 🎟 " & NoOfFiles & " Cards" with text "知识卡片🎟-路标★&焦点❶-一生所学(术语&人名&反常识)" notebook "N1 - 浇水集1 - 正反卡片⚡️"
-	tell note1 to append text " " 
-	
-	repeat with f in fl
-		tell note1 to append attachment f
-	end repeat
-	
-	open note window with note1
-
-end tell 
+tell application "Finder"	set fl to files of folder POSIX file "/Users/wangzhixiang/Desktop/review" as alias listend tellset theDate to current dateset today to date string of theDateon theSplit(theString, theDelimiter)	-- save delimiters to restore old settings	set oldDelimiters to AppleScript's text item delimiters	-- set delimiters to delimiter to be used	set AppleScript's text item delimiters to theDelimiter	-- create the array	set theArray to every text item of theString	-- restore the old setting	set AppleScript's text item delimiters to oldDelimiters	-- return the result	return theArrayend theSplittell application "Finder"	set NoOfFiles to count of (files of folder POSIX file "/Users/wangzhixiang/Desktop/review")end telltell application id "com.evernote.evernote"	set note1 to create note title today & " 🎟 " & NoOfFiles & " Cards" with text "知识卡片🎟-路标★&焦点❶-一生所学(术语&人名&反常识)" notebook "N1 - 浇水集1 - 正反卡片⚡️"	tell note1 to append text " "			repeat with f in fl		tell note1 to append attachment f				-- get the time of screenshot		set temp to f as string		set myTestString to temp		set myArray to my theSplit(myTestString, " ")		set choice to item 6 of myArray		tell note1 to append text choice		tell note1 to append text "⬆️"			end repeat		open note window with note1	-- delay NoOfFiles: no need 	NoOfFiles		tell application "Terminal"		do script "trash -v /Users/wangzhixiang/Desktop/review/*"
+		do script "exit"	end tell	end tell
 
 end alfred_script
 -- -----------------------
@@ -110,23 +90,10 @@ end alfred_script
 -- http://macscripter.net/viewtopic.php?id=27926 (count the number of files)
 ```
 
-Third Step:
-
-* remove all files in `review`: cause we cannot run third script until step2 finished
-
-``` bash 
-mv /Users/wangzhixiang/Desktop/review/* /Users/wangzhixiang/Library/Mobile\ Documents/com~apple~CloudDocs/.Trash
-exit
-```
-
-
-## Wait to delete
-
-* [m1](https://i.imgur.com/6811jYJ.png)
-* [m2](https://i.imgur.com/APPTSMh.png)
-* [m3](https://i.imgur.com/m1aaRb9.png)
 
 
 ## log 
 
-- 2018.10.28: 把 rm 改成 mv 到 trash, 以备意外，可以回复。
+- 2018.10.28: 
+	- 把 rm 改成 `trash`, 以备意外，可以回复。
+	- 完成一键操作：files to evernote. 过程试图用javascript 取代 applescript，但是这是低频事件，提前优化，是一个错误策略。
