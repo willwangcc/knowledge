@@ -41,8 +41,7 @@
 <img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
 <img src="https://i.imgur.com/ADELdZ0.jpg" alt="workflowy" width="150"/>
 <img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
-<img src="https://i.imgur.com/MwXB1il.png
-" alt="workflowy" width="150"/>
+<img src="https://i.imgur.com/MwXB1il.png" alt="workflowy" width="150"/>
 
 
 1. **拿**起iPhone
