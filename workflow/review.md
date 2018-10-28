@@ -115,8 +115,7 @@ Third Step:
 * remove all files in `review`: cause we cannot run third script until step2 finished
 
 ``` bash 
-cd /Users/wangzhixiang/Desktop/review
-rm *.jpg
+mv /Users/wangzhixiang/Desktop/review/* /Users/wangzhixiang/Library/Mobile\ Documents/com~apple~CloudDocs/.Trash
 exit
 ```
 
@@ -127,3 +126,7 @@ exit
 * [m2](https://i.imgur.com/APPTSMh.png)
 * [m3](https://i.imgur.com/m1aaRb9.png)
 
+
+## log 
+
+- 2018.10.28: 把 rm 改成 mv 到 trash, 以备意外，可以回复。
