@@ -6,8 +6,7 @@
 
 ## tools
 
-<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
-<img src="https://i.imgur.com/5L0C5zD.png" alt="shortcuts" width="20"/>
+<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/> <img src="https://i.imgur.com/5L0C5zD.png" alt="shortcuts" width="20"/>
 <img src="https://i.imgur.com/xeFNz0B.png" alt="review" width="20"/>
 <img src="https://i.imgur.com/wkAKmBc.png" alt="evernote" width="20"/>
 <img src="https://i.imgur.com/8MyBvDP.png" alt="drawing" width="20"/>
