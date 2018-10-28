@@ -43,12 +43,12 @@
 
 ## show me 
 
-<img src="https://i.imgur.com/TdhUSIf.png" alt="shortcuts" width="100"/> <img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
-<img src="https://i.imgur.com/9XqaseO.png" alt="alfred-review" width="100"/>
+<img src="https://i.imgur.com/TdhUSIf.png" alt="shortcuts" width="150"/> <img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
+<img src="https://i.imgur.com/9XqaseO.png" alt="alfred-review" width="150"/>
 <img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
 <img src="https://i.imgur.com/2OIL9Zf.jpg" alt="evernote" width="100"/>
 <img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
-<img src="https://i.imgur.com/ADELdZ0.jpg" alt="workflowy" width="100"/>
+<img src="https://i.imgur.com/ADELdZ0.jpg" alt="workflowy" width="150"/>
 
 ## How 
 
