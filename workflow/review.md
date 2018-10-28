@@ -54,7 +54,7 @@
 
 ### Alfred 
 
-![morning routine: review](https://i.imgur.com/5nVzNlV.png)
+![morning routine: review](https://i.imgur.com/p4OCLn6.png)
 
 
 First step:
