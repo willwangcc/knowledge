@@ -6,7 +6,7 @@
 * [ ] 补充整个review system背后的科学原理，why?
 * [ ] 补充为什么使用「Evernote」，以及之后的截图复习系统?
 
-## tools
+## Tools
 
 <img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/> <img src="https://i.imgur.com/5L0C5zD.png" alt="shortcuts" width="20"/>
 <img src="https://i.imgur.com/xeFNz0B.png" alt="review" width="20"/>
@@ -66,7 +66,7 @@
 	* writing...
 	* 完成一个知识点`git add/commit/push` 
 
-## log 
+## Log 
 
 - 2018.10.28: 
 	- 把 `rm` 改成 `trash`, 以备意外，可以恢复。
