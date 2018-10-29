@@ -60,5 +60,5 @@
 ## log 
 
 - 2018.10.28: 
-	- 把 rm 改成 `trash`, 以备意外，可以回复。
+	- 把 `rm` 改成 `trash`, 以备意外，可以恢复。
 	- 完成一键操作：files to evernote. 过程试图用javascript 取代 applescript，但是这是低频事件，提前优化，是一个错误策略。
