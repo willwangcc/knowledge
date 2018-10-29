@@ -3,6 +3,8 @@
 ## To do 
 * [x] [morning routine](https://i.imgur.com/xZVfpTV.png): 把Alfred中的命令(m1, m2, m3)三合一: `screenshots to evernote`
 * [ ] 如何提高 @review 整理的时间效率，让其**Focus**在最重要的事情上？
+* [ ] 补充整个review system背后的科学原理，why?
+* [ ] 补充为什么使用「Evernote」，以及之后的截图复习系统?
 
 ## tools
 
@@ -32,7 +34,7 @@
 * **分类**： 将知识点分类到不同的**「github」知识库**中，然后**排序**处理
 
 
-## How: 具体细节(10步)
+## How: 具体细节?
 
 <img src="https://i.imgur.com/TdhUSIf.png" alt="shortcuts" width="150"/> <img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
 <img src="https://i.imgur.com/9XqaseO.png" alt="alfred-review" width="150"/>
@@ -44,18 +46,25 @@
 <img src="https://i.imgur.com/MwXB1il.png" alt="workflowy" width="150"/>
 
 
-1. **拿**起iPhone
-1. 右**滑**屏幕
-1. **点击**workflow1
-1. **点击**workflow2
-1. 跳出Alert窗口，**点击**“Delete”
-1. Mac: **快捷键**`option + command + space`唤出Alfred
-1. 输入`m,`, 回车`return`: 得到`evernote` 
-1. Evernote: **快捷键**`shift + return`进入“Present”模式
-1. 鼠标**点击**图片: 进入图片模式
-1. 开始在workflowy中记录“知识点”
-1. 排序完，整理分享到「github」or 其他 
-
+1. iPhone screenshots to Mac：
+	* **拿**起iPhone
+	* 右滑屏幕
+	* 点击workflow1
+	* 点击workflow2
+	* 跳出Alert窗口，点击“Delete"
+1. Mac screenshots to Evernote:
+	* **快捷键** `option + command + space` 唤出Alfred
+	* **输入** `m,`, `return`: to evernote
+1. Evernote to workflowy: 
+	* **快捷键** `shift + return` 进入“Present”沉浸模式
+	* 鼠标**点击**图片, 进入图片模式
+	* 开始在workflowy中记录“知识点”
+1. Evernote to Github:
+	* @maps 中**排序**知识点，以github名，将知识点**分类**，如 web knowledge to github/a-growing-web-developer 
+	* 使用Terminal唤出目录
+	* 使用MacDown打开编辑
+	* writing...
+	* 完成一个知识点`git add/commit/push` 
 
 ## log 
 
