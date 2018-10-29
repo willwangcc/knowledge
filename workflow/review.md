@@ -14,7 +14,7 @@
 
 
 1. Shortcuts 
-1. Alfred - review  
+1. Alfred/workflow - [screenshots to evernote](https://github.com/willwang-x/screenshots-to-evernote)  
 1. Evernote 
 1. workflowy.com 
 1. Github with MacDown 
@@ -27,7 +27,7 @@
 整体的操作逻辑如下：
 
 * **截图**： 包括电脑和手机，条件是**值得复习和深入了解的知识点**都记录保留**学习现场**
-* **归档**： screenshots to evernote using 「shortcuts」 & 「alfred/review」
+* **归档**： screenshots to evernote using 「shortcuts」 & 「alfred/workflow」
 * **记录**： 在「evernote」用**沉浸模式**阅读，在「workflowy」中记录所有知识点, 这个环节**越快越好**
 * **分类**： 将知识点分类到不同的**「github」知识库**中，然后**排序**处理
 
@@ -62,4 +62,3 @@
 - 2018.10.28: 
 	- 把 rm 改成 `trash`, 以备意外，可以回复。
 	- 完成一键操作：files to evernote. 过程试图用javascript 取代 applescript，但是这是低频事件，提前优化，是一个错误策略。
-\
