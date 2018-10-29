@@ -7,6 +7,9 @@
 >
 >  ——— *[Learning Tip: The 5 Second Gutcheck](https://betterexplained.com/articles/gutcheck/)*
 
+## Feature 
+
+- 记录**实施细节**, 提炼**心智模式**。
 
 ## List 
 
