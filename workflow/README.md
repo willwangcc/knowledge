@@ -6,3 +6,7 @@
 ## List 
 
 1. Review system: 如何获得过目不忘的能力？
+
+## Idea behind workflow 
+
+* **封装**生活的核心部分, 让注意力**聚焦**于有**意义**的时空中
