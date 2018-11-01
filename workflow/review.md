@@ -2,9 +2,9 @@
 
 ## To do 
 * [x] [morning routine](https://i.imgur.com/xZVfpTV.png): 把Alfred中的命令(m1, m2, m3)三合一: `screenshots to evernote`
-* [ ] 如何提高 @review 整理的时间效率，让其**Focus**在最重要的事情上？
+* [x] 如何提高 @review 整理的时间效率，让其**Focus**在最重要的事情上？
 * [ ] 补充整个review system背后的科学原理，why?
-* [ ] 补充为什么使用「Evernote」，以及之后的截图复习系统?
+* [ ] 补充为什么使用「Evernote」，以及之后的截图复习系统? 可搜索 + 层级系统
 * [ ] 整理「输入源」，输入的质量觉得了输出的上限？
 
 ## Tools
