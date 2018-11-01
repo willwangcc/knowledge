@@ -1,7 +1,9 @@
 # Regular expression: best way to find and replace texts
 
-![comic](https://i.imgur.com/IgSEnxP.png)
-<center>from [xkcd](https://xkcd.com/208/) </center>
+<img src="https://i.imgur.com/IgSEnxP.png" alt="comic" width="400"/> 
+
+from [xkcd](https://xkcd.com/208/)
+
 
 ## Todo
 
@@ -38,11 +40,15 @@ search: my name is (\w+)
 replace: my name used to be $1
 ```
 
-<img src="https://i.imgur.com/SAr1c3D.gif" alt="regular expression trick: create a list" width="400"/> 
+<img src="https://i.imgur.com/SAr1c3D.gif" alt="bob" alt="comic" width="400"/> 
+
 
 ## Example 3: 
-![https://github.com/ziishaned/learn-regex](https://i.imgur.com/LU8YWCr.png)
-![explain](https://i.imgur.com/18p2QsS.png)
+
+<img src="https://i.imgur.com/LU8YWCr.png" alt="https://github.com/ziishaned/learn-regex" alt="comic" width="400"/> 
+
+<img src="https://i.imgur.com/18p2QsS.png" alt="explain" alt="comic" width="400"/> 
+
 
 ## Exmaple 4: 
 
@@ -52,11 +58,12 @@ replace: my name used to be $1
 \b[\w.%+-]+@[\w.-]+\.[a-zA-Z]{2,6}\b
 ```
 
-![email](https://i.imgur.com/AU252cK.png)
+<img src="https://i.imgur.com/AU252cK.png" alt="email" alt="comic" width="400"/> 
 
-![visulization](https://i.imgur.com/Or3fSZr.png)
+<img src="https://i.imgur.com/Or3fSZr.png" alt="visualization" alt="comic" width="400"/> 
 
-![result](https://i.imgur.com/N1zuTw5.png)
+<img src="https://i.imgur.com/N1zuTw5.png" alt="result" alt="comic" width="400"/> 
+
 
 ## The best place to learn  
 ![](https://i.imgur.com/LiBnRGT.png)
