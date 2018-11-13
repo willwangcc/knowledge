@@ -16,31 +16,40 @@
 
 需要警惕的雷区(新鲜有趣无积累)：
 
-* 无线视频流, e.g. youtube, 微博视频
-* 无线信息流， e.g. 微博
+* 无线视频流， e.g. youtube, 微博短视频
+* 无线信息流， e.g. 微博(已被劣币逐良币) 
 
-## 人生浮标
+## Tools
 
 > Take care of your life & your life will take care of you. -- (Body,Mind,Relationship,Finance,Communication)
 
 解决问题的第一步，是认识到那里有一个问题。就像在大海，遇到危险，「浮标」可以立刻通知我们。那么人生之海的浮标是什么呢？ 
 
+<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/><img src="https://i.imgur.com/gPCuBTE.png" alt="workflowy" width="20"/>
+<img src="https://i.imgur.com/kLLtRlc.png" alt="drawing" width="20"/>
+<img src="https://i.imgur.com/8MyBvDP.png" alt="drawing" width="20"/>
+
+<img src="https://i.imgur.com/aX5ptpq.png" alt="workflowy" width="120"/>
+<img src="https://i.imgur.com/YdFO5vw.png" alt="workflowy" width="110"/>
+
+
+
 
 1. Health & Apple Watch: 睡眠，运动
 1. Github: 知识积累
-2. Workflowy: 时间的去向
+2. Workflowy: 时间的去向 
 3. BOA
   
 ## 流程
 
 刷牙一般的存在:
 
-* 早起：浅睡眠唤醒 -> 音乐 -> 刷牙 -> 出门
-* reivew系统
-* 排队: 掘金(信息流)
-* nap系统
-* 30mins提醒: 拉伸或冥想
-* 运动30mins 
+1. 早起：浅睡眠唤醒 -> 音乐 -> 刷牙 -> 出门
+1. reivew系统
+1. 排队: 掘金(信息流)
+1. nap系统
+1. 30mins提醒: 拉伸或冥想
+1. 运动30mins
   
 ## 警报响起时
 

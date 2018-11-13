@@ -7,7 +7,7 @@
 
 1. Review system: 如何获得过目不忘的能力？
 2. nap: 如何充电一刻钟，活力一下午？
-3. buoy: 如何
+3. buoy: 如何探测前路的雷区？
 
  
 ## Idea behind workflow 
