@@ -3,6 +3,10 @@
 
 > In the first 30 years of your life, you make your habits. For the last 30 years of your life, your habits make you. -- Steve Jobs
 
+## To do list 
+
+- [] 把书读薄，形成ppt笔记。
+
 ## List 
 
 1. Review: 如何获得过目不忘的能力？
@@ -24,5 +28,8 @@
 
 ## Book 
 
-*Deep Work: Rules for Focused Success in a Distracted World*: 主要讨论知识工作者如何重归深度工作的状态，创作不可被替代的价值。该书主要是**可操作的干货**，特别适合精读后实践。 -- [参考笔记](https://book.douban.com/review/8788631/)
+1. *Deep Work: Rules for Focused Success in a Distracted World*: 主要讨论知识工作者如何重归深度工作的状态，创作不可被替代的价值。该书主要是**可操作的干货**，特别适合精读后实践。 -- [参考笔记](https://book.douban.com/review/8788631/)
+2. *Your Brain at work:  Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long* : 秒杀一切时间管理书籍 from [笔记](https://book.douban.com/review/3727808/)
+
+
 
