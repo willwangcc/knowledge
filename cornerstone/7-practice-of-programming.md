@@ -1,5 +1,12 @@
 # The practice of programming 
 
+> Code is like humor. When you *have* to explain it, it’s bad. 
+> 
+> 代码就像笑话，如果你还要解释，那可太没劲了。
+> 
+> by [Cory House](https://twitter.com/housecor)
+
+
 
 ## Books 
 
