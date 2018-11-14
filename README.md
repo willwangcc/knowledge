@@ -1,4 +1,16 @@
-# A growing computer scientist 
+<h1 align="center">
+<br>
+  <a href="https://github.com/willwang-x/a-growing-cs"><img src="https://i.imgur.com/q8amTrs.png" alt="A growing computer scientist" width=200"></a>
+  <br>
+    <br>
+  A growing computer scientist
+  <br><br>
+</h1>
+
+
+
+
+#  
 
 
 > To check if you're flexible, you don't need a battery of tests. Just bend down and touch your toes. Was it effortless?
