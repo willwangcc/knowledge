@@ -7,3 +7,4 @@ Wow, 原来还可以这样！
 2. 当你有了观点的时候，你就有了敌人，你懂得越多，懂你的人必将越少。 -- 冷眼
 3. 只要人生有捷径，捷径很快就会变成唯一的路。 —— [陈铭](https://i.imgur.com/JAp0KZe.jpg) 
 4. “不要怕执行以后可以反悔的实验”，“很多Startup都会死，快做可能快死也可能成功，但是什么都不做一定会慢慢死掉。” -- Wish的CEO
+5. [Twitter 放宽字数限制一年后的效果](https://www.axios.com/a-year-after-tweets-doubled-in-size--brevity-still-rules-610efb0f-7799-4874-8d65-a0f3e807b310.html?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website) : 从140字放宽到280字：6%的tweet超过140字；缩写的使用减少了，完整单词的使用增多了；**please、thank you 等礼貌用语的使用增多了**；问号的使用增加了30%。
