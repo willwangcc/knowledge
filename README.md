@@ -27,6 +27,12 @@
 	* Cryptography
 * software engineering
 	* system design 
+* Concurrency 
+	* Concurrent computing 
+	* Parallel computing 
+	* Distributed computing 
+	* **Multithreading** 
+	* Multiprocessing 
 	
 ## Reference 
 - [learning anything about cs](https://learn-anything.xyz/computer-science)
