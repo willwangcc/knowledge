@@ -8,3 +8,5 @@ Wow, 原来还可以这样！
 3. 只要人生有捷径，捷径很快就会变成唯一的路。 —— [陈铭](https://i.imgur.com/JAp0KZe.jpg) 
 4. “不要怕执行以后可以反悔的实验”，“很多Startup都会死，快做可能快死也可能成功，但是什么都不做一定会慢慢死掉。” -- Wish的CEO
 5. [Twitter 放宽字数限制一年后的效果](https://www.axios.com/a-year-after-tweets-doubled-in-size--brevity-still-rules-610efb0f-7799-4874-8d65-a0f3e807b310.html?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website) : 从140字放宽到280字：6%的tweet超过140字；缩写的使用减少了，完整单词的使用增多了；**please、thank you 等礼貌用语的使用增多了**；问号的使用增加了30%。
+6. [Gerald Ratner: How to lose $1B in 10 seconds](https://thehustle.co/gerald-ratners-billion-dollar-speech) : 讲了一个笑话，然后丢掉了一个公司。Communication的重要性。
+7. [《住房不是一项好的投资》](·http://cityobservatory.org/housing-cant-be-affordable_and_be-a-good-investment/) : 房价不断上涨的前提是不断有新人加入，他们愿意并且能够支付越来越高的房价。房价上涨的本质是，年轻人愿意把自己的财富转移给老年人，当这些年轻人变老时，再有新的年轻人愿意给他们更多的钱。
