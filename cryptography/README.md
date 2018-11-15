@@ -1,9 +1,12 @@
 # cryptography
 
 
+
+
 ## Books  
 
-*[An Intensive Introduction to Cryptography](https://intensecrypto.org/public/index.html)*: 英文的开源电子书，介绍加密背后的数学知识，哈佛大学的本科生教材。
+* [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/index.html)*: 英文的开源电子书，介绍加密背后的数学知识，哈佛大学的本科生教材。
+* [密码学简明教程: Python例子](http://davidlowryduda.com/a-brief-notebook-on-cryptography/) : 本文回顾了加密发展的几个阶段，每个阶段都给出了 Python 的小例子。
 
 ## Course 
 
