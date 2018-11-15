@@ -8,6 +8,11 @@
 * **Multithreading** 
 * Multiprocessing 
 
+## To Read 
+
+* [一次HashSet引发的并发问题](https://juejin.im/post/5be37e2b51882516b9376d68) : Java 中 HashSet 不是线程安全的，换为 ConcurrentHashMap同时把 value 写死一样可以达到 set 的效果。HashMap 的死循环问题在网上层出不穷。
+* [SeaweedFS](https://github.com/chrislusf/seaweedfs) : SeaweedFS is a simple and highly scalable distributed file system. 
+
 ## Multithreading 
 
 <div align="center">
