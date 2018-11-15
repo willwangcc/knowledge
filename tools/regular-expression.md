@@ -26,6 +26,13 @@ output:
 "C",
 ```
 
+Solution:
+
+```
+Find: ^([A-Za-z]+)$ 
+Replace: "$1",
+```
+
 <img src="https://media.giphy.com/media/5tdhGCNkAyHbqlxVvR/giphy.gif" alt="regular expression trick: create a list" width="400"/> 
 
 <img src="https://i.imgur.com/J1mFmpv.png" alt="https://jex.im/regulex/" width="400"/> 
@@ -64,6 +71,23 @@ replace: my name used to be $1
 
 <img src="https://i.imgur.com/N1zuTw5.png" alt="result" alt="comic" width="400"/> 
 
+
+##  Example 5: 
+
+```
+Input: 
+Implicit, Explicit, Nominal, Structuring and Duck Typing
+== vs === vs typeof
+Output: 
+[ ] Implicit, Explicit, Nominal, Structuring and Duck Typing
+[ ] == vs === vs typeof
+```
+
+
+``` 
+Find: ^([\w ,=./]+\b)$
+Replace:  [ ] $1
+```
 
 ## The best place to learn  
 ![](https://i.imgur.com/LiBnRGT.png)
