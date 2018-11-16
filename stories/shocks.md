@@ -11,3 +11,11 @@ Wow, 原来还可以这样！
 6. [Gerald Ratner: How to lose $1B in 10 seconds](https://thehustle.co/gerald-ratners-billion-dollar-speech) : 讲了一个笑话，然后丢掉了一个公司。Communication的重要性。
 7. [《住房不是一项好的投资》](·http://cityobservatory.org/housing-cant-be-affordable_and_be-a-good-investment/) : 房价不断上涨的前提是不断有新人加入，他们愿意并且能够支付越来越高的房价。房价上涨的本质是，年轻人愿意把自己的财富转移给老年人，当这些年轻人变老时，再有新的年轻人愿意给他们更多的钱。
 8. 容忍会导致不在意，不在意会使我们失去生活的滋味。过度推崇容忍，会失去对生活的滋味。如日本。 from [蔡康永](https://i.imgur.com/sKTavua.jpg) https://i.imgur.com/sKTavua.jpg
+
+
+## Comunication 
+
+* 他一直在批评，而我在等待他对我的第一句赞美。 from [阮一峰](https://i.imgur.com/AtxhL4H.jpg)
+
+### 历史性打脸
+* 本世纪末，我们将在月球上为老人设立养老院。 -- [科幻小说家海因莱因1969](https://i.imgur.com/kDDXgkC.jpg)
