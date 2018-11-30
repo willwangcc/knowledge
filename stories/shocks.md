@@ -19,3 +19,7 @@ Wow, 原来还可以这样！
 
 ### 历史性打脸
 * 本世纪末，我们将在月球上为老人设立养老院。 -- [科幻小说家海因莱因1969](https://i.imgur.com/kDDXgkC.jpg)
+
+## 语不惊人死不休
+
+* What we do for others has a direct impact on how we feel about ourselves. [by Simon Sinek] 
