@@ -1,5 +1,11 @@
-# Workflow
-![habit](https://i.imgur.com/vTc9CKV.jpg)
+<h1 align="center">
+<br>
+  <a href="?"><img src="https://i.imgur.com/vTc9CKV.jpg" alt="workflow" width=200"></a>
+  <br>
+    <br>
+  workflow of my life
+  <br><br>
+</h1>
 
 > In the first 30 years of your life, you make your habits. For the last 30 years of your life, your habits make you. -- Steve Jobs
 
@@ -13,6 +19,8 @@
 2. Nap:   如何充电一刻钟，活力一下午？
 3. Buoy:   如何避免踏入雷区？
 4. Sleep:   如何愉快地度过人生的三分之一？
+5. Arrange: 如何愉快地度过一天？
+6. Focus: 如何雷厉风行地完成一件事情？
 
  
 ## Idea behind workflow 
