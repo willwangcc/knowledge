@@ -13,13 +13,6 @@ Wow, 原来还可以这样！
 8. 容忍会导致不在意，不在意会使我们失去生活的滋味。过度推崇容忍，会失去对生活的滋味。如日本。 from [蔡康永](https://i.imgur.com/sKTavua.jpg) https://i.imgur.com/sKTavua.jpg
 
 
-## Comunication 
-
-* 他一直在批评，而我在等待他对我的第一句赞美。 from [阮一峰](https://i.imgur.com/AtxhL4H.jpg)
-
 ### 历史性打脸
 * 本世纪末，我们将在月球上为老人设立养老院。 -- [科幻小说家海因莱因1969](https://i.imgur.com/kDDXgkC.jpg)
 
-## 语不惊人死不休
-
-* What we do for others has a direct impact on how we feel about ourselves. [by Simon Sinek] 
