@@ -18,3 +18,33 @@
 	- e.g. push的相关统计。push: 2, shove(push forcefully): 3; push about: 2; 
 4. 导出到[quizlet](https://quizlet.com/zh-cn )， 自动化处理，加速复习的方便。
  
+
+## 数据库设计
+
+### 技术选型
+
+**Solution 1: 原始方法 file.txt as hashtable** 
+
+```
+word1 count1
+word2 count2
+``` 
+
+读取 -> 建立HashTable:O(n) -> 使用:O(1) ->  回写: O(n)
+
+* 优点：实现方便
+* 缺点：
+	* 每次使用和会写都需要 O(n) where n = len(hash_table)
+	* 数据量大之后的本地hashtable不够用，拓展性差。
+
+
+**solution 2: MySQL** 
+
+* 优点：容易学 
+* 缺点：当一个key需要补充内容，拓展性差。
+
+**solution 3: NoSQL, e.g. MongoDB** 
+
+* 优点：灵活性高，便于之后加入新的条目。
+* 缺点：需要学习。
+ 
