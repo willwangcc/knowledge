@@ -78,6 +78,7 @@ def src2md(file):
 			for i in val:
 				line = lines_map[i]
 				index, timeline, chinese, english = line.split("\n")
+				english = english.replace(key, "<b>" + key + "</b>")
 				cur_table += "|" + index + "|" + timeline + "|" + chinese + "|" + english + "|" + "\n"
 			markdown += cur_table
 			markdown += "\n"
@@ -98,8 +99,8 @@ def src2md(file):
 	return markdown
 
 
-# file = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/modern-family/Modern.Family.S09E06.srt"
-# print(src2md(file))
+file = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/modern-family/Modern.Family.S09E06.srt"
+print(src2md(file))
 
 
 if __name__ == "__main__":

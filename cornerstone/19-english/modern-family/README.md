@@ -13,7 +13,7 @@
 	- 在后者，需要使用一个**数据库**来完成这些事情。
 	- 可能的要求：单词：出现此单词的句子
 3. [ ] 1368个过滤器，便于加深对1368个单词的深化理解
-	- [x] word + table(文中出现此单词的句子), [效果](https://i.imgur.com/LRbNEhl.png)
+	- [x] word + table(文中出现此单词的句子), [效果](https://i.imgur.com/xeqBKUm.jpg)
 	- e.g. push + push的说明 + 相关句子
 	- e.g. push的习语，以push为核心周边词汇。
 	- e.g. push的相关统计。push: 2, shove(push forcefully): 3; push about: 2; 
