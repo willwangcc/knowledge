@@ -18,6 +18,7 @@
 	- e.g. push的习语，以push为核心周边词汇。
 	- e.g. push的相关统计。push: 2, shove(push forcefully): 3; push about: 2; 
 4. 导出到[quizlet](https://quizlet.com/zh-cn )， 自动化处理，加速复习的方便。
+5. 生词本，统计未遇到的生词的，"word count"
  
 
 ## 数据库设计
