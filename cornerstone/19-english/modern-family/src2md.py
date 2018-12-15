@@ -1,7 +1,7 @@
 """
 src -> markdown 
 """
-script_path = "/Users/wangzhixiang/Desktop/Modern.Family.S09E04.srt"
+script_path = "/Users/wangzhixiang/Desktop/Modern.Family.S09E05.srt"
 name = script_path.split("/")[-1].strip(".srt")
 print(name)
 
