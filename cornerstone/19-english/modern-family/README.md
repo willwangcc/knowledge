@@ -14,11 +14,13 @@
 	- 可能的要求：单词：出现此单词的句子
 3. [ ] 1368个过滤器，便于加深对1368个单词的深化理解
 	- [x] word + table(文中出现此单词的句子), [效果](https://i.imgur.com/xeqBKUm.jpg)
+	- 有没有办法句型匹配？习语拼配。
 	- e.g. push + push的说明 + 相关句子
 	- e.g. push的习语，以push为核心周边词汇。
 	- e.g. push的相关统计。push: 2, shove(push forcefully): 3; push about: 2; 
 4. 导出到[quizlet](https://quizlet.com/zh-cn )， 自动化处理，加速复习的方便。
 5. 生词本，统计未遇到的生词的，"word count"
+6. 形成完成的《看美剧学英语》的学习流程，参考已有的经验分享。
  
 
 ## 数据库设计
