@@ -54,4 +54,4 @@ word2 count2
  
 ## 代码
 
- ![notes_generators](https://i.imgur.com/sfftsj5.png)
+ ![notes_generators](https://i.imgur.com/8WONLro.png)
