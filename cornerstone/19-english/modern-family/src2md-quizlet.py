@@ -26,11 +26,6 @@ def src2md(file):
 
 	markdown = "# " + name + "\n"
 
-	markdown += """
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-"""
-
 
 	lines = block[11:]
 	i = 0
@@ -45,17 +40,12 @@ def src2md(file):
 					a, b, c, d = g
 					chinese += " " + c 
 					english += " " + d
-			markdown += "|" + index + "|" + timeline + "|" + chinese + "|" + english + "|" + "\n"
+			markdown += "|" + index + "|" + chinese + "||" + english + "\n"
 		i += 1
-
+		
 	markdown += "\n"
 
-	authors = block[2:7]
-	for i in authors:
-		author = i.split("}")[-1]
-		markdown += "* " + author + "\n"
-
-	output_file_path = directory + "/" + name + ".md"
+	output_file_path = directory + "/" + "quizlet" + "-" + name + ".md"
 
 	with open(output_file_path, mode="w", encoding="utf-8") as f2:
 		f2.write(markdown)

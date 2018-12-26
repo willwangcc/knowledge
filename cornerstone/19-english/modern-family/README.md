@@ -4,9 +4,9 @@
 ## Todo 
 
 1. [x] 完成[src2md](https://gist.github.com/01f63bfaca2bfa32eb5288053235a7de#file-src2md-py): 字幕格式生成markdown格式，便于清晰的网页浏览，配合chrome插件[Readlang Web Reader
-	- [ ] 对markdown中的生词(知识点)进行高亮。 如 `知识点` 。
-	- [ ] 将同一句话进行合并。便于之后整句调取。  
-](https://chrome.google.com/webstore/detail/readlang-web-reader/odpdkefpnfejbfnmdilmfhephfffmfoh) 使用。 
+	- [x] 对markdown中的生词(知识点)进行高亮。 如 `知识点` 。
+	- [x] 将同一句话进行合并。便于之后整句调取。  
+	- [ ] 配合[Readlang](https://chrome.google.com/webstore/detail/readlang-web-reader/odpdkefpnfejbfnmdilmfhephfffmfoh) 使用。 
 2. [ ] 完成单词库的检查，即设计一个txt, 用来查找新的src中有没有生词。
 	- 本质是设计一个可“持久化”的hashmap
 	- 这个阶段只完成最最简单的单词, 格式如 `{magnate:2} `, 单词：遇到的次数。之后可以加入，词组，句型等。(知识点)
@@ -18,7 +18,7 @@
 	- e.g. push + push的说明 + 相关句子
 	- e.g. push的习语，以push为核心周边词汇。
 	- e.g. push的相关统计。push: 2, shove(push forcefully): 3; push about: 2; 
-4. 导出到[quizlet](https://quizlet.com/zh-cn )， 自动化处理，加速复习的方便。
+4. [x]导出到[quizlet](https://quizlet.com/zh-cn )， 自动化处理，加速复习的方便。 [效果](https://quizlet.com/353489683/flashcards)
 5. 生词本，统计未遇到的生词的，"word count"
 6. 形成完成的《看美剧学英语》的学习流程，参考已有的经验分享。
  
