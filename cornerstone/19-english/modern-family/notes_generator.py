@@ -41,6 +41,7 @@ class NOTE:
 
 		block = read_data.split("\n\n") 
 		return block, name, directory
+
 		 
 	def is_valid_group(self, group):
 		"""
@@ -50,12 +51,14 @@ class NOTE:
 		"""
 		return len(group) == 4
 
+
 	def clean(self, word):
 		"""
 		word: str
 		r: str 
 		"""
 		return word.strip('",!.?-').lower() 
+
 
 	def merge2sentence(self, content):
 		"""
@@ -79,6 +82,7 @@ class NOTE:
 			return True 
 		return False 
 
+
 	def is_word(self, word):
 		"""
 		word: str 
@@ -88,6 +92,7 @@ class NOTE:
 		if re.match(pattern, word) == None:
 			return False 
 		return True 
+
 
 	def src2lines_word(self, src):
 		"""
@@ -149,6 +154,7 @@ class NOTE:
 				base_words_set.add(word)
 		return base_words_set
 
+
 ###########
 	def txt2all_words_map(self, file):
 		"""
@@ -183,6 +189,7 @@ class NOTE:
 			cur_table += "|" + i + "|" + timeline + "|" + chinese + "|" + english + "|" + "\n"
 		return cur_table
 
+
 	def to1368md(self):
 		"""
 		"""
@@ -196,6 +203,7 @@ class NOTE:
 
 		with open(output_file_path, mode="w", encoding="utf-8") as f:
 			f.write(markdown)
+
 
 	def to_new_words_md(self):
 		"""
@@ -213,6 +221,7 @@ class NOTE:
 		with open(output_file_path, mode="w", encoding="utf-8") as f:
 			f.write(markdown)
 
+
 	def to_quizlet(self):
 		"""
 		"""
@@ -225,6 +234,7 @@ class NOTE:
 
 		with open(output_file_path, mode="w", encoding="utf-8") as f:
 			f.write(markdown)
+
 
 	def update_words_txt(self):
 		"""
@@ -253,11 +263,4 @@ if __name__ == "__main__":
     # args = parser.parse_args()
     # if args.file:
     # 	src2md(args.file[0])
-
-
-
-
-
-
-
 
