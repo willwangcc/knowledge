@@ -19,16 +19,21 @@ class NOTE:
 		self.output_name = None 
 		self.directory = None 
 		self.toefl_words_set = set()
+		self.sentence_map = {}
+		self.sentence_example = collections.defaultdict(list)
 
 		vocabulary_path = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/modern-family/vocabulary/"
 		base_txt = vocabulary_path + "1368-word-list.txt"
 		toefl_txt = vocabulary_path + "toefl.txt"
 		self.words_txt = vocabulary_path + "words.txt"
+		sentence_txt = vocabulary_path + "sentences-pattern.txt"
 
-		self.lines_map, self.words_map, self.output_name, self.directory = self.src2lines_word(src)
 		self.base_words_set = self.txt2base_word(base_txt)
 		self.toefl_words_set = self.txt2toefl_word(toefl_txt)
 		self.all_words_map = self.txt2all_words_map(self.words_txt)
+		self.sentence_map = self.txt2sentence_map(sentence_txt)
+		self.lines_map, self.words_map, self.output_name, self.directory = self.src2lines_word(src)
+
 
 		self.table_title = """
 | Number  | Timeline  | Chinese  | English  | 
@@ -145,8 +150,19 @@ class NOTE:
 			if self.is_end(english):
 				Chinese, English = self.merge2sentence(content)
 				lines_map[position[0]] = [position[1], Chinese, English]
+
+				# count example of sentence pattern
+				for pattern, notes in self.sentence_map.items():
+					# print(pattern, English)
+					# print()
+					p = re.compile(pattern)
+					if p.search(English):
+						print(pattern, notes, English)
+						self.sentence_example[notes[0]].append(position[0])  # number of pattern
+						print("pattern...")
 				position = []
 				content = []
+
 
 		return lines_map, words_map, name, directory
 
@@ -187,6 +203,7 @@ class NOTE:
 		r: all_words_map: {str:int}
 		"""
 		all_words_map = collections.defaultdict(int)
+
 		with open(file, encoding='utf-8') as f:
 			read_data = f.read()
 		word_list  = read_data.strip("").split("\n")
@@ -197,6 +214,29 @@ class NOTE:
 			a, b = word.split(" ")
 			all_words_map[a] = int(b)
 		return all_words_map
+
+	def txt2sentence_map(self, file):
+		"""
+		file: words.txt
+		r: all_words_map: {str:int}
+		"""
+		# print("txt2sentence_map...")
+		sentence_map = {}
+		with open(file, encoding='utf-8') as f:
+			read_data = f.read()
+		# print(read_data)
+		sentence_list  = read_data.strip("").split("\n")
+
+		# print(sentence_list)
+		for sentence in sentence_list:
+			group = sentence.split("||")
+			# print(group)
+			if len(group) == 5:
+				index, ex, pattern, note, count = [i.strip('" ') for i in group]
+				sentence_map[pattern] = [index, ex, note, int(count)]
+		# print(sentence_map)
+		return sentence_map
+
 
 # --------- init above -------------
 
@@ -280,7 +320,7 @@ class NOTE:
 	def to_new_words_md(self):
 		"""
 		"""
-		baseline = 14 # 42 
+		baseline = 15 # 42 
 		markdown = "# " + "New Words from " + self.output_name + "\n"
 		new_words = []
 		tables = ""
@@ -302,20 +342,6 @@ class NOTE:
 			f.write(markdown)
 
 
-	def to_quizlet(self):
-		"""
-		"""
-		markdown = "# " + "Quizlet " + self.output_name + "\n"
-		for key, val in self.lines_map.items():
-			_, chinese, english = val 
-			markdown += "|" + key + "|" + chinese + "||" + english + "\n"
-
-		output_file_path = self.directory + "/" + "quizlet" + "-" + self.output_name + ".md"
-
-		with open(output_file_path, mode="w", encoding="utf-8") as f:
-			f.write(markdown)
-
-
 	def update_words_txt(self):
 		"""
 		"""
@@ -329,13 +355,66 @@ class NOTE:
 		with open(output_file_path, mode="w", encoding="utf-8") as f:
 			f.write(content)		
 
+	def to_quizlet(self):
+		"""
+		"""
+		markdown = "# " + "Quizlet " + self.output_name + "\n"
+		for key, val in self.lines_map.items():
+			_, chinese, english = val 
+			markdown += "|" + key + "|" + chinese + "||" + english + "\n"
+
+		output_file_path = self.directory + "/" + "quizlet" + "-" + self.output_name + ".md"
+
+		with open(output_file_path, mode="w", encoding="utf-8") as f:
+			f.write(markdown)
+
+	def render_summary_of_sentence(self, new_sentences):
+		"""
+		new_sentences: str
+		"""
+		summary = "The number of selected sentences is " + str(len(new_sentences)) + "\n\n"
+
+		for sentence in new_sentences:
+			summary += "1. " + sentence + "\n"
+
+		return summary
+
+	def to_sentence(self):
+		"""
+		"""
+		baseline = 0 # 42 
+		markdown = "# " + "New pattern exmaple from " + self.output_name + "\n"
+		new_sentences = []
+		tables = ""
+
+		for _, notes in self.sentence_map.items():
+			pattern_index = notes[0]
+			if pattern_index in self.sentence_example and notes[-1] > baseline:
+				sentence = self.sentence_example[pattern_index]
+				word = notes[2] # to change, example + notes
+				cur_table = self.create_table(word, sentence) 
+				tables += cur_table + "\n"
+				new_sentences.append(word)
+
+				notes[-1] += len(sentence)
+
+		summary = self.render_summary_of_sentence(new_sentences) + "\n"
+		markdown += summary + tables 
+
+		output_file_path = self.directory + "/" + "new-sentences-" + self.output_name + ".md"
+
+		with open(output_file_path, mode="w", encoding="utf-8") as f:
+			f.write(markdown)
+
 
 if __name__ == "__main__":
-	file = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/modern-family/Fantastic.Beasts.The.Crimes.of.Grindelwald.srt"
+	file = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/modern-family/"
+	file += "Fleabag-S01E02.srt"
 	note = NOTE(file)
-	# note.to1368md()
+	note.to1368md()
+	note.to_sentence()
 	# note.to_quizlet( )
-	note.to_new_words_md()
+	# note.to_new_words_md()
 	# note.update_words_txt()
 
     # parser = argparse.ArgumentParser()

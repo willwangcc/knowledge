@@ -26,6 +26,14 @@
 	- [x] 增加词语的归属 模块, [效果](https://i.imgur.com/JRp4M4O.png)
 	- [ ] 增加词语的发音
  
+## Version 
+
+
+* 2018.12.29, 0.1
+	* [x] 初步更新了句型识别，导出到md。[句型笔记效果](https://i.imgur.com/VtskjJc.png) 
+	* [x] 生成 sentence-pattern.txt, 收到写入。需要改进。 
+	*  [ ] 优化代码结构，数据结构和算法，self.sentence_map, self.sentence_exmaple, to_sentence()
+
 
 ## 数据库设计
 

@@ -1,0 +1,2 @@
+"1" || "This is all the money I have in the world" || "((all\athe\s\w+\sI\s))" || "[知识点] + 定语从句" || "1"
+"2" || "If this is about us getting back together..." || "([i|I]f\sthis\sis\sabout)" || "如果这是因为..." || "1"
