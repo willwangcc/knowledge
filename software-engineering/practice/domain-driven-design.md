@@ -73,3 +73,4 @@
 * [如何评价评价领域驱动设计](https://www.zhihu.com/question/43554974)
 * [领域驱动架构（DDD）建模中的模型到底是什么？](https://www.zhihu.com/question/25089273)
 * [领域驱动设计在互联网业务开发中的实践](https://zhuanlan.zhihu.com/p/30877742)
+* [Software development practice： Domain Storytelling  Domain-Driven Design ](http://www.domainstorytelling.org/)
