@@ -29,7 +29,7 @@
 <img src="https://i.imgur.com/kLLtRlc.png" alt="drawing" width="20"/>
 <img src="https://i.imgur.com/8MyBvDP.png" alt="drawing" width="20"/>
 
-<img src="https://i.imgur.com/aX5ptpq.png" alt="workflowy" width="120"/>
+<img src="https://i.imgur.com/aX5ptpq.png" alt="github" width="120"/>
 <img src="https://i.imgur.com/YdFO5vw.png" alt="workflowy" width="110"/>
 
 
