@@ -7,11 +7,11 @@
 	- [x] 对markdown中的生词(知识点)进行高亮。 如 `知识点` 。
 	- [x] 将同一句话进行合并。便于之后整句调取。  
 	- [ ] 配合[Readlang](https://chrome.google.com/webstore/detail/readlang-web-reader/odpdkefpnfejbfnmdilmfhephfffmfoh) 使用。 
-2. [x] 完成单词库的检查，即设计一个txt, 用来查找新的src中有没有生词。
+2. [x] 完成单词库的**检查**，即设计一个txt, 用来查找新的src中有没有生词。
 	- 本质是设计一个可“持久化”的hashmap
-	- [ ] 这个阶段只完成最最简单的单词, 格式如 `{magnate:2} `, 单词：遇到的次数。之后可以加入，词组，句型等。(知识点)
+	- [x] 这个阶段只完成最最简单的单词, 格式如 `{magnate:2} `, 单词：遇到的次数。之后可以加入，词组，句型等。(知识点)
 	- [ ] 在后者，需要使用一个**数据库**来完成这些事情。
-	- [ ] 可能的要求：单词：出现此单词的句子
+	- [x] 可能的要求：单词：出现此单词的句子
 3. [ ] 1368个过滤器，便于加深对1368个单词的深化理解
 	- [x] word + table(文中出现此单词的句子), [效果](https://i.imgur.com/xeqBKUm.jpg)
 	- 有没有办法句型匹配？习语拼配。
@@ -27,12 +27,19 @@
 	- [x] 增加词语的发音
 8. 影像截图: get_screenshot(timestamp, video) -> xxx.png
 	- [x] 找到了解决方案: [ffmpeg](https://www.ffmpeg.org/about.html)(生成图片) + [imgur](https://imgur.com/)(上传图片得到链接)  
+9. [ ] 生词的需求
+	- [x] 发音
+	- [ ] 词根
+10. [ ] 句型的需求
+	- [ ] 句型库: 使用 numbers 来记录？ 或者用mysql 
+	- [ ] 句型笔记
+	- [ ] 剧中的句型加粗
  
 ## Version 
 
 * 2018.12.29 之前
 	* 完成 base_word, new_word, quizlet markdown 的生词，[2018.12.28-结构图](https://i.imgur.com/8WONLro.png) 
-* 2018.12.29, 0.1
+* 2018.12.29
 	* [x] 初步更新了句型识别，导出到md。[句型笔记效果](https://i.imgur.com/VtskjJc.png) 
 	* [x] 生成 sentence-pattern.txt, 收到写入。需要改进。 
 	*  [ ] 优化代码结构，数据结构和算法，self.sentence_map, self.sentence_exmaple, to_sentence()
