@@ -8,6 +8,8 @@ IPA transcription:
 import argparse
 import collections 
 import re
+import eng_to_ipa as ipa
+
 
 class NOTE:
 
@@ -157,9 +159,9 @@ class NOTE:
 					# print()
 					p = re.compile(pattern)
 					if p.search(English):
-						print(pattern, notes, English)
+						# print(pattern, notes, English)
 						self.sentence_example[notes[0]].append(position[0])  # number of pattern
-						print("pattern...")
+						# print("pattern...")
 				position = []
 				content = []
 
@@ -247,12 +249,22 @@ class NOTE:
 		r: cur_table: str 
 		"""
 		count = 2
-		is_toefl = ""
+
+		is_toefl = ""	
 		if word in self.toefl_words_set:
 			is_toefl = "#托福"
-		cur_table = "## " + word + "  " + str(self.all_words_map[word]) + " " 
-		cur_table += '<span align="right">' + is_toefl + "</span>" + "\n" # correct later
+	
+		pronounce = ipa.convert(word)
+		
+		word_notes = "* [" + pronounce + "] " + "\n"
+		word_notes += "* " + str(self.all_words_map[word]) + "+"+ "\n"
+		word_notes += "* " + is_toefl
+
+		cur_table = "## " + word + "\n"
+		cur_table += word_notes + "\n"
 		cur_table += self.table_title
+
+
 		for i, sen in enumerate(sentence):
 			if i > count:
 				break 
@@ -409,10 +421,10 @@ class NOTE:
 
 if __name__ == "__main__":
 	file = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/modern-family/"
-	file += "Fleabag-S01E02.srt"
+	file += "How.I.Met.Your.Mother.S01E01.srt"
 	note = NOTE(file)
 	note.to1368md()
-	note.to_sentence()
+	# note.to_sentence()
 	# note.to_quizlet( )
 	# note.to_new_words_md()
 	# note.update_words_txt()

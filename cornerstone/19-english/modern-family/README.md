@@ -21,18 +21,23 @@
 4. [x]导出到[quizlet](https://quizlet.com/zh-cn )， 自动化处理，加速复习的方便。 [效果](https://quizlet.com/353489683/flashcards)
 5. [x] 生词本，统计未遇到的生词的，"word count"
 6. 形成完成的《看美剧学英语》的学习流程，参考已有的经验分享。
-7. [] 优化笔记本
+7. [x] 优化笔记本
 	- [x] 增加summary 模块， [效果](https://i.imgur.com/HDeF9LR.png)
 	- [x] 增加词语的归属 模块, [效果](https://i.imgur.com/JRp4M4O.png)
-	- [ ] 增加词语的发音
+	- [x] 增加词语的发音
+8. 影像截图: get_screenshot(timestamp, video) -> xxx.png
+	- [x] 找到了解决方案: [ffmpeg](https://www.ffmpeg.org/about.html)(生成图片) + [imgur](https://imgur.com/)(上传图片得到链接)  
  
 ## Version 
 
-
+* 2018.12.29 之前
+	* 完成 base_word, new_word, quizlet markdown 的生词，[2018.12.28-结构图](https://i.imgur.com/8WONLro.png) 
 * 2018.12.29, 0.1
 	* [x] 初步更新了句型识别，导出到md。[句型笔记效果](https://i.imgur.com/VtskjJc.png) 
 	* [x] 生成 sentence-pattern.txt, 收到写入。需要改进。 
 	*  [ ] 优化代码结构，数据结构和算法，self.sentence_map, self.sentence_exmaple, to_sentence()
+* 2019.01.02
+	* [x] 增加词语的音标，来源[English-to-IPA](https://github.com/mphilli/English-to-IPA), [20190102-发音效果](https://i.imgur.com/hGxrl6P.png)
 
 
 ## 数据库设计
@@ -67,3 +72,11 @@ word2 count2
 ## 代码
 
  ![notes_generators](https://i.imgur.com/8WONLro.png)
+ 
+## Reference 
+
+* [English-to-IPA](https://github.com/mphilli/English-to-IPA)
+* NLTK 
+* [FFmpeg](https://www.ffmpeg.org/): A complete, cross-platform solution to record, convert and stream audio and video.
+  
+ 
