@@ -26,3 +26,6 @@ output:
 
 * [FFmpeg的使用](https://www.jianshu.com/p/7ed3be01228b)
 * [FFmpeg official website](https://www.ffmpeg.org/)
+* [Read and Write Video Frames in Python Using FFMPEG](http://zulko.github.io/blog/2013/09/27/read-and-write-video-frames-in-python-using-ffmpeg/)
+* [Python bindings for FFmpeg - with complex filtering support](https://github.com/kkroening/ffmpeg-python)
+* 

@@ -27,6 +27,7 @@
 	- [x] 增加词语的发音
 8. 影像截图: get_screenshot(timestamp, video) -> xxx.png
 	- [x] 找到了解决方案: [ffmpeg](https://www.ffmpeg.org/about.html)(生成图片) + [imgur](https://imgur.com/)(上传图片得到链接)  
+	- [ ] 优化批量上传图片问题，并有效显示在markdown中。
 9. [ ] 生词的需求
 	- [x] 发音
 	- [ ] 词根, 转换欧陆中的词典？
@@ -45,7 +46,8 @@
 	*  [ ] 优化代码结构，数据结构和算法，self.sentence_map, self.sentence_exmaple, to_sentence()
 * 2019.01.02
 	* [x] 增加词语的音标，来源[English-to-IPA](https://github.com/mphilli/English-to-IPA), [20190102-发音效果](https://i.imgur.com/hGxrl6P.png)
-
+* 2019.01.03
+	* [x] 增加视屏截图 by ffmpeg + imgur, [20190103-截图效果](https://imgur.com/2RYzJfQ.jpg)
 
 ## 数据库设计
 
@@ -86,4 +88,3 @@ word2 count2
 * NLTK 
 * [FFmpeg](https://www.ffmpeg.org/): A complete, cross-platform solution to record, convert and stream audio and video.
   
- 

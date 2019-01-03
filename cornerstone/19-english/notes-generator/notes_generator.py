@@ -9,11 +9,17 @@ import argparse
 import collections 
 import re
 import eng_to_ipa as ipa
+import subprocess 
+"""
+upload_imgur 
+ffmpeg 
+"""
 
 
 class NOTE:
 
 	def __init__(self, src):
+		self.src = src 
 		self.lines_map = {} #  index: [timeline, chinese, english]
 		self.words_map = {} #  word: set(index1, index2)
 		self.base_words_set = set()
@@ -23,8 +29,9 @@ class NOTE:
 		self.toefl_words_set = set()
 		self.sentence_map = {}
 		self.sentence_example = collections.defaultdict(list)
+		self.pics = {}  # sentence_index: pic_link
 
-		vocabulary_path = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/modern-family/vocabulary/"
+		vocabulary_path = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/notes-generator/vocabulary/"
 		base_txt = vocabulary_path + "1368-word-list.txt"
 		toefl_txt = vocabulary_path + "toefl.txt"
 		self.words_txt = vocabulary_path + "words.txt"
@@ -261,7 +268,35 @@ class NOTE:
 		word_notes += "* " + is_toefl
 
 		cur_table = "## " + word + "\n"
-		cur_table += word_notes + "\n"
+		cur_table += word_notes + "\n\n"
+		
+
+		if "How.I.Met.Your.Mother" in self.src: 
+			# timeline: 00:14:50,790 --> 00:14:53,757
+			sen = next(iter(sentence))
+
+			timeline, chinese, english = self.lines_map[sen]
+			# print(timeline)
+
+			if sen in self.pics:
+				link = self.pics[sen]
+			else:
+				left = timeline.split("-->")[0].strip("")
+				start_time = left.split(",")[0].strip("")
+				pic = sen + '.jpg'
+				video = 'How.I.Met.Your.Mother.-.1x02.-.Purple.Giraffe.rmvb'
+				create_pic = 'ffmpeg -ss ' + start_time + ' -i ' + video + ' -vframes 1 -q:v 2 ' + pic
+				upload_imgur = '/Users/wangzhixiang/.nvm/versions/node/v11.2.0/bin/imgur-upload ' + pic 
+				subprocess.Popen(create_pic, shell=True, stdout=subprocess.PIPE).stdout.read()
+				link = subprocess.Popen(upload_imgur, shell=True, stdout=subprocess.PIPE).stdout.read()
+				# output: b'http://imgur.com/zjSIQ83\n'
+				link = str(link).lstrip("b'").rstrip("\\n'")
+			
+			self.pics[sen] = link
+			screenshot = "![" + sen + "]("+ link +")"
+			cur_table += screenshot + "\n\n"
+
+
 		cur_table += self.table_title
 
 
@@ -332,7 +367,7 @@ class NOTE:
 	def to_new_words_md(self):
 		"""
 		"""
-		baseline = 15 # 42 
+		baseline = 7 # 42 
 		markdown = "# " + "New Words from " + self.output_name + "\n"
 		new_words = []
 		tables = ""
@@ -420,13 +455,14 @@ class NOTE:
 
 
 if __name__ == "__main__":
-	file = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/modern-family/"
-	file += "How.I.Met.Your.Mother.S01E01.srt"
+	file = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/notes-generator/sources/"
+	file += "How.I.Met.Your.Mother/"
+	file += "How.I.Met.Your.Mother.S01E02.srt"
 	note = NOTE(file)
-	note.to1368md()
+	# note.to1368md()
 	# note.to_sentence()
 	# note.to_quizlet( )
-	# note.to_new_words_md()
+	note.to_new_words_md()
 	# note.update_words_txt()
 
     # parser = argparse.ArgumentParser()
