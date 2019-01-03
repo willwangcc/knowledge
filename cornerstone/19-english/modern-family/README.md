@@ -29,7 +29,7 @@
 	- [x] 找到了解决方案: [ffmpeg](https://www.ffmpeg.org/about.html)(生成图片) + [imgur](https://imgur.com/)(上传图片得到链接)  
 9. [ ] 生词的需求
 	- [x] 发音
-	- [ ] 词根
+	- [ ] 词根, 转换欧陆中的词典？
 10. [ ] 句型的需求
 	- [ ] 句型库: 使用 numbers 来记录？ 或者用mysql 
 	- [ ] 句型笔记
