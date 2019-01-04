@@ -36,7 +36,7 @@
 	- [ ] 句型笔记
 	- [ ] 剧中的句型加粗
  
-## Version 
+## Log 
 
 * 2018.12.29 之前
 	* 完成 base_word, new_word, quizlet markdown 的生词，[2018.12.28-结构图](https://i.imgur.com/8WONLro.png) 
