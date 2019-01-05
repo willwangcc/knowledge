@@ -436,7 +436,7 @@ class NOTE:
 
 		for _, notes in self.sentence_map.items():
 			pattern_index = notes[0]
-			if pattern_index in self.sentence_example and notes[-1] > baseline:
+			if pattern_index in self.sentence_example and notes[-1] < baseline:
 				sentence = self.sentence_example[pattern_index]
 				word = notes[2] # to change, example + notes
 				cur_table = self.create_table(word, sentence) 
@@ -456,13 +456,16 @@ class NOTE:
 
 if __name__ == "__main__":
 	file = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/notes-generator/sources/"
-	file += "How.I.Met.Your.Mother/"
-	file += "How.I.Met.Your.Mother.S01E02.srt"
+	# file += "How.I.Met.Your.Mother/"
+	# file += "How.I.Met.Your.Mother.S01E02.srt"
+
+	file += "movies/"
+	file += "Bird.Box.srt"
 	note = NOTE(file)
-	# note.to1368md()
+	note.to1368md()
 	# note.to_sentence()
 	# note.to_quizlet( )
-	note.to_new_words_md()
+	# note.to_new_words_md()
 	# note.update_words_txt()
 
     # parser = argparse.ArgumentParser()
