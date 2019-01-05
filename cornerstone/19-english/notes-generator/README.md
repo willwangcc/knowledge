@@ -48,6 +48,8 @@
 	* [x] 增加词语的音标，来源[English-to-IPA](https://github.com/mphilli/English-to-IPA), [20190102-发音效果](https://i.imgur.com/hGxrl6P.png)
 * 2019.01.03
 	* [x] 增加视屏截图 by ffmpeg + imgur, [20190103-截图效果](https://imgur.com/2RYzJfQ.jpg)
+* 2019.01.05
+	* [x] updated `is_word` function, [20190105-code](https://repl.it/@WillWang42/isword) 
 
 ## 数据库设计
 

@@ -103,7 +103,7 @@ class NOTE:
 		english: str
 		r: Boolean
 		"""
-		if english[-1] in (".", "!", "?"):
+		if english and english[-1] in (".", "!", "?"):
 			return True 
 		return False 
 
@@ -113,11 +113,10 @@ class NOTE:
 		word: str 
 		r: Boolean
 		"""
-		pattern = r'[a-zA-Z-\']+'
-		if re.match(pattern, word) == None:
+		pattern_right = r'[a-zA-Z]+[-\']?[a-zA-Z]+'
+		if re.fullmatch(pattern_right, word) == None:
 			return False 
 		return True 
-
 
 	def src2lines_word(self, src):
 		"""
@@ -271,30 +270,30 @@ class NOTE:
 		cur_table += word_notes + "\n\n"
 		
 
-		if "How.I.Met.Your.Mother" in self.src: 
-			# timeline: 00:14:50,790 --> 00:14:53,757
-			sen = next(iter(sentence))
+		# if "How.I.Met.Your.Mother" in self.src: 
+		# 	# timeline: 00:14:50,790 --> 00:14:53,757
+		# 	sen = next(iter(sentence))
 
-			timeline, chinese, english = self.lines_map[sen]
-			# print(timeline)
+		# 	timeline, chinese, english = self.lines_map[sen]
+		# 	# print(timeline)
 
-			if sen in self.pics:
-				link = self.pics[sen]
-			else:
-				left = timeline.split("-->")[0].strip("")
-				start_time = left.split(",")[0].strip("")
-				pic = sen + '.jpg'
-				video = 'How.I.Met.Your.Mother.-.1x02.-.Purple.Giraffe.rmvb'
-				create_pic = 'ffmpeg -ss ' + start_time + ' -i ' + video + ' -vframes 1 -q:v 2 ' + pic
-				upload_imgur = '/Users/wangzhixiang/.nvm/versions/node/v11.2.0/bin/imgur-upload ' + pic 
-				subprocess.Popen(create_pic, shell=True, stdout=subprocess.PIPE).stdout.read()
-				link = subprocess.Popen(upload_imgur, shell=True, stdout=subprocess.PIPE).stdout.read()
-				# output: b'http://imgur.com/zjSIQ83\n'
-				link = str(link).lstrip("b'").rstrip("\\n'")
+		# 	if sen in self.pics:
+		# 		link = self.pics[sen]
+		# 	else:
+		# 		left = timeline.split("-->")[0].strip("")
+		# 		start_time = left.split(",")[0].strip("")
+		# 		pic = sen + '.jpg'
+		# 		video = 'How.I.Met.Your.Mother.-.1x02.-.Purple.Giraffe.rmvb'
+		# 		create_pic = 'ffmpeg -ss ' + start_time + ' -i ' + video + ' -vframes 1 -q:v 2 ' + pic
+		# 		upload_imgur = '/Users/wangzhixiang/.nvm/versions/node/v11.2.0/bin/imgur-upload ' + pic 
+		# 		subprocess.Popen(create_pic, shell=True, stdout=subprocess.PIPE).stdout.read()
+		# 		link = subprocess.Popen(upload_imgur, shell=True, stdout=subprocess.PIPE).stdout.read()
+		# 		# output: b'http://imgur.com/zjSIQ83\n'
+		# 		link = str(link).lstrip("b'").rstrip("\\n'")
 			
-			self.pics[sen] = link
-			screenshot = "![" + sen + "]("+ link +")"
-			cur_table += screenshot + "\n\n"
+		# 	self.pics[sen] = link
+		# 	screenshot = "![" + sen + "]("+ link +")"
+		# 	cur_table += screenshot + "\n\n"
 
 
 		cur_table += self.table_title
@@ -456,17 +455,17 @@ class NOTE:
 
 if __name__ == "__main__":
 	file = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/notes-generator/sources/"
-	# file += "How.I.Met.Your.Mother/"
-	# file += "How.I.Met.Your.Mother.S01E02.srt"
+	file += "How.I.Met.Your.Mother/"
+	file += "How.I.Met.Your.Mother.S01E03.srt"
 
-	file += "movies/"
-	file += "Bird.Box.srt"
+	# file += "movies/"
+	# file += "Bird.Box.srt"
 	note = NOTE(file)
-	note.to1368md()
+	# note.to1368md()
 	# note.to_sentence()
 	# note.to_quizlet( )
-	# note.to_new_words_md()
-	# note.update_words_txt()
+	note.to_new_words_md()
+	note.update_words_txt()
 
     # parser = argparse.ArgumentParser()
     # parser.add_argument("-f", "--file", nargs = 1, help="src to markdown")

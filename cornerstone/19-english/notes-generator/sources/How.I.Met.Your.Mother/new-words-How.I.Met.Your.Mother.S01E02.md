@@ -1,48 +1,44 @@
 # New Words from How.I.Met.Your.Mother.S01E02
-The number of selected words is 162
+The number of selected words is 150
 
 |row\column|1|2|3|4|5|
 | :--------| :--------| :--------| :--------| :--------| :--------| 
 |1|'hey,nice|'let's|'next|'the|'wanna|
 |2|'well|abstract|acquired|affectionate|afford|
-|3|anybody|appetite|april|architecture|armanda|
-|4|arrange|ass|ate|bill|bladders|
-|5|blew|bone|boundaries|briefly|bumped|
-|6|bye|call'have|calling's|cans|careers|
-|7|catch|chant|charming|chatting|click|
-|8|cloud|coaster|concept|constitution|continues|
-|9|conversation|cuddling|dannis|dazzle|decided|
-|10|disarster|disturbed|dork|drafting|drive|
-|11|dude|eagerly|encounter|etc|etc.'|
-|12|excruciating|fact|feeling:|finally|flapper|
-|13|fool|fresh|friday'|friday?-we|hanging|
-|14|happily-ever-after|heading|here?'|hi.hi|home.'|
-|15|incredible|insincere|invite|inviter|inviting|
-|16|it!-what|jackass.'|jeopardizing|knocks|leg|
-|17|like,"keep|loss|lots|luckiest|meredith|
-|18|modification|monday|monkey|moon|mushroom|
-|19|odds|ombre|one'|onion|plate|
-|20|platter|practice.'|pursuit|quickest|rap|
-|21|razzle|recipe|recognized|relapse|repeat|
-|22|robin's|robin?-hey|roll|roof.'|roof?'|
-|23|ruffith|sailor|schedule|seems|shimmering|
-|24|shopping|skylight|slightly|smoking|soccer|
-|25|solid|spill|sponsor|sports|spun|
-|26|squeaked|stalker|stars|station|statistic|
-|27|steps|stuffed|style..-that's|sunday|supermarket|
-|28|sweaty|swing|swinging|table|target|
-|29|ted.'-oh|ted.-yeah|ted?'|third|three-dayer|
-|30|throws|tough|town|toy|toys|
-|31|trabowski|trifecta|truffith|two-day|two-dayer|
-|32|unbelievable|underwear|underwear.-not|waited|wanned|
-|33|worked-with-carlos|writing||||
+|3|appetite|april|architecture|armanda|arrange|
+|4|ass|ate|bill|bladders|blew|
+|5|bone|boundaries|briefly|bumped|bye|
+|6|call'have|calling's|cans|careers|catch|
+|7|chant|charming|chatting|click|cloud|
+|8|coaster|constitution|continues|conversation|cuddling|
+|9|dannis|dazzle|decided|disarster|disturbed|
+|10|dork|drafting|dude|eagerly|etc|
+|11|etc.'|excruciating|fact|feeling:|flapper|
+|12|fool|fresh|friday'|friday?-we|hanging|
+|13|happily-ever-after|heading|here?'|hi.hi|home.'|
+|14|incredible|insincere|invite|inviter|inviting|
+|15|it!-what|jackass.'|jeopardizing|knocks|leg|
+|16|like,"keep|luckiest|meredith|modification|monday|
+|17|monkey|moon|mushroom|odds|ombre|
+|18|one'|onion|plate|platter|practice.'|
+|19|pursuit|quickest|rap|razzle|recipe|
+|20|recognized|relapse|repeat|robin's|robin?-hey|
+|21|roll|roof.'|roof?'|ruffith|sailor|
+|22|schedule|shimmering|skylight|slightly|smoking|
+|23|solid|spill|sponsor|sports|spun|
+|24|squeaked|stalker|stars|station|statistic|
+|25|steps|stuffed|style..-that's|sunday|sweaty|
+|26|swing|swinging|table|target|ted.'-oh|
+|27|ted.-yeah|ted?'|three-dayer|throws|tough|
+|28|town|toy|toys|trabowski|trifecta|
+|29|truffith|two-day|two-dayer|unbelievable|underwear|
+|30|underwear.-not|waited|wanned|worked-with-carlos|writing|
 
 ## excruciating
 * [ɪkˈskruʃiˌetɪŋ] 
 * 6+
 * 
 
-![5](https://imgur.com/YOGh33g)
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -52,7 +48,7 @@ The number of selected words is 162
 * [ˌɪnˈkrɛdəbəl] 
 * 6+
 * #托福
-![11](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -62,7 +58,7 @@ The number of selected words is 162
 * [tɛd?'] 
 * 6+
 * 
-![14](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -72,7 +68,7 @@ The number of selected words is 162
 * [ful] 
 * 6+
 * 
-![27](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -82,7 +78,7 @@ The number of selected words is 162
 * [ˌdɪˈsaɪdɪd] 
 * 6+
 * 
-![28](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -92,7 +88,7 @@ The number of selected words is 162
 * [ˈbrifli] 
 * 6+
 * 
-![32](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -102,27 +98,17 @@ The number of selected words is 162
 * [ˈæbˌstrækt] 
 * 6+
 * #托福
-![32](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |32|00:01:06,830 --> 00:01:10,015|我只是爱上了“结婚”这个抽象概念 |I was briefly in love with the <b>abstract</b> concept of getting married. |
 
-## concept
-* [ˈkɑnsɛpt] 
-* 6+
-* #托福
-![32](http://imgur.com/undefined\n)
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|32|00:01:06,830 --> 00:01:10,015|我只是爱上了“结婚”这个抽象概念 |I was briefly in love with the abstract <b>concept</b> of getting married. |
-
 ## robin?-hey
 * [robin?-hey*] 
 * 6+
 * 
-![34](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -132,7 +118,7 @@ The number of selected words is 162
 * [ˈrɛkəgˌnaɪzd] 
 * 6+
 * 
-![38](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -143,7 +129,6 @@ The number of selected words is 162
 * 6+
 * 
 
-![40](https://imgur.com/k5KhM4z.jpg)
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -153,7 +138,7 @@ The number of selected words is 162
 * [ˈsteʃən] 
 * 6+
 * 
-![42](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -163,7 +148,7 @@ The number of selected words is 162
 * [ted.-yeah*] 
 * 6+
 * 
-![44](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -173,7 +158,7 @@ The number of selected words is 162
 * [it!-what*] 
 * 6+
 * 
-![45](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -183,7 +168,7 @@ The number of selected words is 162
 * [ˈspɑnsər] 
 * 6+
 * 
-![48](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -193,7 +178,7 @@ The number of selected words is 162
 * [riˈlæps] 
 * 6+
 * 
-![48](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -203,7 +188,7 @@ The number of selected words is 162
 * [blu] 
 * 6+
 * 
-![48](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -213,7 +198,7 @@ The number of selected words is 162
 * [ˈfilɪŋ:] 
 * 6+
 * 
-![51](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -223,7 +208,7 @@ The number of selected words is 162
 * [skwikt] 
 * 6+
 * 
-![52](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -233,27 +218,17 @@ The number of selected words is 162
 * [spɪl] 
 * 6+
 * #托福
-![54](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |54|00:01:52,268 --> 00:01:53,761|说出来吧，告诉我！ |Come on! Spill it. |
 
-## lots
-* [lɑts] 
-* 6+
-* 
-![60](http://imgur.com/undefined\n)
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|60|00:02:03,183 --> 00:02:05,760|别的男性都常例，而我是“例外” |Lots of guys are something. I'm something else. |
-
 ## charming
 * [ˈʧɑrmɪŋ] 
 * 6+
 * 
-![64](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -263,7 +238,7 @@ The number of selected words is 162
 * [ˈflæpər] 
 * 6+
 * 
-![68](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -273,7 +248,7 @@ The number of selected words is 162
 * [əˈfɔrd] 
 * 6+
 * #托福
-![68](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -283,7 +258,7 @@ The number of selected words is 162
 * [nɑks] 
 * 6+
 * 
-![68](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -293,7 +268,7 @@ The number of selected words is 162
 * [ˈməʃrum] 
 * 6+
 * #托福
-![72](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -303,7 +278,7 @@ The number of selected words is 162
 * [klaʊd] 
 * 6+
 * 
-![72](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -313,7 +288,7 @@ The number of selected words is 162
 * [happily-ever-after*] 
 * 6+
 * 
-![74](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -323,7 +298,7 @@ The number of selected words is 162
 * [ˌɪnˈvaɪt] 
 * 6+
 * 
-![85](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -333,7 +308,7 @@ The number of selected words is 162
 * [friday?-we*] 
 * 6+
 * 
-![86](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -343,7 +318,7 @@ The number of selected words is 162
 * [ˌɪnˈvaɪtɪŋ] 
 * 6+
 * #托福
-![88](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -353,7 +328,7 @@ The number of selected words is 162
 * [lɛg] 
 * 6+
 * 
-![89](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -363,7 +338,7 @@ The number of selected words is 162
 * [ˈwetɪd] 
 * 6+
 * 
-![90](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -373,7 +348,7 @@ The number of selected words is 162
 * [calling's*] 
 * 6+
 * 
-![93](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -383,7 +358,7 @@ The number of selected words is 162
 * [bəmpt] 
 * 6+
 * 
-![93](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -393,7 +368,7 @@ The number of selected words is 162
 * [ˈskɛʤʊl] 
 * 6+
 * #托福
-![94](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -403,27 +378,17 @@ The number of selected words is 162
 * [ərenʤ] 
 * 6+
 * #托福
-![94](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |94|00:03:23,560 --> 00:03:26,209|真希望我有她行程表,我就能安排一次偶然的邂逅了 |If only I knew her schedule I could <b>arrange</b> a chance encounter. |
 
-## encounter
-* [ɪnˈkaʊnər] 
-* 6+
-* #托福
-![94](http://imgur.com/undefined\n)
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|94|00:03:23,560 --> 00:03:26,209|真希望我有她行程表,我就能安排一次偶然的邂逅了 |If only I knew her schedule I could arrange a chance <b>encounter</b>. |
-
 ## stalker
 * [ˈstɔkər] 
 * 6+
 * 
-![95](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -433,7 +398,7 @@ The number of selected words is 162
 * [əˈfɛkʃənət] 
 * 6+
 * #托福
-![97](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -443,7 +408,7 @@ The number of selected words is 162
 * [ˌkɑnstəˈtuʃən] 
 * 6+
 * #托福
-![100](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -453,7 +418,7 @@ The number of selected words is 162
 * [ˈmənˌde] 
 * 6+
 * 
-![100](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -463,7 +428,7 @@ The number of selected words is 162
 * [ˈəndərˌwɛr] 
 * 6+
 * 
-![108](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -473,7 +438,7 @@ The number of selected words is 162
 * [underwear.-not*] 
 * 6+
 * 
-![111](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -483,7 +448,7 @@ The number of selected words is 162
 * [sˈlaɪtli] 
 * 6+
 * #托福
-![111](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -493,7 +458,7 @@ The number of selected words is 162
 * [ˈbaʊndəriz] 
 * 6+
 * 
-![113](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -503,7 +468,7 @@ The number of selected words is 162
 * [bɪl] 
 * 6+
 * #托福
-![115](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -513,7 +478,7 @@ The number of selected words is 162
 * [ˈræzəl] 
 * 6+
 * 
-![116](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -523,17 +488,7 @@ The number of selected words is 162
 * [ˈdæzəl] 
 * 6+
 * 
-![116](http://imgur.com/undefined\n)
 
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|116|00:04:20,092 --> 00:04:24,126|我现在在Colombus大街75号abcrazzle dazzle超市为您报道 |I'm reporting from the Razzle Dazzle Supermarket on 75th in Colombus. |
-
-## supermarket
-* [ˈsupərˌmɑrkɪt] 
-* 6+
-* 
-![116](http://imgur.com/undefined\n)
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -543,7 +498,7 @@ The number of selected words is 162
 * [pərˈsut] 
 * 6+
 * 
-![123](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -553,7 +508,7 @@ The number of selected words is 162
 * [stəft] 
 * 6+
 * 
-![123](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -563,7 +518,7 @@ The number of selected words is 162
 * [trabowski*] 
 * 6+
 * 
-![124](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -573,27 +528,17 @@ The number of selected words is 162
 * [ɑdz] 
 * 6+
 * 
-![126](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |126|00:04:49,149 --> 00:04:51,502|Robin，哇，这巧啊 |Robin? Wow, what are the <b>odds</b>! |
 
-## shopping
-* [ˈʃɑpɪŋ] 
-* 6+
-* 
-![128](http://imgur.com/undefined\n)
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|128|00:04:52,479 --> 00:04:56,060|哦，我是来买东西的……买调味酱 |Oh, you know, just <b>shopping</b> for dip. |
-
 ## toy
 * [tɔɪ] 
 * 6+
 * 
-![136](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -603,7 +548,7 @@ The number of selected words is 162
 * [sˈwɛti] 
 * 6+
 * 
-![137](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -613,7 +558,7 @@ The number of selected words is 162
 * [sˈwɪŋɪŋ] 
 * 6+
 * 
-![139](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -623,7 +568,7 @@ The number of selected words is 162
 * ['nɛkst] 
 * 6+
 * 
-![145](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -633,7 +578,7 @@ The number of selected words is 162
 * [ˈfraɪˌde'] 
 * 6+
 * 
-![145](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -643,7 +588,7 @@ The number of selected words is 162
 * [ˈraɪtɪŋ] 
 * 6+
 * 
-![152](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -653,7 +598,7 @@ The number of selected words is 162
 * [baɪ] 
 * 6+
 * 
-![155](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -663,7 +608,7 @@ The number of selected words is 162
 * [stɛps] 
 * 6+
 * 
-![160](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -673,7 +618,7 @@ The number of selected words is 162
 * [ˈigərli] 
 * 6+
 * 
-![161](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -683,7 +628,7 @@ The number of selected words is 162
 * [ˈdræftɪŋ] 
 * 6+
 * 
-![162](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -693,7 +638,7 @@ The number of selected words is 162
 * [ˈtebəl] 
 * 6+
 * 
-![162](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -703,7 +648,7 @@ The number of selected words is 162
 * [ˈɑrkəˌtɛkʧər] 
 * 6+
 * #托福
-![162](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -713,7 +658,7 @@ The number of selected words is 162
 * [θroʊz] 
 * 6+
 * 
-![164](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -723,7 +668,7 @@ The number of selected words is 162
 * ['hey,nice*] 
 * 6+
 * 
-![167](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -733,7 +678,7 @@ The number of selected words is 162
 * [ˌɛtˈsɛtərə] 
 * 6+
 * 
-![167](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -743,7 +688,7 @@ The number of selected words is 162
 * [ˌɛtˈsɛtərə.'] 
 * 6+
 * 
-![167](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -753,7 +698,7 @@ The number of selected words is 162
 * ['wɛl] 
 * 6+
 * 
-![167](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -763,7 +708,7 @@ The number of selected words is 162
 * [hoʊm.'] 
 * 6+
 * 
-![167](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -773,7 +718,7 @@ The number of selected words is 162
 * [ˌkɑnvərˈseʃən] 
 * 6+
 * #托福
-![167](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -783,7 +728,7 @@ The number of selected words is 162
 * [hir?'] 
 * 6+
 * 
-![171](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -793,7 +738,7 @@ The number of selected words is 162
 * ['ˈwɑnə] 
 * 6+
 * 
-![174](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -803,7 +748,7 @@ The number of selected words is 162
 * [rʊf?'] 
 * 6+
 * 
-![174](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -813,7 +758,7 @@ The number of selected words is 162
 * [mun] 
 * 6+
 * 
-![180](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -823,7 +768,7 @@ The number of selected words is 162
 * [stɑrz] 
 * 6+
 * 
-![180](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -833,7 +778,7 @@ The number of selected words is 162
 * [ˈʃɪmərɪŋ] 
 * 6+
 * 
-![180](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -843,7 +788,7 @@ The number of selected words is 162
 * [ˈskaɪˌlaɪt] 
 * 6+
 * 
-![180](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -853,7 +798,7 @@ The number of selected words is 162
 * [ˈsɑləd] 
 * 6+
 * 
-![183](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -863,7 +808,7 @@ The number of selected words is 162
 * [plet] 
 * 6+
 * #托福
-![184](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -873,7 +818,7 @@ The number of selected words is 162
 * [ˌmɑdəfəˈkeʃən] 
 * 6+
 * 
-![185](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -883,7 +828,7 @@ The number of selected words is 162
 * [ˈʧætɪŋ] 
 * 6+
 * 
-![187](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -893,7 +838,7 @@ The number of selected words is 162
 * [ˈməŋki] 
 * 6+
 * 
-![187](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -903,7 +848,7 @@ The number of selected words is 162
 * [style..-that's*] 
 * 6+
 * 
-![187](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -913,7 +858,7 @@ The number of selected words is 162
 * [sˈmoʊkɪŋ] 
 * 6+
 * 
-![190](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -923,7 +868,7 @@ The number of selected words is 162
 * [ræp] 
 * 6+
 * 
-![193](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -933,7 +878,7 @@ The number of selected words is 162
 * [stəˈtɪstɪk] 
 * 6+
 * 
-![194](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -943,7 +888,7 @@ The number of selected words is 162
 * [dork*] 
 * 6+
 * 
-![201](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -953,7 +898,7 @@ The number of selected words is 162
 * [ˈtərgət] 
 * 6+
 * 
-![202](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -963,7 +908,7 @@ The number of selected words is 162
 * [əkˈwaɪərd] 
 * 6+
 * 
-![202](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -973,7 +918,7 @@ The number of selected words is 162
 * [call'have*] 
 * 6+
 * 
-![203](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -983,7 +928,7 @@ The number of selected words is 162
 * [ted.'-oh*] 
 * 6+
 * 
-![203](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -993,7 +938,7 @@ The number of selected words is 162
 * [hi.hi*] 
 * 6+
 * 
-![207](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1003,7 +948,7 @@ The number of selected words is 162
 * [ˈplætər] 
 * 6+
 * 
-![215](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1013,7 +958,7 @@ The number of selected words is 162
 * [boʊn] 
 * 6+
 * 
-![215](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1023,27 +968,17 @@ The number of selected words is 162
 * [ˈæpəˌtaɪt] 
 * 6+
 * #托福
-![215](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |215|00:08:02,756 --> 00:08:06,326|银质大盘送上的……大肥肉 |On a silver platter bone <b>appetite</b>. |
 
-## loss
-* [lɔs] 
-* 6+
-* 
-![217](http://imgur.com/undefined\n)
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|217|00:08:08,236 --> 00:08:09,617|你放弃，我上场 |You are <b>loss</b> or gain. |
-
 ## dude
 * [dud] 
 * 6+
 * 
-![223](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1053,7 +988,7 @@ The number of selected words is 162
 * [ˈrɑbɪnz] 
 * 6+
 * 
-![223](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1063,7 +998,7 @@ The number of selected words is 162
 * [et] 
 * 6+
 * 
-![230](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1073,7 +1008,7 @@ The number of selected words is 162
 * [kænz] 
 * 6+
 * 
-![230](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1083,27 +1018,17 @@ The number of selected words is 162
 * [ˈmɛrɪdɪθ] 
 * 6+
 * 
-![241](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |241|00:08:47,004 --> 00:08:48,090|你是哪位？Meredith？ |Who's this? Meredith? |
 
-## finally
-* [ˈfaɪnəli] 
-* 6+
-* 
-![246](http://imgur.com/undefined\n)
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|246|00:08:54,583 --> 00:08:56,336|没有，我被工作缠住了,不过…… 他们总算把那小孩从机器里弄出来了 |No, I got stuck at work but they <b>finally</b> got that kid out of the cream machine. |
-
 ## toys
 * [tɔɪz] 
 * 6+
 * 
-![249](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1113,7 +1038,7 @@ The number of selected words is 162
 * [ˈblædərz] 
 * 6+
 * 
-![250](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1123,7 +1048,7 @@ The number of selected words is 162
 * [ˈtuˌde] 
 * 6+
 * 
-![256](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1133,7 +1058,7 @@ The number of selected words is 162
 * [roʊl] 
 * 6+
 * #托福
-![256](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1143,7 +1068,7 @@ The number of selected words is 162
 * [swɪŋ] 
 * 6+
 * 
-![258](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1153,7 +1078,7 @@ The number of selected words is 162
 * [ˈənjən] 
 * 6+
 * 
-![266](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1163,7 +1088,7 @@ The number of selected words is 162
 * [ˈkədlɪŋ] 
 * 6+
 * 
-![268](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1173,7 +1098,7 @@ The number of selected words is 162
 * [ˈləkiəst] 
 * 6+
 * 
-![270](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1183,7 +1108,7 @@ The number of selected words is 162
 * [spən] 
 * 6+
 * 
-![276](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1193,7 +1118,7 @@ The number of selected words is 162
 * [inviter*] 
 * 6+
 * 
-![281](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1203,7 +1128,7 @@ The number of selected words is 162
 * [worked-with-carlos*] 
 * 6+
 * 
-![294](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1213,7 +1138,7 @@ The number of selected words is 162
 * [kˈwɪkɪst] 
 * 6+
 * 
-![297](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1223,7 +1148,7 @@ The number of selected words is 162
 * [wanned*] 
 * 6+
 * 
-![310](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1233,7 +1158,7 @@ The number of selected words is 162
 * [ʧænt] 
 * 6+
 * 
-![310](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1243,7 +1168,7 @@ The number of selected words is 162
 * [dɪˈstərbd] 
 * 6+
 * 
-![312](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1253,7 +1178,7 @@ The number of selected words is 162
 * [rɪˈpit] 
 * 6+
 * 
-![312](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1263,7 +1188,7 @@ The number of selected words is 162
 * [dannis*] 
 * 6+
 * 
-![320](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1273,7 +1198,7 @@ The number of selected words is 162
 * [armanda*] 
 * 6+
 * 
-![320](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1283,7 +1208,7 @@ The number of selected words is 162
 * [two-dayer*] 
 * 6+
 * 
-![330](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1293,7 +1218,7 @@ The number of selected words is 162
 * [three-dayer*] 
 * 6+
 * 
-![330](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1303,7 +1228,7 @@ The number of selected words is 162
 * [kənˈtɪnjuz] 
 * 6+
 * 
-![331](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1313,7 +1238,7 @@ The number of selected words is 162
 * [like,"keep*] 
 * 6+
 * 
-![333](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1323,47 +1248,27 @@ The number of selected words is 162
 * [traɪˈfɛktə] 
 * 6+
 * 
-![333](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |333|00:11:59,233 --> 00:12:02,427|昨晚上，大家都在喊“继续吧，派对专家” 哇哦，很好啊，我会来的 |Last night, people were like,"Keep it going, bro! Party <b>trifecta</b>! " OK, I'll be there. |
 
-## third
-* [θərd] 
-* 6+
-* 
-![340](http://imgur.com/undefined\n)
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|340|00:12:13,605 --> 00:12:17,569|于是，我为Robin开了第三个派对……在周日的晚上 |So I threw a <b>third</b> party for Robin on a Sunday night. |
-
 ## sunday
 * [ˈsənˌdi] 
 * 6+
 * 
-![340](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |340|00:12:13,605 --> 00:12:17,569|于是，我为Robin开了第三个派对……在周日的晚上 |So I threw a third party for Robin on a Sunday night. |
 
-## anybody
-* [ˈɛnibədi] 
-* 6+
-* 
-![348](http://imgur.com/undefined\n)
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|348|00:12:34,319 --> 00:12:40,335|有没有人见到一本《1865-1923雕塑赔偿合同导论》？ 有没有人看见一本又大又厚的书？ |Has <b>anybody</b> seen 'an Introduction to Contract toward Restitution Statutes from 1865 to 1923?' Anybody seen a big ass book? |
-
 ## ass
 * [æs] 
 * 6+
 * 
-![348](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1373,7 +1278,7 @@ The number of selected words is 162
 * [ˈkoʊstər] 
 * 6+
 * 
-![365](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1383,7 +1288,7 @@ The number of selected words is 162
 * [ˈʤɛpərˌdaɪzɪŋ] 
 * 6+
 * 
-![368](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1393,7 +1298,7 @@ The number of selected words is 162
 * [kərɪrz] 
 * 6+
 * 
-![368](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1403,27 +1308,17 @@ The number of selected words is 162
 * [təf] 
 * 6+
 * #托福
-![388](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |388|00:14:26,406 --> 00:14:28,841|好吧，伙计，是时候讲清楚了 |OK, buddy. It's time for the <b>tough</b> talk. |
 
-## seems
-* [simz] 
-* 6+
-* 
-![389](http://imgur.com/undefined\n)
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|389|00:14:28,842 --> 00:14:31,804|Robin确实是好姑娘,但我们要面对现实 |Robin <b>seems</b> great. But let's look at the fact. |
-
 ## fact
 * [fækt] 
 * 6+
 * 
-![389](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1433,7 +1328,7 @@ The number of selected words is 162
 * ['ðə] 
 * 6+
 * 
-![393](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1443,7 +1338,7 @@ The number of selected words is 162
 * [wən'] 
 * 6+
 * 
-![393](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1453,7 +1348,7 @@ The number of selected words is 162
 * [ˈhɛdɪŋ] 
 * 6+
 * 
-![393](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1463,7 +1358,7 @@ The number of selected words is 162
 * [rʊf.'] 
 * 6+
 * 
-![393](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1473,7 +1368,7 @@ The number of selected words is 162
 * [ombre*] 
 * 6+
 * 
-![411](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1483,37 +1378,17 @@ The number of selected words is 162
 * ['lɛts] 
 * 6+
 * 
-![421](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |421|00:16:06,404 --> 00:16:09,495|而且你一直用那种眼神看着我就好像…… 就好像……我们恋爱吧…… 然后结婚，然后生小孩,再送他们去足球学校 除非他们自己有兴趣,不然我不会强迫小孩去运动的 |And you're looking at me with that look and it's like Like <b>'let's</b> fall in love, and get married and have kids and drive them to soccer practice.' I'm not going to force sports on them unless they're interested. |
 
-## drive
-* [draɪv] 
-* 6+
-* 
-![421](http://imgur.com/undefined\n)
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|421|00:16:06,404 --> 00:16:09,495|而且你一直用那种眼神看着我就好像…… 就好像……我们恋爱吧…… 然后结婚，然后生小孩,再送他们去足球学校 除非他们自己有兴趣,不然我不会强迫小孩去运动的 |And you're looking at me with that look and it's like Like 'let's fall in love, and get married and have kids and <b>drive</b> them to soccer practice.' I'm not going to force sports on them unless they're interested. |
-
-## soccer
-* [ˈsɑkər] 
-* 6+
-* 
-![421](http://imgur.com/undefined\n)
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|421|00:16:06,404 --> 00:16:09,495|而且你一直用那种眼神看着我就好像…… 就好像……我们恋爱吧…… 然后结婚，然后生小孩,再送他们去足球学校 除非他们自己有兴趣,不然我不会强迫小孩去运动的 |And you're looking at me with that look and it's like Like 'let's fall in love, and get married and have kids and drive them to <b>soccer</b> practice.' I'm not going to force sports on them unless they're interested. |
-
 ## practice.'
 * [ˈpræktɪs.'] 
 * 6+
 * 
-![421](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1523,7 +1398,7 @@ The number of selected words is 162
 * [spɔrts] 
 * 6+
 * 
-![421](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1533,7 +1408,7 @@ The number of selected words is 162
 * [klɪk] 
 * 6+
 * 
-![438](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1543,7 +1418,7 @@ The number of selected words is 162
 * [ˌɪnsɪnˈsɪr] 
 * 6+
 * 
-![467](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1553,7 +1428,7 @@ The number of selected words is 162
 * [ˈhæŋɪŋ] 
 * 6+
 * 
-![471](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1563,7 +1438,7 @@ The number of selected words is 162
 * [ˈʤæˌkæs.'] 
 * 6+
 * 
-![471](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1573,7 +1448,7 @@ The number of selected words is 162
 * [ˈeprəl] 
 * 6+
 * 
-![473](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1583,7 +1458,7 @@ The number of selected words is 162
 * [frɛʃ] 
 * 6+
 * 
-![477](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1593,7 +1468,7 @@ The number of selected words is 162
 * [ˌənbəˈlivəbəl] 
 * 6+
 * 
-![492](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1603,7 +1478,7 @@ The number of selected words is 162
 * [ˈrɛsəpi] 
 * 6+
 * #托福
-![493](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1613,7 +1488,7 @@ The number of selected words is 162
 * [disarster*] 
 * 6+
 * 
-![493](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1623,7 +1498,7 @@ The number of selected words is 162
 * [ruffith*] 
 * 6+
 * 
-![505](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1633,7 +1508,7 @@ The number of selected words is 162
 * [truffith*] 
 * 6+
 * 
-![505](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1643,7 +1518,7 @@ The number of selected words is 162
 * [kæʧ] 
 * 6+
 * 
-![513](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
@@ -1653,7 +1528,7 @@ The number of selected words is 162
 * [taʊn] 
 * 6+
 * 
-![517](http://imgur.com/undefined\n)
+
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
