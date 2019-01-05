@@ -49,8 +49,9 @@
 * 2019.01.03
 	* [x] 增加视屏截图 by ffmpeg + imgur, [20190103-截图效果](https://imgur.com/2RYzJfQ.jpg)
 * 2019.01.05
-	* [x] updated `is_word` function, [20190105-code](https://repl.it/@WillWang42/isword) 
-	* [x] updated self.clean(), no more words like "xx's"
+	* [x] Updated `is_word` function, [20190105-code](https://repl.it/@WillWang42/isword) 
+	* [x] Updated self.clean(), no more words like "xx's"
+	* [x] Get GRE words, from `word \n define` to `word - define`, [20190105-gre-code](https://repl.it/@WillWang42/getgre)
 
 ## 数据库设计
 
