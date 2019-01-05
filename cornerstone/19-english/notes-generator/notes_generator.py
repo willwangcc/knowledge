@@ -15,7 +15,6 @@ upload_imgur
 ffmpeg 
 """
 
-
 class NOTE:
 
 	def __init__(self, src):
@@ -82,7 +81,10 @@ class NOTE:
 		word: str
 		r: str 
 		"""
-		return word.strip('",!.?-').lower() 
+		word = word.strip('",!.?-').lower() 
+		if "'" in word:
+			word = word.split("'")[0]
+		return word
 
 
 	def merge2sentence(self, content):

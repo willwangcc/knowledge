@@ -1,75 +1,60 @@
 # New Words from How.I.Met.Your.Mother.S01E03
-The number of selected words is 254
+The number of selected words is 236
 
 |row\column|1|2|3|4|5|
 | :--------| :--------| :--------| :--------| :--------| :--------| 
 |1|abandoning|accidentally|actualonversation|admit|advances|
-|2|adventure|airplane|airport|airports|assessing|
-|3|attaboy|attendants|attorney|aunt|awese|
-|4|awesome|backed|backs|backside|baggage|
-|5|bags|bar|bars|bathroom|beeswax|
-|6|bell|belt|bet|bo|bong|
-|7|booty|bore-snore|boyfriends|breathe|brings|
-|8|buffalo|building|businessman|businessmen|bust|
-|9|bye|cab|called|card|carousel|
-|10|cash|catch|central|cheesecake|citizens|
-|11|club|colleague|compliments|consistently|continues|
-|12|convincing|cordoned|crack|crap|crowding|
-|13|cute|dabbing|dana|dare|dawn|
-|14|demand|demands|detroit|dolphin|dot|
-|15|drawback|drin|drop|duffel|dynamic|
-|16|eagles|eelie|escalator|ew|fake|
-|17|fending|fiancee's|fiero|fly|flying|
-|18|followed|footage|forefathers|fu|gay|
-|19|gesture|getti|good-bye|goon|grandpa|
-|20|grape|guaranteed|guy's|halfway|hands|
-|21|handsome|hang|hanging|happiness|hard|
-|22|headg|heaven|hers|hey-oh|hoopty-ass|
-|23|hoping|hot|hung|igloo|immediately|
-|24|impressionist|interrupt|intertional|iung|japan|
-|25|jfk|junk|kisser|klutzy|lactose-intolerant|
-|26|ladies|lady|landing|last-minute|lawyer|
-|27|legendary|lemonade|lesson|liberal|liberty|
-|28|lick|licked|lily's|linebackers|lips|
-|29|listening|loser|lucrative|luggage|man's|
-|30|manhattan|mankind|marshall|mcclaren's|meeting|
-|31|misunderstanding|mosby|mutual|net|nine|
-|32|nobody|nobody's|nyc|ocean|offering|
-|33|outrage|painting|park|parking|passengers|
-|34|patriot|pennies|philadehia|philadelphia|philly|
-|35|picking|pickup|pictures|placing|plane|
-|36|position|powerbar|propose|purchase|pursuit|
-|37|questions|race|realized|redirected|refine|
-|38|regular|released|responsible|rest|restrain|
-|39|retain|ridiculous|rock|rope|rut|
-|40|rut-buster|rut-tine|sample|sasha|sasha's|
-|41|sat|seat|security|shaky|sidebar|
-|42|sign's|sit|situation|sketchy|slope|
-|43|snowsuit|sock|soda|speech|spent|
-|44|stain|status|struggled|studying|subsequent|
-|45|subway|swarming|syllable|table|tapped|
-|46|tastes|team|test|ticket's|tmac|
-|47|ton|touch|town|tray|tuck|
-|48|tucked|type|un-single|unclick|uno|
-|49|untucked|upright|valuable|ving|visiting|
-|50|volume|voodoo|wa|wak|walked|
-|51|we'lgo|we'v|wheelie|woke||
-
-## bar
-* [bɑr] 
-* 2+
-* #托福
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|2|00:00:00,000 --> 00:00:04,603|制作：飞飞 就在我遇到你们母亲的前一晚 那天我特别特别想去酒吧 |校对：西西宝贝 So there was this one night before I met your mother, when I really wanted to go to the <b>bar</b>. |
-|9|00:00:24,081 --> 00:00:26,085|我，Marshal和Lily Barney，Robin 我们经常去的酒吧叫作Mcclaren's |Me,uncle marshall and aunt lily, <b>bar</b>ney,robin-- we all used to hang out at this one <b>bar</b> called mcclaren'S. |
-|202|00:08:47,810 --> 00:08:50,361|瞧，机场的酒吧，漂亮的空姐 |Look,airport <b>bar</b>. Flight attendants. |
+|2|adventure|airplane|airport|airports|aren|
+|3|assessing|attaboy|attendants|attorney|aunt|
+|4|awese|backed|backs|backside|baggage|
+|5|bags|bars|bathroom|beeswax|belt|
+|6|bet|bo|bong|booty|bore-snore|
+|7|boyfriends|breathe|brings|buffalo|building|
+|8|businessman|businessmen|bust|cab|card|
+|9|carousel|cash|central|cheesecake|citizens|
+|10|club|colleague|compliments|consistently|convincing|
+|11|cordoned|crack|crap|crowding|cute|
+|12|dabbing|dana|dare|dawn|demand|
+|13|demands|detroit|didn|doesn|dolphin|
+|14|don|dot|drawback|drin|drop|
+|15|duffel|dynamic|eagles|eelie|escalator|
+|16|ew|fake|fending|fiancee|fiero|
+|17|fly|flying|followed|footage|forefathers|
+|18|fu|gay|gesture|getti|good-bye|
+|19|goon|grandpa|grape|guaranteed|halfway|
+|20|hands|handsome|hang|happiness|haven|
+|21|headg|heaven|hers|hey-oh|hoopty-ass|
+|22|hoping|hung|igloo|immediately|impressionist|
+|23|interrupt|intertional|isn|iung|japan|
+|24|jfk|junk|kisser|klutzy|lactose-intolerant|
+|25|ladies|lady|landing|last-minute|lawyer|
+|26|lemonade|lesson|liberal|lick|licked|
+|27|linebackers|lips|loser|lucrative|luggage|
+|28|manhattan|mankind|marshall|mcclaren|misunderstanding|
+|29|mosby|mutual|net|nine|nobody|
+|30|nyc|ocean|offering|outrage|painting|
+|31|park|parking|passengers|patriot|pennies|
+|32|philadehia|philadelphia|picking|pickup|pictures|
+|33|placing|plane|position|powerbar|propose|
+|34|purchase|questions|race|realized|redirected|
+|35|refine|regular|released|rest|restrain|
+|36|retain|ridiculous|rock|rope|rut|
+|37|rut-buster|rut-tine|sample|sasha|sat|
+|38|seat|security|shaky|sidebar|sign|
+|39|sit|situation|sketchy|slope|snowsuit|
+|40|sock|soda|speech|spent|stain|
+|41|status|struggled|studying|subsequent|subway|
+|42|swarming|syllable|tapped|tastes|team|
+|43|test|ticket|tmac|ton|touch|
+|44|tray|tuck|tucked|type|un-single|
+|45|unclick|uno|untucked|upright|valuable|
+|46|ving|visiting|volume|voodoo|wa|
+|47|wak|walked|wasn|wheelie|woke|
+|48|wouldn|||||
 
 ## spent
 * [spɛnt] 
-* 0+
+* 1+
 * 
 
 
@@ -79,7 +64,7 @@ The number of selected words is 254
 
 ## bars
 * [bɑrz] 
-* 0+
+* 1+
 * 
 
 
@@ -89,19 +74,19 @@ The number of selected words is 254
 
 ## marshall
 * [ˈmɑrʃəl] 
-* 0+
+* 4+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|389|00:17:27,636 --> 00:17:30,389|原来Marshall叔叔其实是个醋坛子 |So,it turned out uncle <b>marshall</b> really was the jealous type. |
+|9|00:00:24,081 --> 00:00:26,085|我，Marshal和Lily Barney，Robin 我们经常去的酒吧叫作Mcclaren's |Me,uncle <b>marshall</b> and aunt lily, barney,robin-- we all used to hang out at this one bar called mcclaren'S. |
 |36|00:01:27,838 --> 00:01:28,941|为什么Marshall可以拒绝？ |Why can <b>marshall</b> say no? |
-|371|00:16:40,039 --> 00:16:40,998|还有Marshall |And <b>marshall</b>. |
+|389|00:17:27,636 --> 00:17:30,389|原来Marshall叔叔其实是个醋坛子 |So,it turned out uncle <b>marshall</b> really was the jealous type. |
 
 ## aunt
 * [ɔnt] 
-* 2+
+* 3+
 * 
 
 
@@ -111,64 +96,55 @@ The number of selected words is 254
 
 ## hang
 * [hæŋ] 
-* 0+
+* 4+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |79|00:03:25,119 --> 00:03:28,063|我真高兴我们可以一起玩儿了,就我们两个 |I'm so glad we finally get to <b>hang</b> out,just the two of us. |
-|399|00:17:55,650 --> 00:17:57,836|我干嘛和你一起疯？为什么？ |why do I <b>hang</b> out with you? Why? |
+|9|00:00:24,081 --> 00:00:26,085|我，Marshal和Lily Barney，Robin 我们经常去的酒吧叫作Mcclaren's |Me,uncle marshall and aunt lily, barney,robin-- we all used to <b>hang</b> out at this one bar called mcclaren'S. |
 |80|00:03:28,658 --> 00:03:30,403|你真的愿意周五晚上…… 和一个快嫁人的老姑娘玩儿吗？ |Yeah. You sure you're okay giving up your friday night to <b>hang</b> with an old,almost married lady? |
 
-## called
-* [kɔld] 
-* 5+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|9|00:00:24,081 --> 00:00:26,085|我，Marshal和Lily Barney，Robin 我们经常去的酒吧叫作Mcclaren's |Me,uncle marshall and aunt lily, barney,robin-- we all used to hang out at this one bar <b>called</b> mcclaren'S. |
-|335|00:14:58,314 --> 00:15:04,960|嗯，就告诉她我打过电话了在告诉她，她很……很好 |Well,just tell her I <b>called</b>. And tell her that she is... awesome. |
-
-## mcclaren's
-* [mcclaren's*] 
+## mcclaren
+* [məˈklɑrən] 
 * 0+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|14|00:00:34,304 --> 00:00:35,445|我们去Mcclaren's吧 |Let's go to mcclaren'S. |
-|9|00:00:24,081 --> 00:00:26,085|我，Marshal和Lily Barney，Robin 我们经常去的酒吧叫作Mcclaren's |Me,uncle marshall and aunt lily, barney,robin-- we all used to hang out at this one bar called mcclaren'S. |
+|9|00:00:24,081 --> 00:00:26,085|我，Marshal和Lily Barney，Robin 我们经常去的酒吧叫作Mcclaren's |Me,uncle marshall and aunt lily, barney,robin-- we all used to hang out at this one bar called <b>mcclaren</b>'S. |
+|14|00:00:34,304 --> 00:00:35,445|我们去Mcclaren's吧 |Let's go to <b>mcclaren</b>'S. |
 |25|00:01:00,975 --> 00:01:02,673|是啊，因为Mcclaren's有趣 |Yeah,'cause Mcclaren's is fun. |
 
-## nobody's
-* [ˈnoʊˌbɑˌdiz] 
-* 2+
+## don
+* [dɑn] 
+* 0+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|242|00:10:48,860 --> 00:10:50,203|没人那么无聊 |Nobody's that lame. |
+|251|00:11:15,320 --> 00:11:18,447|你们在律师不在场的时候有权拒绝回答任何问题 在我到之前什么也别说,听见了吗？ |You both retain the right to refuse to answer any questions without an attorney present so <b>don</b>'t say anything until I get there,all right? |
+|277|00:12:19,375 --> 00:12:21,897|-别到费城来了-伙计，我都走到一半了！ |Don't come to philly. Man,I'm almost halfway there. |
+|258|00:11:32,660 --> 00:11:34,511|这太荒唐了,我们去别的地方吧 |It's ridiculous in here. Why <b>don</b>'t we go somewhere else? |
+
+## nobody
+* [ˈnoʊˌbɑˌdi] 
+* 4+
+* 
+
+
+| Number  | Timeline  | Chinese  | English  | 
+| :-------- | :---------: | :---------: | :---------: | 
 |16|00:00:38,380 --> 00:00:39,550|没人听我说话？ |Nobody's listening? |
-
-## listening
-* [ˈlɪsənɪŋ] 
-* 5+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|297|00:13:06,790 --> 00:13:08,266|是啊，我想我们终于可以单独聊聊……但是 你没有听我说话,我一个人去坐了 |Yeah,I thought we could finally go talk... and you're not <b>listening</b> to me,so I'm going to walk away. |
-|16|00:00:38,380 --> 00:00:39,550|没人听我说话？ |Nobody's <b>listening</b>? |
+|351|00:15:43,849 --> 00:15:47,906|嗯，我敢打赌历史上从来没有人舔过自由钟 |Hmm. I bet <b>nobody</b> in history has ever licked the liberty bell. |
+|242|00:10:48,860 --> 00:10:50,203|没人那么无聊 |Nobody's that lame. |
 
 ## bore-snore
 * [bore-snore*] 
-* 0+
+* 1+
 * 
 
 
@@ -178,7 +154,7 @@ The number of selected words is 254
 
 ## ladies
 * [ˈlediz] 
-* 4+
+* 5+
 * 
 
 
@@ -186,21 +162,9 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |18|00:00:42,916 --> 00:00:45,889|Ted，今晚我们出去玩,我们要去钓女生 |Ted,tonight we're going to go out. We're going to meet some <b>ladies</b>. |
 
-## legendary
-* [ˈlɛʤənˌdɛri] 
-* 3+
-* #托福
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|19|00:00:46,100 --> 00:00:49,361|这肯定是传奇性的！手机击掌 |It's going to be <b>legendary</b>. Phone five. |
-|65|00:02:48,790 --> 00:02:50,536|相信我，这肯定是传奇性的 |Trust me,it's going to be <b>legendary</b>. |
-|48|00:02:00,637 --> 00:02:03,581|-好吧，你的传奇性的计划是怎么样的？-首先我们去机场接某个人 |All right,so what's this <b>legendary</b> plan? First we've got to pick someone up at the airport. |
-
 ## hung
 * [həŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -210,7 +174,7 @@ The number of selected words is 254
 
 ## offering
 * [ˈɔfərɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -220,7 +184,7 @@ The number of selected words is 254
 
 ## guaranteed
 * [ˌgɛrənˈtid] 
-* 0+
+* 1+
 * 
 
 
@@ -230,7 +194,7 @@ The number of selected words is 254
 
 ## gesture
 * [ˈʤɛsʧər] 
-* 0+
+* 1+
 * 
 
 
@@ -238,21 +202,32 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |31|00:01:17,940 --> 00:01:19,791|我们打电话的时候，这些手势其实没什么用，对不？ |This hand <b>gesture</b> thing doesn't really work on the phone,does it? |
 
+## doesn
+* [doesn*] 
+* 0+
+* 
+
+
+| Number  | Timeline  | Chinese  | English  | 
+| :-------- | :---------: | :---------: | :---------: | 
+|31|00:01:17,940 --> 00:01:19,791|我们打电话的时候，这些手势其实没什么用，对不？ |This hand gesture thing <b>doesn</b>'t really work on the phone,does it? |
+|32|00:01:20,031 --> 00:01:21,633|是啊，没有用 |No,it <b>doesn</b>'t. |
+
 ## cab
 * [kæb] 
-* 1+
+* 4+
 * #托福
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|35|00:01:27,071 --> 00:01:27,588|Ted，上计程车 |Ted,get in the <b>cab</b>. |
 |429|00:19:16,947 --> 00:19:20,218|我不知道Barney怎么偷偷让司机改变了方向,不过我们下了车 Dana让我们进去，我们舔了自由钟 |I had no idea how barney redirected the <b>cab</b> without me knowing,but we got out, dana let us in,and by god,we licked the liberty bell. |
 |33|00:01:22,112 --> 00:01:24,088|上计程车。Marshall，你也一样 |get in the <b>cab</b>. Marshall,you,too. |
+|35|00:01:27,071 --> 00:01:27,588|Ted，上计程车 |Ted,get in the <b>cab</b>. |
 
 ## getti
 * [getti*] 
-* 0+
+* 1+
 * 
 
 
@@ -262,7 +237,7 @@ The number of selected words is 254
 
 ## consistently
 * [kənˈsɪstəntli] 
-* 0+
+* 1+
 * #托福
 
 
@@ -272,7 +247,7 @@ The number of selected words is 254
 
 ## rut
 * [rət] 
-* 0+
+* 2+
 * 
 
 
@@ -283,7 +258,7 @@ The number of selected words is 254
 
 ## rut-buster
 * [rut-buster*] 
-* 0+
+* 1+
 * 
 
 
@@ -293,7 +268,7 @@ The number of selected words is 254
 
 ## bust
 * [bəst] 
-* 0+
+* 1+
 * #托福
 
 
@@ -303,7 +278,7 @@ The number of selected words is 254
 
 ## syllable
 * [ˈsɪləbəl] 
-* 0+
+* 1+
 * #托福
 
 
@@ -313,7 +288,7 @@ The number of selected words is 254
 
 ## rut-tine
 * [rut-tine*] 
-* 0+
+* 1+
 * 
 
 
@@ -323,19 +298,19 @@ The number of selected words is 254
 
 ## airport
 * [ˈɛrˌpɔrt] 
-* 0+
+* 5+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|355|00:15:57,208 --> 00:15:59,999|Barney，我要去机场了,Sasha，谢谢你，还有，嗯 跟你爷爷说我很抱歉在厕所踩到他了 |Barney,I'm going to the <b>airport</b>. Sasha,thank you,and,uh, tell your grandpa I'm sorry I walked in on him in the bathroom. |
 |54|00:02:20,086 --> 00:02:23,347|等等，你刚才说“去机场接某个人” 就真的是在机场接“某个人”？ |wait,so when you said you were going to pick someone up at the <b>airport</b>, you meant you were going to "pick someone up" at the <b>airport</b>? |
-|48|00:02:00,637 --> 00:02:03,581|-好吧，你的传奇性的计划是怎么样的？-首先我们去机场接某个人 |All right,so what's this legendary plan? First we've got to pick someone up at the <b>airport</b>. |
+|396|00:17:47,661 --> 00:17:50,058|我们去机场 |We're going to the <b>airport</b>. |
+|355|00:15:57,208 --> 00:15:59,999|Barney，我要去机场了,Sasha，谢谢你，还有，嗯 跟你爷爷说我很抱歉在厕所踩到他了 |Barney,I'm going to the <b>airport</b>. Sasha,thank you,and,uh, tell your grandpa I'm sorry I walked in on him in the bathroom. |
 
 ## rest
 * [rɛst] 
-* 5+
+* 6+
 * 
 
 
@@ -345,7 +320,7 @@ The number of selected words is 254
 
 ## picking
 * [ˈpɪkɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -355,7 +330,7 @@ The number of selected words is 254
 
 ## fly
 * [flaɪ] 
-* 0+
+* 1+
 * 
 
 
@@ -363,20 +338,9 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |57|00:02:27,883 --> 00:02:32,007|情景假设：一群小妞飞抵纽约城想要享受一段浪漫之旅 在那儿她们遇见了两个潇洒的国际商人 刚刚从日本盈利归来 |Scenario: A couple of girls <b>fly</b> into town looking for a fun weekend in nyc, when they meet two handsome international businessmen just back from a lucrative trip to japan. |
 
-## town
-* [taʊn] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|309|00:13:39,378 --> 00:13:42,111|于是Barney和我进了城，费城，宾州 |So barney and I hit the <b>town</b>. Philadelphia,pa. |
-|57|00:02:27,883 --> 00:02:32,007|情景假设：一群小妞飞抵纽约城想要享受一段浪漫之旅 在那儿她们遇见了两个潇洒的国际商人 刚刚从日本盈利归来 |Scenario: A couple of girls fly into <b>town</b> looking for a fun weekend in nyc, when they meet two handsome international businessmen just back from a lucrative trip to japan. |
-
 ## nyc
 * [nyc*] 
-* 0+
+* 1+
 * 
 
 
@@ -386,7 +350,7 @@ The number of selected words is 254
 
 ## handsome
 * [ˈhænsəm] 
-* 1+
+* 2+
 * 
 
 
@@ -396,19 +360,19 @@ The number of selected words is 254
 
 ## businessmen
 * [ˈbɪznɪsˌmɛn] 
-* 0+
+* 3+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
+|57|00:02:27,883 --> 00:02:32,007|情景假设：一群小妞飞抵纽约城想要享受一段浪漫之旅 在那儿她们遇见了两个潇洒的国际商人 刚刚从日本盈利归来 |Scenario: A couple of girls fly into town looking for a fun weekend in nyc, when they meet two handsome international <b>businessmen</b> just back from a lucrative trip to japan. |
 |212|00:09:10,367 --> 00:09:14,817|我们是国际商人,我们要参加非常重要的国际会议 |We are international <b>businessmen</b> on very important international business trip. |
 |226|00:09:48,864 --> 00:09:51,116|我们是国际商人 |We are international <b>businessmen</b>. |
-|57|00:02:27,883 --> 00:02:32,007|情景假设：一群小妞飞抵纽约城想要享受一段浪漫之旅 在那儿她们遇见了两个潇洒的国际商人 刚刚从日本盈利归来 |Scenario: A couple of girls fly into town looking for a fun weekend in nyc, when they meet two handsome international <b>businessmen</b> just back from a lucrative trip to japan. |
 
 ## lucrative
 * [ˈlukrətɪv] 
-* 0+
+* 1+
 * #托福
 
 
@@ -418,18 +382,18 @@ The number of selected words is 254
 
 ## japan
 * [ʤəˈpæn] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|95|00:04:10,203 --> 00:04:12,198|日本 |Japan. |
 |57|00:02:27,883 --> 00:02:32,007|情景假设：一群小妞飞抵纽约城想要享受一段浪漫之旅 在那儿她们遇见了两个潇洒的国际商人 刚刚从日本盈利归来 |Scenario: A couple of girls fly into town looking for a fun weekend in nyc, when they meet two handsome international businessmen just back from a lucrative trip to <b>japan</b>. |
+|95|00:04:10,203 --> 00:04:12,198|日本 |Japan. |
 
 ## sample
 * [ˈsæmpəl] 
-* 0+
+* 1+
 * #托福
 
 
@@ -439,7 +403,7 @@ The number of selected words is 254
 
 ## wheelie
 * [wheelie*] 
-* 0+
+* 1+
 * 
 
 
@@ -449,7 +413,7 @@ The number of selected words is 254
 
 ## eelie
 * [eelie*] 
-* 0+
+* 1+
 * 
 
 
@@ -459,7 +423,7 @@ The number of selected words is 254
 
 ## sidebar
 * [ˈsaɪdˌbɑr] 
-* 0+
+* 1+
 * 
 
 
@@ -469,7 +433,7 @@ The number of selected words is 254
 
 ## tuck
 * [tək] 
-* 0+
+* 1+
 * 
 
 
@@ -479,18 +443,18 @@ The number of selected words is 254
 
 ## sketchy
 * [ˈskɛʧi] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|64|00:02:47,457 --> 00:02:48,656|不修边幅？ |I'm <b>sketchy</b>? |
 |61|00:02:38,404 --> 00:02:42,384|示范对话：“你的旅行箱有轮子？真巧，我的也有” 补充提示，把你的衬衫塞进去,你这样看起来不修边幅 |Sample dialogue: "You have a wheelie bag? Well,I have a eelie bag." Sidebar... tuck in your shirt. You look <b>sketchy</b>. |
+|64|00:02:47,457 --> 00:02:48,656|不修边幅？ |I'm <b>sketchy</b>? |
 
 ## liberal
 * [ˈlɪˌbərəl] 
-* 0+
+* 1+
 * 
 
 
@@ -500,7 +464,7 @@ The number of selected words is 254
 
 ## building
 * [ˈbɪldɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -510,7 +474,7 @@ The number of selected words is 254
 
 ## igloo
 * [ˈɪglu] 
-* 0+
+* 1+
 * 
 
 
@@ -520,7 +484,7 @@ The number of selected words is 254
 
 ## central
 * [ˈsɛntrəl] 
-* 1+
+* 2+
 * 
 
 
@@ -530,19 +494,19 @@ The number of selected words is 254
 
 ## park
 * [pɑrk] 
-* 1+
+* 5+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |149|00:06:33,762 --> 00:06:34,721|你来自帕克坡公园？ |You're from <b>park</b> slope? |
-|147|00:06:29,705 --> 00:06:31,019|我在帕克坡公园那边长大的 |Well,I ew up in <b>park</b> slope. |
+|148|00:06:31,105 --> 00:06:33,656|哦，我喜欢帕克坡公园,那你什么时候搬到曼哈顿的？ |I love <b>park</b> slope. When did you move to manhattan? |
 |66|00:02:51,015 --> 00:02:54,593|别说“传奇性的”，好不好？你太滥用“传奇性的”这个词了 我们要在中央公园修一个爱斯基摩冰屋 |Don't say "legendary," okay? You're too liberal with the word "legendary." We're building an igloo in central <b>park</b>. |
 
 ## snowsuit
 * [snowsuit*] 
-* 0+
+* 1+
 * 
 
 
@@ -552,19 +516,19 @@ The number of selected words is 254
 
 ## bags
 * [bægz] 
-* 0+
+* 3+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |71|00:03:04,145 --> 00:03:06,264|已经来这儿了，现在你要不就是去把旅行箱放上行李传送带 要不就是听我长篇大论一番 说服你放上去,你自己决定 |This is happening. Now you can either put the <b>bags</b> on the carousel now, or you can listen to me give you a really long speech  convincing you to put the <b>bags</b> on the carousel.Your move. |
-|227|00:09:51,644 --> 00:09:53,965|我的同事不小心将行李遗留在那边 |My colleague accidentally left the <b>bags</b> there. |
 |219|00:09:25,951 --> 00:09:29,567|我们的监控录像显示，你们把两个行李箱留在肯尼迪机场3号行李传送带 并且用现金购买最近的机票离开了 |We'v got footage of you placing two <b>bags</b> on jfk carousel 3, and abandoning them to purchase a last-minute flight with cash. |
+|227|00:09:51,644 --> 00:09:53,965|我的同事不小心将行李遗留在那边 |My colleague accidentally left the <b>bags</b> there. |
 
 ## carousel
 * [ˈkɛrəˌsɛl] 
-* 0+
+* 2+
 * 
 
 
@@ -575,7 +539,7 @@ The number of selected words is 254
 
 ## speech
 * [spiʧ] 
-* 0+
+* 1+
 * 
 
 
@@ -585,7 +549,7 @@ The number of selected words is 254
 
 ## convincing
 * [kənˈvɪnsɪŋ] 
-* 0+
+* 1+
 * #托福
 
 
@@ -595,7 +559,7 @@ The number of selected words is 254
 
 ## dawn
 * [dɔn] 
-* 0+
+* 1+
 * #托福
 
 
@@ -605,7 +569,7 @@ The number of selected words is 254
 
 ## mankind
 * [ˈmænˈkaɪnd] 
-* 0+
+* 1+
 * 
 
 
@@ -615,7 +579,7 @@ The number of selected words is 254
 
 ## struggled
 * [ˈstrəgəld] 
-* 0+
+* 1+
 * 
 
 
@@ -625,29 +589,29 @@ The number of selected words is 254
 
 ## ton
 * [tən] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|77|00:03:18,741 --> 00:03:20,937|那天晚上，Marshall埋头于学习当中 |that night,marshall had a <b>ton</b> of studying to do. |
 |184|00:07:59,494 --> 00:08:03,167|如果你把戒指取掉,男人们会像潮水般包围你 |If you took that ring off your finger,you'd have a <b>ton</b> of guys crowding your junk. |
+|77|00:03:18,741 --> 00:03:20,937|那天晚上，Marshall埋头于学习当中 |that night,marshall had a <b>ton</b> of studying to do. |
 
 ## studying
 * [ˈstədiɪŋ] 
-* 1+
+* 3+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|77|00:03:18,741 --> 00:03:20,937|那天晚上，Marshall埋头于学习当中 |that night,marshall had a ton of <b>studying</b> to do. |
 |117|00:05:12,272 --> 00:05:15,188|学法律 |Studying law. |
+|77|00:03:18,741 --> 00:03:20,937|那天晚上，Marshall埋头于学习当中 |that night,marshall had a ton of <b>studying</b> to do. |
 
 ## lady
 * [ˈledi] 
-* 4+
+* 5+
 * 
 
 
@@ -657,7 +621,7 @@ The number of selected words is 254
 
 ## subway
 * [ˈsəbˌwe] 
-* 0+
+* 1+
 * 
 
 
@@ -667,7 +631,7 @@ The number of selected words is 254
 
 ## hey-oh
 * [hey-oh*] 
-* 0+
+* 1+
 * 
 
 
@@ -677,7 +641,7 @@ The number of selected words is 254
 
 ## compliments
 * [ˈkɑmpləmɛnts] 
-* 0+
+* 1+
 * 
 
 
@@ -687,7 +651,7 @@ The number of selected words is 254
 
 ## drawback
 * [ˈdrɔˌbæk] 
-* 0+
+* 1+
 * #托福
 
 
@@ -695,9 +659,21 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |89|00:03:53,180 --> 00:03:57,477|哦，这就是订婚后的缺点,他应该就是因为这个才…… |Oh,yes,that's one <b>drawback</b> to being engaged. I'm sure that's why he didn'T... |
 
+## didn
+* [didn*] 
+* 0+
+* 
+
+
+| Number  | Timeline  | Chinese  | English  | 
+| :-------- | :---------: | :---------: | :---------: | 
+|138|00:06:08,462 --> 00:06:09,508|好吧，我今天早上睡醒的时候…… 可想不到会今天飞到费城去,我只能这么说 |Well,I <b>didn</b>'t think I'd be flying to philadehia when I woke up this morning,I'll give you that. |
+|269|00:11:59,829 --> 00:12:01,987|哦，放轻松，Ted我们没做错任何事 |Oh,relax,ted. We <b>didn</b>'t do anything wrong. |
+|175|00:07:35,911 --> 00:07:37,657|我没问 |I <b>didn</b>'t ask. |
+
 ## detroit
 * [ˈdiˌtrɔɪt] 
-* 0+
+* 1+
 * 
 
 
@@ -707,7 +683,7 @@ The number of selected words is 254
 
 ## tapped
 * [tæpt] 
-* 0+
+* 1+
 * 
 
 
@@ -717,7 +693,7 @@ The number of selected words is 254
 
 ## drop
 * [drɔp] 
-* 0+
+* 1+
 * 
 
 
@@ -727,18 +703,18 @@ The number of selected words is 254
 
 ## cute
 * [kjut] 
-* 3+
+* 5+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|171|00:07:22,523 --> 00:07:25,486|他们是不是很帅？他们都是费城鹰队的后卫 |Aren't they <b>cute</b>? They're both linebackers for the eagles. |
 |97|00:04:20,043 --> 00:04:22,872|靓妹不会来自布法罗！ |Cute girls are not from buffalo. |
+|171|00:07:22,523 --> 00:07:25,486|他们是不是很帅？他们都是费城鹰队的后卫 |Aren't they <b>cute</b>? They're both linebackers for the eagles. |
 
 ## buffalo
 * [ˈbəfəˌloʊ] 
-* 0+
+* 1+
 * 
 
 
@@ -748,7 +724,7 @@ The number of selected words is 254
 
 ## rock
 * [rɑk] 
-* 3+
+* 4+
 * 
 
 
@@ -758,7 +734,7 @@ The number of selected words is 254
 
 ## refine
 * [rɪˈfaɪn] 
-* 0+
+* 1+
 * #托福
 
 
@@ -768,7 +744,7 @@ The number of selected words is 254
 
 ## klutzy
 * [klutzy*] 
-* 0+
+* 1+
 * 
 
 
@@ -778,7 +754,7 @@ The number of selected words is 254
 
 ## shaky
 * [ˈʃeki] 
-* 0+
+* 1+
 * 
 
 
@@ -788,7 +764,7 @@ The number of selected words is 254
 
 ## landing
 * [ˈlændɪŋ] 
-* 0+
+* 1+
 * #托福
 
 
@@ -798,29 +774,17 @@ The number of selected words is 254
 
 ## plane
 * [plen] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|125|00:05:38,761 --> 00:05:42,453|嘿，猜猜我在哪儿，我在…准备好，飞机上,要去…准备好，费城 |Hey,guess where I am. I'm on A... ready? Plane to... ready? Philadelphia. |
 |107|00:04:45,860 --> 00:04:48,316|听着，我很抱歉不得不肇事逃逸了,因为我们还要赶飞机 |Look,I'm really sorry that we have to hit and run,but we've got a <b>plane</b> to catch. |
+|125|00:05:38,761 --> 00:05:42,453|嘿，猜猜我在哪儿，我在…准备好，飞机上,要去…准备好，费城 |Hey,guess where I am. I'm on A... ready? Plane to... ready? Philadelphia. |
 
-## catch
-* [kæʧ] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|372|00:16:41,583 --> 00:16:45,458|Lily，这里所有的女孩儿消磨一晚上就是想得到你已经拥有的 |Lily,all these girls here tonight are all hoping to <b>catch</b> what you've already got. |
-|368|00:16:30,832 --> 00:16:33,901|我只是想把网撒到海里去 看看我还能捞多少鱼 |I guess I just wanted to throw this net back into the ocean and see how many fish I could <b>catch</b>. |
-|107|00:04:45,860 --> 00:04:48,316|听着，我很抱歉不得不肇事逃逸了,因为我们还要赶飞机 |Look,I'm really sorry that we have to hit and run,but we've got a plane to <b>catch</b>. |
-
-## ticket's
-* [ˈtɪkəts] 
+## ticket
+* [ˈtɪkɪt] 
 * 0+
 * 
 
@@ -831,7 +795,7 @@ The number of selected words is 254
 
 ## escalator
 * [ˈɛskəˌletər] 
-* 0+
+* 2+
 * #托福
 
 
@@ -842,18 +806,18 @@ The number of selected words is 254
 
 ## dare
 * [dɛr] 
-* 3+
+* 5+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|352|00:15:48,232 --> 00:15:53,353|谁要是这么做了,我敢说那肯定是……什么来着？ |If someone were to pull that off,I <b>dare</b> say it would be..what's the word? |
 |115|00:05:04,801 --> 00:05:07,899|你敢走上接下来的自动扶梯！ |And don't you <b>dare</b> get on that subsequent escalator! |
+|352|00:15:48,232 --> 00:15:53,353|谁要是这么做了,我敢说那肯定是……什么来着？ |If someone were to pull that off,I <b>dare</b> say it would be..what's the word? |
 
 ## subsequent
 * [ˈsəbsəkwənt] 
-* 0+
+* 1+
 * #托福
 
 
@@ -861,30 +825,20 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |115|00:05:04,801 --> 00:05:07,899|你敢走上接下来的自动扶梯！ |And don't you dare get on that <b>subsequent</b> escalator! |
 
-## responsible
-* [riˈspɑnsəbəl] 
-* 6+
-* #托福
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|119|00:05:16,713 --> 00:05:21,460|为我的将来作打算 周五的夜晚 当律师最好有意义 |Making a <b>responsible</b> choice for my future on friday night being a lawyer had better be awese. |
-
 ## lawyer
 * [ˈlɔjər] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|249|00:11:08,789 --> 00:11:09,969|我们有律师？ |We have a <b>lawyer</b>? |
 |119|00:05:16,713 --> 00:05:21,460|为我的将来作打算 周五的夜晚 当律师最好有意义 |Making a responsible choice for my future on friday night being a <b>lawyer</b> had better be awese. |
+|249|00:11:08,789 --> 00:11:09,969|我们有律师？ |We have a <b>lawyer</b>? |
 
 ## awese
 * [awese*] 
-* 0+
+* 1+
 * 
 
 
@@ -894,19 +848,19 @@ The number of selected words is 254
 
 ## philadelphia
 * [ˌfɪləˈdɛlfiə] 
-* 0+
+* 4+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |167|00:07:15,637 --> 00:07:16,663|当时我们的情况是 困在去费城的航班上,身边是两个非单身的美眉 这得多谢你们的Barney叔叔 |So there we were: Stuck on an airplane to <b>philadelphia</b> with two very un-single girls, all thanks to your uncle barney. |
-|239|00:10:39,155 --> 00:10:39,817|事实上 我的朋友，他在机场带着假旅行箱就是为了泡女孩子 而且我们跟着一对来到了费城,就是这样，全部经过 |The truth is, my friend..he does this thing where he goes to airports with fake luggage to pick up girls and we followed some here to <b>philadelphia</b>. That-that-that's it. That's all this is. |
 |125|00:05:38,761 --> 00:05:42,453|嘿，猜猜我在哪儿，我在…准备好，飞机上,要去…准备好，费城 |Hey,guess where I am. I'm on A... ready? Plane to... ready? Philadelphia. |
+|239|00:10:39,155 --> 00:10:39,817|事实上 我的朋友，他在机场带着假旅行箱就是为了泡女孩子 而且我们跟着一对来到了费城,就是这样，全部经过 |The truth is, my friend..he does this thing where he goes to airports with fake luggage to pick up girls and we followed some here to <b>philadelphia</b>. That-that-that's it. That's all this is. |
 
 ## hoopty-ass
 * [hoopty-ass*] 
-* 0+
+* 1+
 * 
 
 
@@ -916,7 +870,7 @@ The number of selected words is 254
 
 ## fiero
 * [ˈfiroʊ] 
-* 0+
+* 1+
 * 
 
 
@@ -924,21 +878,9 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |128|00:05:45,474 --> 00:05:46,491|Marshall，放下手头的一切工作 开动你那辆铁皮屁股的Fiero汽车在费城和我们见面 |Marshall,st whatever you're doing, get in that hoopty-ass <b>fiero</b> of yours and come meet us in philly. |
 
-## philly
-* [ˈfɪli] 
-* 0+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|254|00:11:22,609 --> 00:11:23,549|费城！ |Philly! |
-|134|00:06:00,829 --> 00:06:04,492|费城承认吧：你兴致来了 |Philly. Admit it: You're having fun. |
-|160|00:07:00,423 --> 00:07:01,766|你们为什么要去费城？ |so what brings you guys to <b>philly</b>? |
-
 ## pictures
 * [ˈpɪkʧərz] 
-* 0+
+* 1+
 * 
 
 
@@ -948,7 +890,7 @@ The number of selected words is 254
 
 ## admit
 * [ədˈmɪt] 
-* 0+
+* 1+
 * #托福
 
 
@@ -958,7 +900,7 @@ The number of selected words is 254
 
 ## fu
 * [fu] 
-* 0+
+* 1+
 * 
 
 
@@ -968,7 +910,7 @@ The number of selected words is 254
 
 ## flying
 * [flaɪɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -978,7 +920,7 @@ The number of selected words is 254
 
 ## philadehia
 * [philadehia*] 
-* 0+
+* 1+
 * 
 
 
@@ -988,7 +930,7 @@ The number of selected words is 254
 
 ## woke
 * [woʊk] 
-* 0+
+* 1+
 * 
 
 
@@ -998,7 +940,7 @@ The number of selected words is 254
 
 ## attaboy
 * [ˈætəˌbɔɪ] 
-* 0+
+* 1+
 * 
 
 
@@ -1008,7 +950,7 @@ The number of selected words is 254
 
 ## seat
 * [sit] 
-* 4+
+* 6+
 * 
 
 
@@ -1019,7 +961,7 @@ The number of selected words is 254
 
 ## belt
 * [bɛlt] 
-* 0+
+* 2+
 * 
 
 
@@ -1028,19 +970,19 @@ The number of selected words is 254
 |141|00:06:13,862 --> 00:06:15,492|喔，喔，安全带指示灯亮着呢 |Whoa,whoa,the seat <b>belt</b> sign's on. |
 |142|00:06:15,713 --> 00:06:21,879|Ted，你这一生都坐在安全带里,是时候解开了 |Ted,you've been living your whole life in a seat <b>belt</b>. It's time to unclick. |
 
-## sign's
-* [saɪnz] 
-* 0+
+## sign
+* [saɪn] 
+* 6+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|141|00:06:13,862 --> 00:06:15,492|喔，喔，安全带指示灯亮着呢 |Whoa,whoa,the seat belt <b>sign's</b> on. |
+|141|00:06:13,862 --> 00:06:15,492|喔，喔，安全带指示灯亮着呢 |Whoa,whoa,the seat belt <b>sign</b>'s on. |
 
 ## unclick
 * [unclick*] 
-* 0+
+* 1+
 * 
 
 
@@ -1050,7 +992,7 @@ The number of selected words is 254
 
 ## ew
 * [ew*] 
-* 0+
+* 1+
 * 
 
 
@@ -1060,19 +1002,19 @@ The number of selected words is 254
 
 ## slope
 * [sloʊp] 
-* 0+
+* 3+
 * #托福
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |149|00:06:33,762 --> 00:06:34,721|你来自帕克坡公园？ |You're from park <b>slope</b>? |
-|147|00:06:29,705 --> 00:06:31,019|我在帕克坡公园那边长大的 |Well,I ew up in park <b>slope</b>. |
 |148|00:06:31,105 --> 00:06:33,656|哦，我喜欢帕克坡公园,那你什么时候搬到曼哈顿的？ |I love park <b>slope</b>. When did you move to manhattan? |
+|147|00:06:29,705 --> 00:06:31,019|我在帕克坡公园那边长大的 |Well,I ew up in park <b>slope</b>. |
 
 ## manhattan
 * [mænˈhætən] 
-* 1+
+* 2+
 * 
 
 
@@ -1082,7 +1024,7 @@ The number of selected words is 254
 
 ## heaven
 * [ˈhɛvən] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1092,7 +1034,7 @@ The number of selected words is 254
 
 ## pickup
 * [ˈpɪˌkəp] 
-* 0+
+* 1+
 * 
 
 
@@ -1102,7 +1044,7 @@ The number of selected words is 254
 
 ## brings
 * [brɪŋz] 
-* 1+
+* 2+
 * 
 
 
@@ -1112,7 +1054,7 @@ The number of selected words is 254
 
 ## visiting
 * [ˈvɪzɪtɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -1122,7 +1064,7 @@ The number of selected words is 254
 
 ## boyfriends
 * [ˈbɔɪˌfrɛndz] 
-* 0+
+* 2+
 * 
 
 
@@ -1133,7 +1075,7 @@ The number of selected words is 254
 
 ## hers
 * [hərz] 
-* 0+
+* 1+
 * 
 
 
@@ -1143,7 +1085,7 @@ The number of selected words is 254
 
 ## propose
 * [prəˈpoʊz] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1151,9 +1093,19 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |162|00:07:03,176 --> 00:07:05,698|我想她那位这周末就要求婚了 |I think hers is going to <b>propose</b> this weekend. |
 
+## isn
+* [isn*] 
+* 0+
+* 
+
+
+| Number  | Timeline  | Chinese  | English  | 
+| :-------- | :---------: | :---------: | :---------: | 
+|163|00:07:06,302 --> 00:07:07,827|很好不是吗？ |Isn't that great? |
+
 ## airplane
 * [ˈɛrˌplen] 
-* 0+
+* 1+
 * 
 
 
@@ -1163,7 +1115,7 @@ The number of selected words is 254
 
 ## un-single
 * [un-single*] 
-* 0+
+* 1+
 * 
 
 
@@ -1171,9 +1123,19 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |167|00:07:15,637 --> 00:07:16,663|当时我们的情况是 困在去费城的航班上,身边是两个非单身的美眉 这得多谢你们的Barney叔叔 |So there we were: Stuck on an airplane to philadelphia with two very <b>un-single</b> girls, all thanks to your uncle barney. |
 
+## aren
+* [ˈɑrən] 
+* 0+
+* 
+
+
+| Number  | Timeline  | Chinese  | English  | 
+| :-------- | :---------: | :---------: | :---------: | 
+|171|00:07:22,523 --> 00:07:25,486|他们是不是很帅？他们都是费城鹰队的后卫 |Aren't they cute? They're both linebackers for the eagles. |
+
 ## linebackers
 * [ˈlaɪnˌbækərz] 
-* 0+
+* 2+
 * 
 
 
@@ -1184,7 +1146,7 @@ The number of selected words is 254
 
 ## eagles
 * [ˈigəlz] 
-* 0+
+* 1+
 * 
 
 
@@ -1192,20 +1154,9 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |171|00:07:22,523 --> 00:07:25,486|他们是不是很帅？他们都是费城鹰队的后卫 |Aren't they cute? They're both linebackers for the <b>eagles</b>. |
 
-## guy's
-* [gaɪz] 
-* 0+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|177|00:07:41,042 --> 00:07:44,168|我只能看着男人们的后背,当他们搭讪Robin时候 |I'm just talking to <b>guy's</b> backs while they hit on robin. |
-|390|00:17:30,542 --> 00:17:34,560|不幸的是，那个同性恋的男朋友……同样也是醋坛子 |Unfortunately,that <b>guy's</b> boyfriend..also the jealous type. |
-
 ## backs
 * [bæks] 
-* 0+
+* 1+
 * 
 
 
@@ -1215,19 +1166,19 @@ The number of selected words is 254
 
 ## bet
 * [bɛt] 
-* 0+
+* 3+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
+|179|00:07:46,806 --> 00:07:48,455|你不相信搭讪我的人很多？ |Don't you <b>bet</b> I get that a lot? |
 |351|00:15:43,849 --> 00:15:47,906|嗯，我敢打赌历史上从来没有人舔过自由钟 |Hmm. I <b>bet</b> nobody in history has ever licked the liberty bell. |
 |178|00:07:44,581 --> 00:07:46,135|是啊，我相信搭讪她的人不少 |Yeah,I <b>bet</b> she gets that a lot. |
-|179|00:07:46,806 --> 00:07:48,455|你不相信搭讪我的人很多？ |Don't you <b>bet</b> I get that a lot? |
 
 ## parking
 * [ˈpɑrkɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -1237,7 +1188,7 @@ The number of selected words is 254
 
 ## crowding
 * [ˈkraʊdɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -1247,7 +1198,7 @@ The number of selected words is 254
 
 ## junk
 * [ʤəŋk] 
-* 0+
+* 1+
 * 
 
 
@@ -1255,9 +1206,19 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |184|00:07:59,494 --> 00:08:03,167|如果你把戒指取掉,男人们会像潮水般包围你 |If you took that ring off your finger,you'd have a ton of guys crowding your <b>junk</b>. |
 
+## wouldn
+* [wouldn*] 
+* 0+
+* 
+
+
+| Number  | Timeline  | Chinese  | English  | 
+| :-------- | :---------: | :---------: | :---------: | 
+|186|00:08:05,498 --> 00:08:08,940|你就不嫉妒别的蜜蜂包围你的鲜花？ |Wouldn't you be jealous of guys swarming all over my beeswax? |
+
 ## swarming
 * [sˈwɔrmɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -1267,7 +1228,7 @@ The number of selected words is 254
 
 ## beeswax
 * [beeswax*] 
-* 0+
+* 1+
 * 
 
 
@@ -1277,7 +1238,7 @@ The number of selected words is 254
 
 ## type
 * [taɪp] 
-* 0+
+* 3+
 * 
 
 
@@ -1289,7 +1250,7 @@ The number of selected words is 254
 
 ## goon
 * [gun] 
-* 0+
+* 1+
 * 
 
 
@@ -1299,7 +1260,7 @@ The number of selected words is 254
 
 ## sock
 * [sɑk] 
-* 0+
+* 1+
 * 
 
 
@@ -1309,7 +1270,7 @@ The number of selected words is 254
 
 ## kisser
 * [ˈkɪsər] 
-* 2+
+* 3+
 * 
 
 
@@ -1317,31 +1278,21 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |189|00:08:12,412 --> 00:08:15,232|那个混球敢多看你一眼,我就给他一顿老拳 |Any goon so much as looks at you,I'll sock him in the <b>kisser</b>. |
 
-## bye
-* [baɪ] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|191|00:08:17,917 --> 00:08:19,394|再见 |Bye. |
-
 ## adventure
 * [ədˈvɛnʧər] 
-* 0+
+* 3+
 * #托福
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |198|00:08:35,976 --> 00:08:37,510|但我们要开始一段冒险 |But we're on an <b>adventure</b>. |
-|199|00:08:37,606 --> 00:08:41,433|我们现在在费城机场，神经病的……冒险 |We're on a tmac in philadelphia. Crazy... <b>adventure</b>. |
 |255|00:11:24,220 --> 00:11:26,656|冒险继续 破坏！ |The <b>adventure</b> continues destroy! |
+|199|00:08:37,606 --> 00:08:41,433|我们现在在费城机场，神经病的……冒险 |We're on a tmac in philadelphia. Crazy... <b>adventure</b>. |
 
 ## tmac
 * [tmac*] 
-* 0+
+* 1+
 * 
 
 
@@ -1351,7 +1302,7 @@ The number of selected words is 254
 
 ## attendants
 * [əˈtɛndənts] 
-* 0+
+* 1+
 * 
 
 
@@ -1361,7 +1312,7 @@ The number of selected words is 254
 
 ## tray
 * [tre] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1369,19 +1320,9 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |203|00:08:50,409 --> 00:08:54,255|她们会为你服务，说：“什么？” |They'll get your <b>tray</b> table in its full upright position say what?! |
 
-## table
-* [ˈtebəl] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|203|00:08:50,409 --> 00:08:54,255|她们会为你服务，说：“什么？” |They'll get your tray <b>table</b> in its full upright position say what?! |
-
 ## upright
 * [ˈəˌpraɪt] 
-* 0+
+* 1+
 * 
 
 
@@ -1391,7 +1332,7 @@ The number of selected words is 254
 
 ## position
 * [pəˈzɪʃən] 
-* 0+
+* 1+
 * 
 
 
@@ -1401,7 +1342,7 @@ The number of selected words is 254
 
 ## passengers
 * [ˈpæsənʤərz] 
-* 0+
+* 1+
 * 
 
 
@@ -1411,7 +1352,7 @@ The number of selected words is 254
 
 ## mosby
 * [ˈmɔsbi] 
-* 0+
+* 1+
 * 
 
 
@@ -1421,7 +1362,7 @@ The number of selected words is 254
 
 ## hands
 * [hænz] 
-* 2+
+* 3+
 * 
 
 
@@ -1431,7 +1372,7 @@ The number of selected words is 254
 
 ## security
 * [sɪˈkjʊrəti] 
-* 3+
+* 5+
 * #托福
 
 
@@ -1442,7 +1383,7 @@ The number of selected words is 254
 
 ## outrage
 * [ˈaʊˌtreʤ] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1452,7 +1393,7 @@ The number of selected words is 254
 
 ## demand
 * [dɪˈmænd] 
-* 0+
+* 1+
 * 
 
 
@@ -1462,7 +1403,7 @@ The number of selected words is 254
 
 ## immediately
 * [ˌɪˈmiˌdiətli] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1472,7 +1413,7 @@ The number of selected words is 254
 
 ## demands
 * [dɪˈmændz] 
-* 0+
+* 1+
 * 
 
 
@@ -1480,30 +1421,20 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |215|00:09:17,234 --> 00:09:21,367|你要求？不，不，不，他没要求我们没有要求 |You demand?!No,no,no,no,no. He does not demand.We-we-we-we have no <b>demands</b>. |
 
-## we'v
-* [we'v*] 
-* 0+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|219|00:09:25,951 --> 00:09:29,567|我们的监控录像显示，你们把两个行李箱留在肯尼迪机场3号行李传送带 并且用现金购买最近的机票离开了 |We'v got footage of you placing two bags on jfk carousel 3, and abandoning them to purchase a last-minute flight with cash. |
-
 ## footage
 * [ˈfʊtɪʤ] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|219|00:09:25,951 --> 00:09:29,567|我们的监控录像显示，你们把两个行李箱留在肯尼迪机场3号行李传送带 并且用现金购买最近的机票离开了 |We'v got <b>footage</b> of you placing two bags on jfk carousel 3, and abandoning them to purchase a last-minute flight with cash. |
 |231|00:10:05,205 --> 00:10:09,521|还有，我们收到了过去几个月拍下的监控录像 |In addition,we received this <b>footage</b> taken over the last few months. |
+|219|00:09:25,951 --> 00:09:29,567|我们的监控录像显示，你们把两个行李箱留在肯尼迪机场3号行李传送带 并且用现金购买最近的机票离开了 |We'v got <b>footage</b> of you placing two bags on jfk carousel 3, and abandoning them to purchase a last-minute flight with cash. |
 
 ## placing
 * [ˈplesɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -1513,7 +1444,7 @@ The number of selected words is 254
 
 ## jfk
 * [ˌʤeˌɛfˈke] 
-* 0+
+* 1+
 * 
 
 
@@ -1523,7 +1454,7 @@ The number of selected words is 254
 
 ## abandoning
 * [əˈbændənɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -1533,7 +1464,7 @@ The number of selected words is 254
 
 ## purchase
 * [ˈpərʧəs] 
-* 0+
+* 1+
 * 
 
 
@@ -1543,7 +1474,7 @@ The number of selected words is 254
 
 ## last-minute
 * [ˌlæsˈmɪnət] 
-* 0+
+* 1+
 * 
 
 
@@ -1553,7 +1484,7 @@ The number of selected words is 254
 
 ## cash
 * [kæʃ] 
-* 0+
+* 1+
 * 
 
 
@@ -1563,7 +1494,7 @@ The number of selected words is 254
 
 ## assessing
 * [əˈsɛsɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -1573,7 +1504,7 @@ The number of selected words is 254
 
 ## situation
 * [ˌsɪʧuˈeʃən] 
-* 0+
+* 1+
 * 
 
 
@@ -1583,7 +1514,7 @@ The number of selected words is 254
 
 ## misunderstanding
 * [ˌmɪsəndərˈstændɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -1593,7 +1524,7 @@ The number of selected words is 254
 
 ## colleague
 * [ˈkɑlig] 
-* 3+
+* 4+
 * #托福
 
 
@@ -1603,7 +1534,7 @@ The number of selected words is 254
 
 ## accidentally
 * [ˌæksəˈdɛnəli] 
-* 0+
+* 1+
 * 
 
 
@@ -1611,19 +1542,9 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |227|00:09:51,644 --> 00:09:53,965|我的同事不小心将行李遗留在那边 |My colleague <b>accidentally</b> left the bags there. |
 
-## meeting
-* [ˈmitɪŋ] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|228|00:09:54,090 --> 00:09:58,866|现在，请让我们离开,不然我们会错过国际会议 |Now,please let us go before we miss our international business <b>meeting</b>. |
-
 ## intertional
 * [intertional*] 
-* 0+
+* 1+
 * 
 
 
@@ -1633,7 +1554,7 @@ The number of selected words is 254
 
 ## businessman
 * [ˈbɪznɪsˌmæn] 
-* 0+
+* 1+
 * 
 
 
@@ -1643,7 +1564,7 @@ The number of selected words is 254
 
 ## untucked
 * [untucked*] 
-* 0+
+* 1+
 * 
 
 
@@ -1653,7 +1574,7 @@ The number of selected words is 254
 
 ## duffel
 * [ˈdəfəl] 
-* 0+
+* 1+
 * 
 
 
@@ -1663,7 +1584,7 @@ The number of selected words is 254
 
 ## airports
 * [ˈɛrˌpɔrts] 
-* 1+
+* 2+
 * 
 
 
@@ -1673,7 +1594,7 @@ The number of selected words is 254
 
 ## fake
 * [fek] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1683,7 +1604,7 @@ The number of selected words is 254
 
 ## luggage
 * [ˈləgɪʤ] 
-* 0+
+* 1+
 * 
 
 
@@ -1693,7 +1614,7 @@ The number of selected words is 254
 
 ## followed
 * [ˈfɑloʊd] 
-* 4+
+* 5+
 * 
 
 
@@ -1703,7 +1624,7 @@ The number of selected words is 254
 
 ## restrain
 * [riˈstren] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1713,7 +1634,7 @@ The number of selected words is 254
 
 ## citizens
 * [ˈsɪtɪzənz] 
-* 0+
+* 1+
 * 
 
 
@@ -1723,7 +1644,7 @@ The number of selected words is 254
 
 ## patriot
 * [ˈpetriət] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1733,7 +1654,7 @@ The number of selected words is 254
 
 ## voodoo
 * [ˈvuˌdu] 
-* 0+
+* 1+
 * 
 
 
@@ -1743,7 +1664,7 @@ The number of selected words is 254
 
 ## retain
 * [rɪˈten] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1753,7 +1674,7 @@ The number of selected words is 254
 
 ## questions
 * [kˈwɛsʧənz] 
-* 2+
+* 3+
 * 
 
 
@@ -1763,7 +1684,7 @@ The number of selected words is 254
 
 ## attorney
 * [əˈtərni] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1773,7 +1694,7 @@ The number of selected words is 254
 
 ## good-bye
 * [ˈgʊdˌbaɪ] 
-* 0+
+* 1+
 * 
 
 
@@ -1781,19 +1702,9 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |253|00:11:20,739 --> 00:11:22,398|好的，拜拜 |Okay. Good-bye. |
 
-## continues
-* [kənˈtɪnjuz] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|255|00:11:24,220 --> 00:11:26,656|冒险继续 破坏！ |The adventure <b>continues</b> destroy! |
-
 ## ridiculous
 * [rɪˈdɪkjələs] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1803,7 +1714,7 @@ The number of selected words is 254
 
 ## lips
 * [lɪps] 
-* 0+
+* 1+
 * 
 
 
@@ -1813,7 +1724,7 @@ The number of selected words is 254
 
 ## race
 * [res] 
-* 0+
+* 1+
 * 
 
 
@@ -1823,7 +1734,7 @@ The number of selected words is 254
 
 ## card
 * [kɑrd] 
-* 0+
+* 1+
 * 
 
 
@@ -1833,7 +1744,7 @@ The number of selected words is 254
 
 ## tucked
 * [təkt] 
-* 0+
+* 1+
 * 
 
 
@@ -1843,7 +1754,7 @@ The number of selected words is 254
 
 ## baggage
 * [ˈbægɪʤ] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1853,7 +1764,7 @@ The number of selected words is 254
 
 ## status
 * [ˈstætəs] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1863,7 +1774,7 @@ The number of selected words is 254
 
 ## powerbar
 * [powerbar*] 
-* 0+
+* 1+
 * 
 
 
@@ -1873,7 +1784,7 @@ The number of selected words is 254
 
 ## halfway
 * [ˈhæfˈwe] 
-* 3+
+* 4+
 * 
 
 
@@ -1883,7 +1794,7 @@ The number of selected words is 254
 
 ## released
 * [riˈlist] 
-* 3+
+* 4+
 * 
 
 
@@ -1893,7 +1804,7 @@ The number of selected words is 254
 
 ## headg
 * [headg*] 
-* 0+
+* 1+
 * 
 
 
@@ -1901,31 +1812,21 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |278|00:12:22,079 --> 00:12:24,045|我们刚被释放了,我们坐下一半飞机回来 |Yeah,we just got released and we're <b>headg</b> back on the next flight. |
 
-## sasha's
-* [sasha's*] 
-* 0+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|282|00:12:30,768 --> 00:12:32,370|我们要去Sasha家 |We're going to sasha'S. |
-|310|00:13:42,504 --> 00:13:43,943|我们第一站也是最后一站： Sasha的派对 |Our first and only stop: Sasha's party.. |
-
 ## sasha
 * [ˈsæʃə] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|284|00:12:33,549 --> 00:12:39,975|Sasha，她请了朋友到她家里去做客这肯定会是传……等等 而且我希望你不对牛奶过敏,因为下一半是“奇性的”（Legen-dary，dary与乳制品谐音） |Sasha. She's ving friends over for drin at her house. It's gonna be legen..wait for it and I hope you're not lactose-intolerant 'cause the second half of that word is..dary! |
 |283|00:12:32,456 --> 00:12:33,262|Sasha是谁？ |Who the hell is <b>sasha</b>? |
+|310|00:13:42,504 --> 00:13:43,943|我们第一站也是最后一站： Sasha的派对 |Our first and only stop: Sasha's party.. |
+|284|00:12:33,549 --> 00:12:39,975|Sasha，她请了朋友到她家里去做客这肯定会是传……等等 而且我希望你不对牛奶过敏,因为下一半是“奇性的”（Legen-dary，dary与乳制品谐音） |Sasha. She's ving friends over for drin at her house. It's gonna be legen..wait for it and I hope you're not lactose-intolerant 'cause the second half of that word is..dary! |
 
 ## ving
 * [ving*] 
-* 0+
+* 1+
 * 
 
 
@@ -1935,7 +1836,7 @@ The number of selected words is 254
 
 ## drin
 * [drin*] 
-* 0+
+* 1+
 * 
 
 
@@ -1945,7 +1846,7 @@ The number of selected words is 254
 
 ## lactose-intolerant
 * [lactose-intolerant*] 
-* 0+
+* 1+
 * 
 
 
@@ -1955,19 +1856,19 @@ The number of selected words is 254
 
 ## gay
 * [ge] 
-* 1+
+* 4+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|370|00:16:36,721 --> 00:16:39,406|到现在为止，一条同性恋海豚 |So far,one. One <b>gay</b> dolphin. |
 |363|00:16:17,252 --> 00:16:21,031|-伙计，他是个同性恋-哦，我知道他是同性恋 只是，Marshall和我在一起9年了 |--Dude,I think that guy is <b>gay</b>.--Oh,I know that guy is <b>gay</b>.  It's just,marshall and I have been together for nine years. |
 |305|00:13:26,037 --> 00:13:31,024|嗯，我是个同性恋,我只是过来告诉你你坐在一个葡萄上了 |yeah,I'm <b>gay</b>. I just came over to let you know that you sat on a grape. |
+|370|00:16:36,721 --> 00:16:39,406|到现在为止，一条同性恋海豚 |So far,one. One <b>gay</b> dolphin. |
 
 ## sat
 * [sæt] 
-* 0+
+* 1+
 * 
 
 
@@ -1977,7 +1878,7 @@ The number of selected words is 254
 
 ## grape
 * [grep] 
-* 0+
+* 1+
 * 
 
 
@@ -1987,7 +1888,7 @@ The number of selected words is 254
 
 ## volume
 * [ˈvɑljum] 
-* 0+
+* 1+
 * #托福
 
 
@@ -1997,7 +1898,7 @@ The number of selected words is 254
 
 ## wak
 * [wak*] 
-* 0+
+* 1+
 * 
 
 
@@ -2007,28 +1908,18 @@ The number of selected words is 254
 
 ## grandpa
 * [ˈgrændˌpɑ] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|314|00:13:55,461 --> 00:14:00,707|你们几个把声音调小一点,别把我爷爷吵醒了 |You guys,keep the volume down. You're gonna wak my <b>grandpa</b>. |
 |355|00:15:57,208 --> 00:15:59,999|Barney，我要去机场了,Sasha，谢谢你，还有，嗯 跟你爷爷说我很抱歉在厕所踩到他了 |Barney,I'm going to the airport. Sasha,thank you,and,uh, tell your <b>grandpa</b> I'm sorry I walked in on him in the bathroom. |
-
-## hard
-* [hɑrd] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|316|00:14:02,452 --> 00:14:04,342|谁想要柠檬汁？ |Who wants <b>hard</b> lemonade? |
+|314|00:13:55,461 --> 00:14:00,707|你们几个把声音调小一点,别把我爷爷吵醒了 |You guys,keep the volume down. You're gonna wak my <b>grandpa</b>. |
 
 ## lemonade
 * [ˈlɛməˈned] 
-* 0+
+* 1+
 * 
 
 
@@ -2038,7 +1929,7 @@ The number of selected words is 254
 
 ## backed
 * [bækt] 
-* 3+
+* 4+
 * 
 
 
@@ -2046,31 +1937,19 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |319|00:14:13,942 --> 00:14:15,917|费城 回到酒吧，女孩子们的夜晚也不如Robin预期那么开心 |Philly Backed the bar:Girls' night out wasn't going as robin had hoped. |
 
-## lily's
-* [ˈlɪˌliz] 
+## wasn
+* [wasn*] 
 * 0+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|324|00:14:30,396 --> 00:14:31,029|Lily的手机 |<b>lily's</b> phone. |
-
-## hot
-* [hɑt] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|380|00:17:04,974 --> 00:17:08,570|你想找麻烦吗，小子？你擦的屁股可是我未婚妻的 |You want to mess,pal? That's my fiancee's <b>hot</b> backside at you're dabbing. |
-|362|00:16:13,713 --> 00:16:16,955|应付一下帅哥的搭讪啊 |Just fending off the advances of that totally <b>hot</b> guy. |
-|327|00:14:35,479 --> 00:14:40,178|她是不是在和帅哥聊天？你可以跟我讲的，那是我的主意 |is she talking to some <b>hot</b> guy? Oh,you can tell me. It's totally cool. It was my idea. |
+|319|00:14:13,942 --> 00:14:15,917|费城 回到酒吧，女孩子们的夜晚也不如Robin预期那么开心 |Philly Backed the bar:Girls' night out <b>wasn</b>'t going as robin had hoped. |
 
 ## interrupt
 * [ˌɪntərˈəpt] 
-* 0+
+* 1+
 * #托福
 
 
@@ -2078,21 +1957,9 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |332|00:14:48,790 --> 00:14:51,562|不，不用打搅她了,这很好 |no,no,don't <b>interrupt</b>. It's awesome. |
 
-## awesome
-* [ˈɔsəm] 
-* 5+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|332|00:14:48,790 --> 00:14:51,562|不，不用打搅她了,这很好 |no,no,don't interrupt. It's <b>awesome</b>. |
-|334|00:14:55,638 --> 00:14:57,537|很好 |It's <b>awesome</b>. |
-|383|00:17:10,402 --> 00:17:14,171|宝贝，求你了，再也别把戒指取掉,不管我说那有多好 |Baby,please,don't ever take that ring off again,no matter how <b>awesome</b> I say that it is. |
-
 ## mutual
 * [mˈjuʧuəl] 
-* 0+
+* 1+
 * #托福
 
 
@@ -2102,7 +1969,7 @@ The number of selected words is 254
 
 ## breathe
 * [brið] 
-* 5+
+* 6+
 * #托福
 
 
@@ -2112,42 +1979,18 @@ The number of selected words is 254
 
 ## dana
 * [ˈdenə] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|343|00:15:21,877 --> 00:15:24,917|听见了么，Ted？Dana是自由钟的保安（自由钟，费城的著名景点） |you hear that,ted? Dana works security at the liberty bell. |
 |429|00:19:16,947 --> 00:19:20,218|我不知道Barney怎么偷偷让司机改变了方向,不过我们下了车 Dana让我们进去，我们舔了自由钟 |I had no idea how barney redirected the cab without me knowing,but we got out, <b>dana</b> let us in,and by god,we licked the liberty bell. |
-
-## liberty
-* [ˈlɪbərˌti] 
-* 0+
-* #托福
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|415|00:18:41,770 --> 00:18:44,609|如果你想舔自由钟，自己去好了 |If you want to go lick the <b>liberty</b> bell,just go lick it yourself. |
-|351|00:15:43,849 --> 00:15:47,906|嗯，我敢打赌历史上从来没有人舔过自由钟 |Hmm. I bet nobody in history has ever licked the <b>liberty</b> bell. |
-|394|00:17:44,640 --> 00:17:47,412|本可以舔自由钟 |Could have licked the <b>liberty</b> bell. |
-
-## bell
-* [bɛl] 
-* 1+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|351|00:15:43,849 --> 00:15:47,906|嗯，我敢打赌历史上从来没有人舔过自由钟 |Hmm. I bet nobody in history has ever licked the liberty <b>bell</b>. |
-|394|00:17:44,640 --> 00:17:47,412|本可以舔自由钟 |Could have licked the liberty <b>bell</b>. |
-|429|00:19:16,947 --> 00:19:20,218|我不知道Barney怎么偷偷让司机改变了方向,不过我们下了车 Dana让我们进去，我们舔了自由钟 |I had no idea how barney redirected the cab without me knowing,but we got out, dana let us in,and by god,we licked the liberty <b>bell</b>. |
+|343|00:15:21,877 --> 00:15:24,917|听见了么，Ted？Dana是自由钟的保安（自由钟，费城的著名景点） |you hear that,ted? Dana works security at the liberty bell. |
 
 ## cordoned
 * [ˈkɔrdənd] 
-* 0+
+* 1+
 * 
 
 
@@ -2157,7 +2000,7 @@ The number of selected words is 254
 
 ## rope
 * [roʊp] 
-* 0+
+* 1+
 * 
 
 
@@ -2167,7 +2010,7 @@ The number of selected words is 254
 
 ## touch
 * [təʧ] 
-* 2+
+* 3+
 * 
 
 
@@ -2177,29 +2020,19 @@ The number of selected words is 254
 
 ## licked
 * [lɪkt] 
-* 0+
+* 4+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|351|00:15:43,849 --> 00:15:47,906|嗯，我敢打赌历史上从来没有人舔过自由钟 |Hmm. I bet nobody in history has ever <b>licked</b> the liberty bell. |
-|394|00:17:44,640 --> 00:17:47,412|本可以舔自由钟 |Could have <b>licked</b> the liberty bell. |
+|429|00:19:16,947 --> 00:19:20,218|我不知道Barney怎么偷偷让司机改变了方向,不过我们下了车 Dana让我们进去，我们舔了自由钟 |I had no idea how barney redirected the cab without me knowing,but we got out, dana let us in,and by god,we <b>licked</b> the liberty bell. |
 |350|00:15:41,087 --> 00:15:43,120|我从来没有舔过 |I have never <b>licked</b> it. |
-
-## nobody
-* [ˈnoʊˌbɑˌdi] 
-* 3+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|351|00:15:43,849 --> 00:15:47,906|嗯，我敢打赌历史上从来没有人舔过自由钟 |Hmm. I bet <b>nobody</b> in history has ever licked the liberty bell. |
+|351|00:15:43,849 --> 00:15:47,906|嗯，我敢打赌历史上从来没有人舔过自由钟 |Hmm. I bet nobody in history has ever <b>licked</b> the liberty bell. |
 
 ## walked
 * [wɔkt] 
-* 4+
+* 5+
 * 
 
 
@@ -2209,7 +2042,7 @@ The number of selected words is 254
 
 ## bathroom
 * [ˈbæθˌrum] 
-* 5+
+* 6+
 * 
 
 
@@ -2219,29 +2052,29 @@ The number of selected words is 254
 
 ## club
 * [kləb] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|377|00:16:55,997 --> 00:16:58,970|嘿，我弄了点苏打水,我们看看你的臀部 |Hey,I got that <b>club</b> soda. Let's see that booty. |
 |358|00:16:05,370 --> 00:16:07,240|我去拿点苏打水来洗掉污渍 |I'll get some <b>club</b> soda for that stain. |
+|377|00:16:55,997 --> 00:16:58,970|嘿，我弄了点苏打水,我们看看你的臀部 |Hey,I got that <b>club</b> soda. Let's see that booty. |
 
 ## soda
 * [ˈsoʊdə] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|377|00:16:55,997 --> 00:16:58,970|嘿，我弄了点苏打水,我们看看你的臀部 |Hey,I got that club <b>soda</b>. Let's see that booty. |
 |358|00:16:05,370 --> 00:16:07,240|我去拿点苏打水来洗掉污渍 |I'll get some club <b>soda</b> for that stain. |
+|377|00:16:55,997 --> 00:16:58,970|嘿，我弄了点苏打水,我们看看你的臀部 |Hey,I got that club <b>soda</b>. Let's see that booty. |
 
 ## stain
 * [sten] 
-* 0+
+* 1+
 * #托福
 
 
@@ -2249,19 +2082,9 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |358|00:16:05,370 --> 00:16:07,240|我去拿点苏打水来洗掉污渍 |I'll get some club soda for that <b>stain</b>. |
 
-## hanging
-* [ˈhæŋɪŋ] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|361|00:16:10,290 --> 00:16:13,416|Lily，我以为今晚只是我们俩的,你在干什么？ |Lily,I thought tonight was about us <b>hanging</b> out. What are you doing? |
-
 ## fending
 * [ˈfɛndɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -2271,7 +2094,7 @@ The number of selected words is 254
 
 ## advances
 * [ədˈvænsɪz] 
-* 0+
+* 1+
 * 
 
 
@@ -2281,7 +2104,7 @@ The number of selected words is 254
 
 ## nine
 * [naɪn] 
-* 1+
+* 2+
 * 
 
 
@@ -2289,9 +2112,19 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |363|00:16:17,252 --> 00:16:21,031|-伙计，他是个同性恋-哦，我知道他是同性恋 只是，Marshall和我在一起9年了 |--Dude,I think that guy is gay.--Oh,I know that guy is gay.  It's just,marshall and I have been together for <b>nine</b> years. |
 
+## haven
+* [ˈhevən] 
+* 0+
+* #托福
+
+
+| Number  | Timeline  | Chinese  | English  | 
+| :-------- | :---------: | :---------: | :---------: | 
+|365|00:16:23,735 --> 00:16:25,759|我从高中开始就不是单身了 |I <b>haven</b>'t been single since high school. |
+
 ## wa
 * [wɑ] 
-* 0+
+* 1+
 * 
 
 
@@ -2301,7 +2134,7 @@ The number of selected words is 254
 
 ## loser
 * [ˈluzər] 
-* 0+
+* 1+
 * 
 
 
@@ -2311,7 +2144,7 @@ The number of selected words is 254
 
 ## net
 * [nɛt] 
-* 0+
+* 1+
 * 
 
 
@@ -2321,7 +2154,7 @@ The number of selected words is 254
 
 ## ocean
 * [ˈoʊʃən] 
-* 0+
+* 1+
 * 
 
 
@@ -2331,7 +2164,7 @@ The number of selected words is 254
 
 ## dolphin
 * [ˈdɑlfən] 
-* 0+
+* 1+
 * #托福
 
 
@@ -2341,7 +2174,7 @@ The number of selected words is 254
 
 ## hoping
 * [ˈhoʊpɪŋ] 
-* 3+
+* 4+
 * 
 
 
@@ -2351,7 +2184,7 @@ The number of selected words is 254
 
 ## actualonversation
 * [actualonversation*] 
-* 0+
+* 1+
 * 
 
 
@@ -2361,7 +2194,7 @@ The number of selected words is 254
 
 ## cheesecake
 * [ˈʧizˌkek] 
-* 0+
+* 1+
 * 
 
 
@@ -2371,7 +2204,7 @@ The number of selected words is 254
 
 ## booty
 * [ˈbuti] 
-* 0+
+* 1+
 * 
 
 
@@ -2379,19 +2212,19 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |377|00:16:55,997 --> 00:16:58,970|嘿，我弄了点苏打水,我们看看你的臀部 |Hey,I got that club soda. Let's see that <b>booty</b>. |
 
-## fiancee's
-* [fiancee's*] 
-* 0+
+## fiancee
+* [fiˈænsi] 
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|380|00:17:04,974 --> 00:17:08,570|你想找麻烦吗，小子？你擦的屁股可是我未婚妻的 |You want to mess,pal? That's my <b>fiancee's</b> hot backside at you're dabbing. |
+|380|00:17:04,974 --> 00:17:08,570|你想找麻烦吗，小子？你擦的屁股可是我未婚妻的 |You want to mess,pal? That's my <b>fiancee</b>'s hot backside at you're dabbing. |
 
 ## backside
 * [ˈbækˌsaɪd] 
-* 0+
+* 1+
 * 
 
 
@@ -2401,7 +2234,7 @@ The number of selected words is 254
 
 ## dabbing
 * [ˈdæbɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -2411,7 +2244,7 @@ The number of selected words is 254
 
 ## test
 * [tɛst] 
-* 0+
+* 1+
 * 
 
 
@@ -2421,7 +2254,7 @@ The number of selected words is 254
 
 ## bong
 * [bɑŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -2431,7 +2264,7 @@ The number of selected words is 254
 
 ## bo
 * [boʊ] 
-* 0+
+* 1+
 * 
 
 
@@ -2441,7 +2274,7 @@ The number of selected words is 254
 
 ## regular
 * [ˈrɛgjələr] 
-* 0+
+* 1+
 * 
 
 
@@ -2451,7 +2284,7 @@ The number of selected words is 254
 
 ## forefathers
 * [ˈfɔrˌfɑðərz] 
-* 0+
+* 1+
 * 
 
 
@@ -2459,19 +2292,9 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |404|00:18:09,249 --> 00:18:13,354|听着，我们的先辈们为了追求幸福而抛头颅洒热血 |Look,our <b>forefathers</b> died for the pursuit of happiness,okay? |
 
-## pursuit
-* [pərˈsut] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|404|00:18:09,249 --> 00:18:13,354|听着，我们的先辈们为了追求幸福而抛头颅洒热血 |Look,our forefathers died for the <b>pursuit</b> of happiness,okay? |
-
 ## sit
 * [sɪt] 
-* 4+
+* 5+
 * 
 
 
@@ -2481,7 +2304,7 @@ The number of selected words is 254
 
 ## happiness
 * [ˈhæpinəs] 
-* 0+
+* 1+
 * 
 
 
@@ -2491,19 +2314,19 @@ The number of selected words is 254
 
 ## lick
 * [lɪk] 
-* 0+
+* 4+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|409|00:18:24,584 --> 00:18:29,859|你可以扼住命运的咽喉舔得它七荤八素！ |You can grab life by the crack and <b>lick</b> the crap out of it. |
+|427|00:19:11,233 --> 00:19:13,325|我们去舔自由钟 |We'lgo <b>lick</b> the liberty bell. |
 |406|00:18:16,633 --> 00:18:18,599|现在如果你愿意，你可以去同一间酒吧 喝同样的啤酒，和同样的人说话 或者，你可以去舔自由钟 |Now,if you want,you can go to the same bar, drink the same beer,talk to the same people every day, or you can <b>lick</b> the liberty bell. |
 |415|00:18:41,770 --> 00:18:44,609|如果你想舔自由钟，自己去好了 |If you want to go <b>lick</b> the liberty bell,just go <b>lick</b> it yourself. |
 
 ## crack
 * [kræk] 
-* 0+
+* 1+
 * #托福
 
 
@@ -2513,7 +2336,7 @@ The number of selected words is 254
 
 ## crap
 * [kræp] 
-* 1+
+* 2+
 * 
 
 
@@ -2523,7 +2346,7 @@ The number of selected words is 254
 
 ## valuable
 * [ˈvæljəbəl] 
-* 0+
+* 1+
 * 
 
 
@@ -2533,7 +2356,7 @@ The number of selected words is 254
 
 ## lesson
 * [ˈlɛsən] 
-* 4+
+* 5+
 * 
 
 
@@ -2543,7 +2366,7 @@ The number of selected words is 254
 
 ## team
 * [tim] 
-* 0+
+* 1+
 * 
 
 
@@ -2553,7 +2376,7 @@ The number of selected words is 254
 
 ## dynamic
 * [daɪˈnæmɪk] 
-* 0+
+* 1+
 * #托福
 
 
@@ -2563,7 +2386,7 @@ The number of selected words is 254
 
 ## uno
 * [ˈuˌnoʊ] 
-* 0+
+* 1+
 * 
 
 
@@ -2571,19 +2394,9 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |421|00:18:55,417 --> 00:19:00,183|没有你，我只是个精力充沛的妄想狂 好吧，如果你想回家，我们就回家吧 |Without you,I'M... I'm just the dynamic <b>uno</b> So,fine if you want to go home,then we'll go home. |
 
-## we'lgo
-* [we'lgo*] 
-* 0+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|427|00:19:11,233 --> 00:19:13,325|我们去舔自由钟 |We'lgo lick the liberty bell. |
-
 ## redirected
 * [ˌridərˈɛktɪd] 
-* 0+
+* 1+
 * 
 
 
@@ -2593,7 +2406,7 @@ The number of selected words is 254
 
 ## tastes
 * [tests] 
-* 1+
+* 3+
 * 
 
 
@@ -2604,7 +2417,7 @@ The number of selected words is 254
 
 ## pennies
 * [ˈpɛniz] 
-* 0+
+* 1+
 * 
 
 
@@ -2614,7 +2427,7 @@ The number of selected words is 254
 
 ## realized
 * [ˈriəˌlaɪzd] 
-* 3+
+* 4+
 * 
 
 
@@ -2624,7 +2437,7 @@ The number of selected words is 254
 
 ## iung
 * [iung*] 
-* 0+
+* 1+
 * 
 
 
@@ -2632,19 +2445,9 @@ The number of selected words is 254
 | :-------- | :---------: | :---------: | :---------: | 
 |438|00:19:37,452 --> 00:19:39,993|而且我终于发现我为什么和Barney交朋友 |And that was when I realized why <b>iung</b> out with barney. |
 
-## man's
-* [mænz] 
-* 0+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|441|00:19:50,955 --> 00:19:54,321|孩子们，一个男人生命中的每个故事就好比一个印象派画家作品中的一个色点 |Kids,every story in a <b>man's</b> life is like a dot in an impressionist painting.. |
-
 ## dot
 * [dɑt] 
-* 0+
+* 1+
 * #托福
 
 
@@ -2654,7 +2457,7 @@ The number of selected words is 254
 
 ## impressionist
 * [ˌɪmˈprɛʃənɪst] 
-* 0+
+* 1+
 * 
 
 
@@ -2664,7 +2467,7 @@ The number of selected words is 254
 
 ## painting
 * [ˈpenɪŋ] 
-* 1+
+* 2+
 * #托福
 
 

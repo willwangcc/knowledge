@@ -50,6 +50,7 @@
 	* [x] 增加视屏截图 by ffmpeg + imgur, [20190103-截图效果](https://imgur.com/2RYzJfQ.jpg)
 * 2019.01.05
 	* [x] updated `is_word` function, [20190105-code](https://repl.it/@WillWang42/isword) 
+	* [x] updated self.clean(), no more words like "xx's"
 
 ## 数据库设计
 
