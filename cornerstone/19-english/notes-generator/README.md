@@ -52,6 +52,7 @@
 	* [x] Updated `is_word` function, [20190105-code](https://repl.it/@WillWang42/isword) 
 	* [x] Updated self.clean(), no more words like "xx's"
 	* [x] Get GRE words, from `word \n define` to `word - define`, [20190105-gre-code](https://repl.it/@WillWang42/getgre)
+	* [x] Updated tag rendering, [20190105-tag渲染](https://i.imgur.com/aiEf3np.png)
 
 ## 数据库设计
 

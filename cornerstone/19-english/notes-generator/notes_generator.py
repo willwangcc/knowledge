@@ -8,8 +8,10 @@ IPA transcription:
 import argparse
 import collections 
 import re
-import eng_to_ipa as ipa
 import subprocess 
+
+import eng_to_ipa as ipa
+import vocabulary_generator
 """
 upload_imgur 
 ffmpeg 
@@ -41,6 +43,9 @@ class NOTE:
 		self.all_words_map = self.txt2all_words_map(self.words_txt)
 		self.sentence_map = self.txt2sentence_map(sentence_txt)
 		self.lines_map, self.words_map, self.output_name, self.directory = self.src2lines_word(src)
+		
+		vocabulary = vocabulary_generator.VOCABULARY()
+		self.gre = vocabulary.get_gre()
 
 
 		self.table_title = """
@@ -250,6 +255,32 @@ class NOTE:
 
 # --------- init above -------------
 
+	def is_tag(self, word):
+		"""
+		word: str 
+		r: word_tags: str
+		"""
+		tags = [
+		["TOEFL", False],
+		["IELTS", False],
+		["GRE", False],
+		["CET4", False],
+		["CET6", False]
+		]
+
+		if word in self.toefl_words_set:
+			tags[0][1] = True
+		if word in self.gre:
+			tags[2][1] = True 
+
+		word_tags = ""
+		for key, val in tags:
+			if val == True:
+				word_tags += "`" + key + "`" + " "
+
+		return word_tags 
+
+
 	def create_table(self, word, sentence):
 		"""
 		word: str
@@ -257,16 +288,13 @@ class NOTE:
 		r: cur_table: str 
 		"""
 		count = 2
+		word_tags = self.is_tag(word)
 
-		is_toefl = ""	
-		if word in self.toefl_words_set:
-			is_toefl = "#托福"
-	
 		pronounce = ipa.convert(word)
 		
 		word_notes = "* [" + pronounce + "] " + "\n"
 		word_notes += "* " + str(self.all_words_map[word]) + "+"+ "\n"
-		word_notes += "* " + is_toefl
+		word_notes += "* " + word_tags 
 
 		cur_table = "## " + word + "\n"
 		cur_table += word_notes + "\n\n"
@@ -467,7 +495,7 @@ if __name__ == "__main__":
 	# note.to_sentence()
 	# note.to_quizlet( )
 	note.to_new_words_md()
-	note.update_words_txt()
+	# note.update_words_txt()
 
     # parser = argparse.ArgumentParser()
     # parser.add_argument("-f", "--file", nargs = 1, help="src to markdown")
