@@ -122,6 +122,16 @@ class NOTE:
 			return False 
 		return True 
 
+	def split_line(self, line):
+		"""
+		23
+		00:00:01,530 --> 00:00:03,740
+		真想知道曼尼现在在做什么
+		I wonder what Manny's doing right now.
+		---
+		re: int, time, chinese, english 
+		"""
+		return line.split("\n")
 
 	def src2lines_word(self, src):
 		"""
@@ -146,7 +156,7 @@ class NOTE:
 		lines = block[start:] # get rid of what is not lines
 		position, content = [], [] 
 		for i, line in enumerate(lines):
-			group = line.split("\n")
+			group = self.split_line(line)
 			if not self.is_valid_group(group):
 				continue
 			index, timeline, chinese, english = group
@@ -313,7 +323,7 @@ class NOTE:
 		tables = ""
 		selected = []
 
-		for word in self.base_words_set:
+		for word in self.base:
 			if word in self.words_map:
 				cur_table = self.create_table(word, self.words_map[word])
 				tables += cur_table + "\n"
@@ -412,16 +422,16 @@ class NOTE:
 if __name__ == "__main__":
 	file = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/notes-generator/sources/"
 	file += "How.I.Met.Your.Mother/"
-	file += "How.I.Met.Your.Mother.S01E03.srt"
+	file += "How.I.Met.Your.Mother.S01E04.srt"
 
 	# file += "movies/"
 	# file += "Bird.Box.srt"
 	note = NOTE(file)
-	# note.to1368md()
+	note.to1368md()
 	# note.to_sentence()
 	# note.to_quizlet( )
-	note.to_new_words_md()
-	note.update_words_txt()
+	# note.to_new_words_md()
+	# note.update_words_txt()
 
     # parser = argparse.ArgumentParser()
     # parser.add_argument("-f", "--file", nargs = 1, help="src to markdown")
