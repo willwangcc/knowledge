@@ -53,6 +53,7 @@
 	* [x] Updated self.clean(), no more words like "xx's"
 	* [x] Get GRE words, from `word \n define` to `word - define`, [20190105-gre-code](https://repl.it/@WillWang42/getgre)
 	* [x] Updated tag rendering, [20190105-tag渲染](https://i.imgur.com/aiEf3np.png)
+	* [x] Refactored the code, isolate vocabulary-generator.py [20190105-代码重构](https://i.imgur.com/3iggNqp.png)
 
 ## 数据库设计
 

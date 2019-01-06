@@ -34,7 +34,7 @@ class VOCABULARY:
 		""" 
 		txt = ""
 		for key, val in words.items():
-			txt += key + " - " + val + "\n"
+			txt += key + "\n"
 
 		output_file_path = self.vocabulary_path + "/" + "GRE" + ".txt"
 

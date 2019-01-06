@@ -21,32 +21,29 @@ class NOTE:
 
 	def __init__(self, src):
 		self.src = src 
+
+		# vocabulary library 
+		self.vocabulary = vocabulary_generator.VOCABULARY()
+		self.gre = self.vocabulary.get_gre()
+		self.toefl = self.vocabulary.get_toefl()
+		self.ielts = self.vocabulary.get_ielts()
+		self.base = self.vocabulary.get_base_words()
+		self.cet4 = self.vocabulary.get_cet4()
+		self.cet6 = self.vocabulary.get_cet6()
+		self.all_words_map = self.vocabulary.get_all_words_map()
+		self.sentence_map = self.vocabulary.get_sentence_map()
+
+		# 
 		self.lines_map = {} #  index: [timeline, chinese, english]
 		self.words_map = {} #  word: set(index1, index2)
-		self.base_words_set = set()
-		self.all_words_map = collections.defaultdict(int)
 		self.output_name = None 
 		self.directory = None 
-		self.toefl_words_set = set()
-		self.sentence_map = {}
+
 		self.sentence_example = collections.defaultdict(list)
 		self.pics = {}  # sentence_index: pic_link
 
-		vocabulary_path = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/notes-generator/vocabulary/"
-		base_txt = vocabulary_path + "1368-word-list.txt"
-		toefl_txt = vocabulary_path + "toefl.txt"
-		self.words_txt = vocabulary_path + "words.txt"
-		sentence_txt = vocabulary_path + "sentences-pattern.txt"
-
-		self.base_words_set = self.txt2base_word(base_txt)
-		self.toefl_words_set = self.txt2toefl_word(toefl_txt)
-		self.all_words_map = self.txt2all_words_map(self.words_txt)
-		self.sentence_map = self.txt2sentence_map(sentence_txt)
 		self.lines_map, self.words_map, self.output_name, self.directory = self.src2lines_word(src)
 		
-		vocabulary = vocabulary_generator.VOCABULARY()
-		self.gre = vocabulary.get_gre()
-
 
 		self.table_title = """
 | Number  | Timeline  | Chinese  | English  | 
@@ -125,6 +122,7 @@ class NOTE:
 			return False 
 		return True 
 
+
 	def src2lines_word(self, src):
 		"""
 		!!!
@@ -182,77 +180,6 @@ class NOTE:
 		return lines_map, words_map, name, directory
 
 
-###########
-	def txt2base_word(self, file):
-		"""
-		file: 1368.txt
-		r: base_words_set: set()
-		"""
-		base_words_set = set()
-		with open(file, encoding='utf-8') as f:
-			read_data = f.read()
-		word_list  = read_data.strip("").split("\n")
-		for word in word_list:
-			if word != "":
-				base_words_set.add(word)
-		return base_words_set
-
-	def txt2toefl_word(self, file):
-		"""
-		file: 1368.txt
-		r: base_words_set: set()
-		"""
-		toefl_words_set = set()
-		with open(file, encoding='utf-8') as f:
-			read_data = f.read()
-		word_list  = read_data.strip("").split("\n")
-		for word in word_list:
-			if word != "":
-				toefl_words_set.add(word)
-		return toefl_words_set
-
-###########
-	def txt2all_words_map(self, file):
-		"""
-		file: words.txt
-		r: all_words_map: {str:int}
-		"""
-		all_words_map = collections.defaultdict(int)
-
-		with open(file, encoding='utf-8') as f:
-			read_data = f.read()
-		word_list  = read_data.strip("").split("\n")
-		for word in word_list:
-			word = word.strip("") 
-			if word == "":
-				continue
-			a, b = word.split(" ")
-			all_words_map[a] = int(b)
-		return all_words_map
-
-	def txt2sentence_map(self, file):
-		"""
-		file: words.txt
-		r: all_words_map: {str:int}
-		"""
-		# print("txt2sentence_map...")
-		sentence_map = {}
-		with open(file, encoding='utf-8') as f:
-			read_data = f.read()
-		# print(read_data)
-		sentence_list  = read_data.strip("").split("\n")
-
-		# print(sentence_list)
-		for sentence in sentence_list:
-			group = sentence.split("||")
-			# print(group)
-			if len(group) == 5:
-				index, ex, pattern, note, count = [i.strip('" ') for i in group]
-				sentence_map[pattern] = [index, ex, note, int(count)]
-		# print(sentence_map)
-		return sentence_map
-
-
 # --------- init above -------------
 
 	def is_tag(self, word):
@@ -268,10 +195,17 @@ class NOTE:
 		["CET6", False]
 		]
 
-		if word in self.toefl_words_set:
+		if word in self.toefl:
 			tags[0][1] = True
+		if word in self.ielts:
+			tags[1][1] = True 
 		if word in self.gre:
 			tags[2][1] = True 
+		if word in self.cet4:
+			tags[3][1] = True 
+		if word in self.cet6:
+			tags[4][1] = True 
+
 
 		word_tags = ""
 		for key, val in tags:
@@ -421,15 +355,7 @@ class NOTE:
 	def update_words_txt(self):
 		"""
 		"""
-		content = ""
-		self.all_words_map = dict(sorted(self.all_words_map.items()))
-		for key, val in self.all_words_map.items():
-			content += key + " " + str(val) + "\n"
-
-		output_file_path = self.words_txt
-
-		with open(output_file_path, mode="w", encoding="utf-8") as f:
-			f.write(content)		
+		self.vocabulary.update_words_txt(self.all_words_map)	
 
 	def to_quizlet(self):
 		"""
@@ -495,7 +421,7 @@ if __name__ == "__main__":
 	# note.to_sentence()
 	# note.to_quizlet( )
 	note.to_new_words_md()
-	# note.update_words_txt()
+	note.update_words_txt()
 
     # parser = argparse.ArgumentParser()
     # parser.add_argument("-f", "--file", nargs = 1, help="src to markdown")
