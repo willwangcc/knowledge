@@ -8,7 +8,7 @@ app_id = 'beed99a1'
 app_key = '33f531ce2353d5f73bedb9ee0f6175c6'
 
 language = 'en'
-word_id = 'get'
+word_id = 'ineffable'
 
 url = 'https://od-api.oxforddictionaries.com:443/api/v1/entries/' + language + '/' + word_id.lower()
 

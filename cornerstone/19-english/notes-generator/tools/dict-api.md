@@ -29,6 +29,16 @@ print("text \n" + r.text)
 print("json \n" + json.dumps(r.json()))
 ```
 
+### API Content 
+
+1. etymology 词源
+2. sense 含义
+	- definitions
+	- example 
+	- notes
+	- short defintions
+	- subsense 
+
 ## Reference 
 
 * [10 Best Dictionary APIs That You Should Be Using Right Now](https://blog.rapidapi.com/dictionary-apis/)
