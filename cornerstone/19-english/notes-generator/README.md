@@ -3,6 +3,8 @@
 
 ## Todo 
 
+
+
 1. [x] 完成[src2md](https://gist.github.com/01f63bfaca2bfa32eb5288053235a7de#file-src2md-py): 字幕格式生成markdown格式，便于清晰的网页浏览，配合chrome插件[Readlang Web Reader
 	- [x] 对markdown中的生词(知识点)进行高亮。 如 `知识点` 。
 	- [x] 将同一句话进行合并。便于之后整句调取。  
@@ -93,4 +95,5 @@ word2 count2
 * [English-to-IPA](https://github.com/mphilli/English-to-IPA)
 * NLTK 
 * [FFmpeg](https://www.ffmpeg.org/): A complete, cross-platform solution to record, convert and stream audio and video.
+* [项目提纲@workflowy](https://workflowy.com/s/d8c6b3839a2/EOHxZcPUsmWHxmMV)
   
