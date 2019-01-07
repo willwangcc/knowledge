@@ -69,10 +69,10 @@ class NOTE:
 			if self.is_word(word):
 				words_set.add(word)
 
-		# print(len(words_set))
-		for word in words_set:
-			if word not in self.gre_below:
-				print(word)
+		print(len(words_set))
+		# for word in words_set:
+		# 	if word not in self.gre_below:
+		# 		print(word)
 
 
 if __name__ == "__main__":

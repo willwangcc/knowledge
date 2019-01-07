@@ -1,61 +1,49 @@
 # New Words from How.I.Met.Your.Mother.S01E04
-The number of selected words is 140
+The number of selected words is 129
 
 |row\column|1|2|3|4|5|
 | :--------| :--------| :--------| :--------| :--------| :--------| 
 |1|adams|adult|alabama|amazing|anjust|
 |2|assuming|attention|awful|babies|beat|
-|3|bed|beep|belle|beyond|birthday|
-|4|bleeding|boils|booger|bourbon|breast|
-|5|caffeine|candles|cash|challenge|chunk|
-|6|class|classic|cliche|click|client|
-|7|collection|columns|commitment|crawfish|cried|
-|8|cry|de|deal|deserves|difficult|
-|9|direct|dreams|dresser|driving|dumped|
-|10|e-mail|effable|ended|eve|exciting|
-|11|explain|fact|fantastic|feeling|films|
-|12|fit|fond|fourth|friendship|gahhh|
-|13|given|gonnhave|good-bye|goonies|h-how|
-|14|hall|happily|hated|haven|helpful|
-|15|henry|hitchhiker|huge|hundie|implants|
-|16|ineffable|interest|internally|isn|issue|
-|17|joel|journalist|krav|kw|maga|
-|18|mature|memory|misfortune|mmm|monkey|
-|19|monkeys|mosby|movie|natalie|nipple|
-|20|october|oldest|overrated|owe|passed|
-|21|passing|past|porn|promoted|remembers|
-|22|reward|rode|rushing|self-respect|sloth|
-|23|smile|sock|somebody|spent|star|
-|24|starts|steph|sticks|stories|subway|
-|25|sucked|suddenly|talks|tears|television|
-|26|throws|tv|twins|upside|vet|
-|27|voice|wasn|web|weeks|wh|
-|28|wildest|wine|wonder|yards|yoga|
+|3|bed|beep|belle|beyond|bleeding|
+|4|boils|booger|bourbon|breast|caffeine|
+|5|candles|cash|challenge|chunk|class|
+|6|classic|cliche|client|collection|columns|
+|7|commitment|crawfish|cried|cry|de|
+|8|deal|deserves|difficult|direct|dreams|
+|9|dresser|driving|dumped|e-mail|effable|
+|10|ended|eve|exciting|explain|fantastic|
+|11|feeling|films|fond|fourth|friendship|
+|12|gahhh|given|gonnhave|good-bye|goonies|
+|13|h-how|hall|happily|hated|haven|
+|14|helpful|henry|hitchhiker|huge|hundie|
+|15|implants|ineffable|interest|internally|isn|
+|16|issue|joel|journalist|krav|kw|
+|17|maga|mature|memory|misfortune|mmm|
+|18|monkeys|mosby|movie|nipple|october|
+|19|oldest|overrated|owe|passed|passing|
+|20|porn|promoted|remembers|reward|rode|
+|21|rushing|self-respect|sloth|smile|spent|
+|22|star|steph|sticks|stories|subway|
+|23|sucked|suddenly|talks|tears|television|
+|24|tv|twins|upside|vet|voice|
+|25|wasn|web|weeks|wh|wildest|
+|26|wine|wonder|yards|yoga||
 
 ## ended
 * [ˈɛndɪd] 
-* 2+
+* 4+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|5|00:00:19,299 --> 00:00:21,179|其它的则最终以一方受伤结束 |the rest <b>ended</b> with somebody get hurt. |
 |435|00:19:50,753 --> 00:19:52,556|最终也以摔倒结束 没关系 这就是我和Natalie故事的结局 |you just end up flat on your back, Is OK And that's how it <b>ended</b> with natalie. |
-
-## somebody
-* [ˈsəmˌbɑdi] 
-* 6+
-* `CET4` 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|5|00:00:19,299 --> 00:00:21,179|其它的则最终以一方受伤结束 |the rest ended with <b>somebody</b> get hurt. |
+|5|00:00:19,299 --> 00:00:21,179|其它的则最终以一方受伤结束 |the rest <b>ended</b> with somebody get hurt. |
 
 ## stories
 * [ˈstɔriz] 
-* 2+
+* 3+
 * 
 
 
@@ -63,19 +51,9 @@ The number of selected words is 140
 | :-------- | :---------: | :---------: | :---------: | 
 |6|00:00:21,860 --> 00:00:23,221|我将讲述的就是一个这样结束的故事 它因为一件衬衫而开始 |This is one of those <b>stories</b>, that starts with a shirt. |
 
-## starts
-* [stɑrts] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|6|00:00:21,860 --> 00:00:23,221|我将讲述的就是一个这样结束的故事 它因为一件衬衫而开始 |This is one of those stories, that <b>starts</b> with a shirt. |
-
 ## journalist
 * [ˈʤərnəlɪst] 
-* 0+
+* 1+
 * `TOEFL` `IELTS` `CET4` `CET6` 
 
 
@@ -85,7 +63,7 @@ The number of selected words is 140
 
 ## babies
 * [ˈbebiz] 
-* 0+
+* 1+
 * 
 
 
@@ -95,7 +73,7 @@ The number of selected words is 140
 
 ## monkeys
 * [ˈməŋkiz] 
-* 0+
+* 2+
 * 
 
 
@@ -106,7 +84,7 @@ The number of selected words is 140
 
 ## web
 * [wɛb] 
-* 0+
+* 1+
 * `IELTS` `CET6` 
 
 
@@ -116,7 +94,7 @@ The number of selected words is 140
 
 ## mmm
 * [mmm*] 
-* 0+
+* 1+
 * 
 
 
@@ -126,19 +104,19 @@ The number of selected words is 140
 
 ## bourbon
 * [ˈbərbən] 
-* 0+
+* 4+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|34|00:01:38,803 --> 00:01:40,501|我现在似乎开始喜欢波旁酒了 |I seem to like <b>bourbon</b> now. |
-|35|00:01:40,568 --> 00:01:41,959|我以前发誓讨厌波旁酒 |I could've sworn I hated <b>bourbon</b>. |
 |31|00:01:33,404 --> 00:01:34,382|呃 这是谁的波旁酒？ |Mmm. Whose <b>bourbon</b> is this? |
+|36|00:01:42,179 --> 00:01:44,107|首先是衬衫,现在又是波旁酒 |First the shirt,now <b>bourbon</b>. |
+|35|00:01:40,568 --> 00:01:41,959|我以前发誓讨厌波旁酒 |I could've sworn I hated <b>bourbon</b>. |
 
 ## gahhh
 * [gahhh*] 
-* 0+
+* 1+
 * 
 
 
@@ -148,7 +126,7 @@ The number of selected words is 140
 
 ## hated
 * [ˈhetɪd] 
-* 0+
+* 1+
 * 
 
 
@@ -158,7 +136,7 @@ The number of selected words is 140
 
 ## movie
 * [ˈmuvi] 
-* 1+
+* 2+
 * 
 
 
@@ -168,18 +146,18 @@ The number of selected words is 140
 
 ## goonies
 * [goonies*] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|38|00:01:47,032 --> 00:01:48,691|看过一次就讨厌的电影 你终于又看《七宝奇谋》了吗? |The movie I saw once and hated; You're finally gonna watch <b>goonies</b> again? |
 |43|00:01:59,835 --> 00:02:01,657|我不是说《七宝奇谋》 我指女生 |Not <b>goonies</b>-- girls. |
+|38|00:01:47,032 --> 00:01:48,691|看过一次就讨厌的电影 你终于又看《七宝奇谋》了吗? |The movie I saw once and hated; You're finally gonna watch <b>goonies</b> again? |
 
 ## sloth
 * [sloʊθ] 
-* 0+
+* 1+
 * `TOEFL` `GRE` 
 
 
@@ -189,7 +167,7 @@ The number of selected words is 140
 
 ## chunk
 * [ʧəŋk] 
-* 0+
+* 1+
 * `TOEFL` `IELTS` `GRE` `CET6` 
 
 
@@ -197,41 +175,9 @@ The number of selected words is 140
 | :-------- | :---------: | :---------: | :---------: | 
 |42|00:01:56,728 --> 00:01:58,780|"Sloth love chunk. |"Sloth love <b>chunk</b>. |
 
-## past
-* [pæst] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|266|00:12:15,209 --> 00:12:16,695|过去3周很我们处的不错 |These <b>past</b> three weeks have been great. |
-|343|00:15:52,671 --> 00:15:53,486|Henry 在你工作的过去60年里 哪件事是让你最激动的? |Henry, In your <b>past</b> 60 years on the job, what is your most exciting memory? |
-|44|00:02:01,878 --> 00:02:03,326|如果以前有某个女生 我那时候觉得不适合我 但是其实她,就象这件衬衫 事实上很适合我? |What if there's someone from my <b>past</b> who I thought was wrong for me at the time, when in fact she,like this shirt, is actually a perfect fit? |
-
-## fact
-* [fækt] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|44|00:02:01,878 --> 00:02:03,326|如果以前有某个女生 我那时候觉得不适合我 但是其实她,就象这件衬衫 事实上很适合我? |What if there's someone from my past who I thought was wrong for me at the time, when in <b>fact</b> she,like this shirt, is actually a perfect fit? |
-
-## fit
-* [fɪt] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|44|00:02:01,878 --> 00:02:03,326|如果以前有某个女生 我那时候觉得不适合我 但是其实她,就象这件衬衫 事实上很适合我? |What if there's someone from my past who I thought was wrong for me at the time, when in fact she,like this shirt, is actually a perfect <b>fit</b>? |
-
 ## breast
 * [brɛst] 
-* 0+
+* 1+
 * `CET4` 
 
 
@@ -241,7 +187,7 @@ The number of selected words is 140
 
 ## implants
 * [ˌɪmˈplænts] 
-* 0+
+* 1+
 * 
 
 
@@ -251,7 +197,7 @@ The number of selected words is 140
 
 ## isn
 * [isn*] 
-* 4+
+* 5+
 * 
 
 
@@ -261,18 +207,18 @@ The number of selected words is 140
 
 ## steph
 * [stɛf] 
-* 1+
+* 3+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|53|00:02:20,656 --> 00:02:22,363|Steph怎么样? |What about that girl <b>steph</b>? |
 |54|00:02:22,775 --> 00:02:23,897|Steph... |Steph... |
+|53|00:02:20,656 --> 00:02:22,363|Steph怎么样? |What about that girl <b>steph</b>? |
 
 ## difficult
 * [ˈdɪfəkəlt] 
-* 0+
+* 1+
 * 
 
 
@@ -282,7 +228,7 @@ The number of selected words is 140
 
 ## spent
 * [spɛnt] 
-* 5+
+* 6+
 * 
 
 
@@ -292,7 +238,7 @@ The number of selected words is 140
 
 ## adult
 * [ˈædəlt] 
-* 0+
+* 1+
 * `CET4` 
 
 
@@ -302,7 +248,7 @@ The number of selected words is 140
 
 ## films
 * [fɪlmz] 
-* 0+
+* 1+
 * 
 
 
@@ -312,7 +258,7 @@ The number of selected words is 140
 
 ## h-how
 * [h-how*] 
-* 0+
+* 1+
 * 
 
 
@@ -322,7 +268,7 @@ The number of selected words is 140
 
 ## driving
 * [ˈdraɪvɪŋ] 
-* 5+
+* 6+
 * 
 
 
@@ -332,7 +278,7 @@ The number of selected words is 140
 
 ## hitchhiker
 * [ˈhɪˌʧhaɪkər] 
-* 0+
+* 1+
 * 
 
 
@@ -340,21 +286,9 @@ The number of selected words is 140
 | :-------- | :---------: | :---------: | :---------: | 
 |64|00:02:53,695 --> 00:02:55,507|我16的时候,开着车 撞上了一个想搭便车的家伙 |when I was 16,I was driving, and I hit this <b>hitchhiker</b>. |
 
-## natalie
-* [ˈnætəli] 
-* 0+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|245|00:11:22,735 --> 00:11:24,739|我和Natalie又开始约会了 |So <b>natalie</b> and i started dating again. |
-|68|00:03:04,676 --> 00:03:06,344|Natalie呢? |What about <b>natalie</b>? |
-|328|00:14:59,329 --> 00:15:01,708|就那样 第2天晚上 我带Natalie出去吃饭... |So,the next night,I took <b>natalie</b> out to dinner... |
-
 ## fond
 * [fɑnd] 
-* 0+
+* 1+
 * `CET4` 
 
 
@@ -364,18 +298,18 @@ The number of selected words is 140
 
 ## candles
 * [ˈkændəlz] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|72|00:03:12,425 --> 00:03:14,314|我和她有很多美好的回忆 她茶几上的蜡烛 她床上收集的袜子猴 她的微笑... |I had so many fond memories of her: The tea <b>candles</b> on her dresser, the sock monkey collection on her bed, her smile... |
 |247|00:11:27,328 --> 00:11:28,566|蜡烛... |The tea <b>candles</b>... |
+|72|00:03:12,425 --> 00:03:14,314|我和她有很多美好的回忆 她茶几上的蜡烛 她床上收集的袜子猴 她的微笑... |I had so many fond memories of her: The tea <b>candles</b> on her dresser, the sock monkey collection on her bed, her smile... |
 
 ## dresser
 * [ˈdrɛsər] 
-* 0+
+* 1+
 * 
 
 
@@ -383,30 +317,9 @@ The number of selected words is 140
 | :-------- | :---------: | :---------: | :---------: | 
 |72|00:03:12,425 --> 00:03:14,314|我和她有很多美好的回忆 她茶几上的蜡烛 她床上收集的袜子猴 她的微笑... |I had so many fond memories of her: The tea candles on her <b>dresser</b>, the sock monkey collection on her bed, her smile... |
 
-## sock
-* [sɑk] 
-* 5+
-* `GRE` 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|248|00:11:28,901 --> 00:11:30,129|袜子猴... |the <b>sock</b> monkeys... |
-|72|00:03:12,425 --> 00:03:14,314|我和她有很多美好的回忆 她茶几上的蜡烛 她床上收集的袜子猴 她的微笑... |I had so many fond memories of her: The tea candles on her dresser, the <b>sock</b> monkey collection on her bed, her smile... |
-
-## monkey
-* [ˈməŋki] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|72|00:03:12,425 --> 00:03:14,314|我和她有很多美好的回忆 她茶几上的蜡烛 她床上收集的袜子猴 她的微笑... |I had so many fond memories of her: The tea candles on her dresser, the sock <b>monkey</b> collection on her bed, her smile... |
-
 ## collection
 * [kəˈlɛkʃən] 
-* 0+
+* 1+
 * `GRE` `CET4` 
 
 
@@ -416,7 +329,7 @@ The number of selected words is 140
 
 ## bed
 * [bɛd] 
-* 3+
+* 4+
 * 
 
 
@@ -426,7 +339,7 @@ The number of selected words is 140
 
 ## smile
 * [smaɪl] 
-* 0+
+* 1+
 * 
 
 
@@ -436,7 +349,7 @@ The number of selected words is 140
 
 ## dumped
 * [dəmpt] 
-* 0+
+* 2+
 * 
 
 
@@ -447,7 +360,7 @@ The number of selected words is 140
 
 ## porn
 * [pɔrn] 
-* 0+
+* 1+
 * 
 
 
@@ -457,7 +370,7 @@ The number of selected words is 140
 
 ## star
 * [stɑr] 
-* 0+
+* 1+
 * `CET4` 
 
 
@@ -467,18 +380,18 @@ The number of selected words is 140
 
 ## friendship
 * [ˈfrɛndʃɪp] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|83|00:03:39,048 --> 00:03:40,189|我们的友谊完了 |Friendship over. |
 |84|00:03:40,860 --> 00:03:42,778|我们的友谊完了! |Friendship over! |
+|83|00:03:39,048 --> 00:03:40,189|我们的友谊完了 |Friendship over. |
 
 ## hall
 * [hɔl] 
-* 3+
+* 6+
 * 
 
 
@@ -490,7 +403,7 @@ The number of selected words is 140
 
 ## passing
 * [ˈpæsɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -500,18 +413,18 @@ The number of selected words is 140
 
 ## nipple
 * [ˈnɪpəl] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|98|00:04:18,129 --> 00:04:19,596|我在新闻上说了"乳头" |I said "<b>nipple</b>" on the news. |
 |92|00:03:59,629 --> 00:04:02,209|那么 下次当你经过市政厅时 你可以仅用一个乳头买到一个热狗 |so,next time you're passing city hall, you could get one for only a <b>nipple</b>. |
+|98|00:04:18,129 --> 00:04:19,596|我在新闻上说了"乳头" |I said "<b>nipple</b>" on the news. |
 
 ## booger
 * [booger*] 
-* 0+
+* 1+
 * 
 
 
@@ -521,7 +434,7 @@ The number of selected words is 140
 
 ## challenge
 * [ˈʧælənʤ] 
-* 0+
+* 1+
 * `IELTS` `CET4` `CET6` 
 
 
@@ -531,7 +444,7 @@ The number of selected words is 140
 
 ## talks
 * [tɔks] 
-* 0+
+* 1+
 * 
 
 
@@ -541,7 +454,7 @@ The number of selected words is 140
 
 ## haven
 * [ˈhevən] 
-* 4+
+* 5+
 * `TOEFL` `IELTS` `GRE` `CET6` 
 
 
@@ -551,7 +464,7 @@ The number of selected words is 140
 
 ## promoted
 * [prəˈmoʊtəd] 
-* 0+
+* 1+
 * 
 
 
@@ -561,7 +474,7 @@ The number of selected words is 140
 
 ## hundie
 * [hundie*] 
-* 0+
+* 1+
 * 
 
 
@@ -571,7 +484,7 @@ The number of selected words is 140
 
 ## sticks
 * [stɪks] 
-* 0+
+* 1+
 * 
 
 
@@ -581,7 +494,7 @@ The number of selected words is 140
 
 ## assuming
 * [əˈsumɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -591,7 +504,7 @@ The number of selected words is 140
 
 ## wonder
 * [ˈwəndər] 
-* 0+
+* 1+
 * `CET4` 
 
 
@@ -601,18 +514,18 @@ The number of selected words is 140
 
 ## remembers
 * [rɪˈmɛmbərz] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|128|00:05:48,259 --> 00:05:49,659|她还记得我 |She <b>remembers</b> me. |
 |124|00:05:35,590 --> 00:05:36,904|不知道她是不是还记得我 |Wonder if she even <b>remembers</b> me. |
+|128|00:05:48,259 --> 00:05:49,659|她还记得我 |She <b>remembers</b> me. |
 
 ## mosby
 * [ˈmɔsbi] 
-* 5+
+* 6+
 * 
 
 
@@ -622,7 +535,7 @@ The number of selected words is 140
 
 ## interest
 * [ˈɪntəˌrɛst] 
-* 3+
+* 4+
 * `TOEFL` `CET4` 
 
 
@@ -632,7 +545,7 @@ The number of selected words is 140
 
 ## wasn
 * [wasn*] 
-* 4+
+* 5+
 * 
 
 
@@ -642,7 +555,7 @@ The number of selected words is 140
 
 ## commitment
 * [kəˈmɪtmənt] 
-* 0+
+* 2+
 * `TOEFL` `CET4` `CET6` 
 
 
@@ -651,21 +564,9 @@ The number of selected words is 140
 |136|00:06:08,045 --> 00:06:09,694|他还没为做出承诺准备好 |He wasn't ready for a <b>commitment</b>. |
 |277|00:12:35,732 --> 00:12:37,199|"我还没准备好做出承诺" 噢 这太老套了 |"I'm not ready for a <b>commitment</b>." Oh,that's such a cliche. |
 
-## birthday
-* [ˈbərθˌde] 
-* 2+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|185|00:08:19,577 --> 00:08:21,179|纽约最老的一对双胞胎 在他们的100岁生日那晚 突然过世 |new york's oldest twins, suddenly passed away on this, the eve of their 100th <b>birthday</b>. |
-|137|00:06:12,015 --> 00:06:14,116|那时她的生日快到了 |And her <b>birthday</b> might've been coming up. |
-|334|00:15:16,314 --> 00:15:17,618|今天是你生日吗? |Today's your <b>birthday</b>? |
-
 ## cry
 * [kraɪ] 
-* 0+
+* 4+
 * 
 
 
@@ -673,11 +574,11 @@ The number of selected words is 140
 | :-------- | :---------: | :---------: | :---------: | 
 |146|00:06:40,269 --> 00:06:42,455|好吧 她把眼睛给哭肿了吗? |Well,did she <b>cry</b> her eyes out? |
 |174|00:07:54,728 --> 00:07:56,090|我不想看见她哭 |I didn't want to see her <b>cry</b>. |
-|306|00:13:48,552 --> 00:13:49,856|她肯定会哭 |She's gonna <b>cry</b>. |
+|325|00:14:49,844 --> 00:14:51,944|天那 她肯定会哭 |Man,she's gonna <b>cry</b>. |
 
 ## e-mail
 * [ˈiˌmel] 
-* 0+
+* 1+
 * 
 
 
@@ -687,7 +588,7 @@ The number of selected words is 140
 
 ## client
 * [klaɪənt] 
-* 0+
+* 1+
 * `IELTS` `CET4` `CET6` 
 
 
@@ -697,7 +598,7 @@ The number of selected words is 140
 
 ## gonnhave
 * [gonnhave*] 
-* 0+
+* 1+
 * 
 
 
@@ -707,7 +608,7 @@ The number of selected words is 140
 
 ## cried
 * [kraɪd] 
-* 0+
+* 1+
 * 
 
 
@@ -717,7 +618,7 @@ The number of selected words is 140
 
 ## fantastic
 * [fænˈtæstɪk] 
-* 0+
+* 1+
 * `TOEFL` `IELTS` `CET4` `CET6` 
 
 
@@ -727,7 +628,7 @@ The number of selected words is 140
 
 ## oldest
 * [ˈoʊldəst] 
-* 0+
+* 1+
 * 
 
 
@@ -737,7 +638,7 @@ The number of selected words is 140
 
 ## twins
 * [twɪnz] 
-* 0+
+* 1+
 * 
 
 
@@ -747,7 +648,7 @@ The number of selected words is 140
 
 ## suddenly
 * [ˈsədənli] 
-* 0+
+* 1+
 * 
 
 
@@ -757,7 +658,7 @@ The number of selected words is 140
 
 ## passed
 * [pæst] 
-* 0+
+* 1+
 * 
 
 
@@ -767,7 +668,7 @@ The number of selected words is 140
 
 ## eve
 * [iv] 
-* 0+
+* 1+
 * `CET4` 
 
 
@@ -777,7 +678,7 @@ The number of selected words is 140
 
 ## joel
 * [ʤoʊəl] 
-* 0+
+* 1+
 * 
 
 
@@ -787,7 +688,7 @@ The number of selected words is 140
 
 ## adams
 * [ˈædəmz] 
-* 0+
+* 1+
 * 
 
 
@@ -797,7 +698,7 @@ The number of selected words is 140
 
 ## vet
 * [vɛt] 
-* 0+
+* 1+
 * 
 
 
@@ -807,7 +708,7 @@ The number of selected words is 140
 
 ## owe
 * [oʊ] 
-* 0+
+* 1+
 * `IELTS` `CET4` `CET6` 
 
 
@@ -817,7 +718,7 @@ The number of selected words is 140
 
 ## good-bye
 * [ˈgʊdˌbaɪ] 
-* 5+
+* 6+
 * 
 
 
@@ -827,7 +728,7 @@ The number of selected words is 140
 
 ## sucked
 * [səkt] 
-* 0+
+* 1+
 * 
 
 
@@ -837,7 +738,7 @@ The number of selected words is 140
 
 ## issue
 * [ˈɪʃu] 
-* 0+
+* 2+
 * `TOEFL` `IELTS` `GRE` `CET4` `CET6` 
 
 
@@ -848,7 +749,7 @@ The number of selected words is 140
 
 ## self-respect
 * [ˌsɛlfrɪˈspɛkt] 
-* 0+
+* 1+
 * 
 
 
@@ -858,7 +759,7 @@ The number of selected words is 140
 
 ## overrated
 * [ˌoʊvərˈretɪd] 
-* 0+
+* 1+
 * 
 
 
@@ -868,7 +769,7 @@ The number of selected words is 140
 
 ## caffeine
 * [kæˈfin] 
-* 0+
+* 1+
 * 
 
 
@@ -878,7 +779,7 @@ The number of selected words is 140
 
 ## helpful
 * [ˈhɛlpfəl] 
-* 0+
+* 1+
 * `TOEFL` `CET4` 
 
 
@@ -888,7 +789,7 @@ The number of selected words is 140
 
 ## columns
 * [ˈkɑləmz] 
-* 0+
+* 1+
 * 
 
 
@@ -898,7 +799,7 @@ The number of selected words is 140
 
 ## october
 * [ɑkˈtoʊbər] 
-* 1+
+* 2+
 * 
 
 
@@ -908,7 +809,7 @@ The number of selected words is 140
 
 ## belle
 * [bɛl] 
-* 0+
+* 1+
 * 
 
 
@@ -918,29 +819,29 @@ The number of selected words is 140
 
 ## krav
 * [krav*] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|256|00:11:48,245 --> 00:11:49,808|兄弟 什么是Krav Maga? |Dude,what's <b>krav</b> maga? |
 |252|00:11:37,072 --> 00:11:39,096|半小时后我要去学Krav Maga |I have my <b>krav</b> maga class in half an hour. |
+|256|00:11:48,245 --> 00:11:49,808|兄弟 什么是Krav Maga? |Dude,what's <b>krav</b> maga? |
 
 ## maga
 * [maga*] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|256|00:11:48,245 --> 00:11:49,808|兄弟 什么是Krav Maga? |Dude,what's krav <b>maga</b>? |
 |252|00:11:37,072 --> 00:11:39,096|半小时后我要去学Krav Maga |I have my krav <b>maga</b> class in half an hour. |
+|256|00:11:48,245 --> 00:11:49,808|兄弟 什么是Krav Maga? |Dude,what's krav <b>maga</b>? |
 
 ## class
 * [klæs] 
-* 0+
+* 1+
 * `CET4` 
 
 
@@ -950,7 +851,7 @@ The number of selected words is 140
 
 ## yoga
 * [ˈjoʊgə] 
-* 0+
+* 1+
 * 
 
 
@@ -960,7 +861,7 @@ The number of selected words is 140
 
 ## weeks
 * [wiks] 
-* 4+
+* 5+
 * 
 
 
@@ -970,7 +871,7 @@ The number of selected words is 140
 
 ## feeling
 * [ˈfilɪŋ] 
-* 3+
+* 4+
 * 
 
 
@@ -980,19 +881,19 @@ The number of selected words is 140
 
 ## ineffable
 * [ˌɪˈnɛfəbəl] 
-* 0+
+* 3+
 * `GRE` 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
+|270|00:12:21,797 --> 00:12:23,888|表达不出来 说的好 |Ineffable. Good word. |
 |269|00:12:20,100 --> 00:12:21,653|不知道怎么用语言表达 |It's <b>ineffable</b>. |
 |398|00:18:11,597 --> 00:18:13,189|这是... 不知道怎么表达 |It'S... <b>ineffable</b>. |
-|270|00:12:21,797 --> 00:12:23,888|表达不出来 说的好 |Ineffable. Good word. |
 
 ## subway
 * [ˈsəbˌwe] 
-* 5+
+* 6+
 * `CET4` 
 
 
@@ -1002,7 +903,7 @@ The number of selected words is 140
 
 ## voice
 * [vɔɪs] 
-* 2+
+* 3+
 * 
 
 
@@ -1012,18 +913,8 @@ The number of selected words is 140
 
 ## beep
 * [bip] 
-* 0+
+* 1+
 * 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|273|00:12:27,628 --> 00:12:28,798|你可以给她语音信箱留言 哔! "甩掉" 挂电话 搞定 我必须面对面去做 |You could call her voice mail: Beep! "Dumped." Click. DE. No, I have to do this face-to-face. |
-
-## click
-* [klɪk] 
-* 6+
-* `IELTS` `CET4` 
 
 
 | Number  | Timeline  | Chinese  | English  | 
@@ -1032,7 +923,7 @@ The number of selected words is 140
 
 ## de
 * [də] 
-* 1+
+* 2+
 * 
 
 
@@ -1042,7 +933,7 @@ The number of selected words is 140
 
 ## cliche
 * [kliˈʃe] 
-* 0+
+* 1+
 * `IELTS` 
 
 
@@ -1052,7 +943,7 @@ The number of selected words is 140
 
 ## classic
 * [ˈklæsɪk] 
-* 1+
+* 2+
 * `IELTS` `CET4` `CET6` 
 
 
@@ -1062,7 +953,7 @@ The number of selected words is 140
 
 ## deserves
 * [dɪˈzərvz] 
-* 0+
+* 1+
 * 
 
 
@@ -1072,7 +963,7 @@ The number of selected words is 140
 
 ## awful
 * [ˈɔfəl] 
-* 0+
+* 1+
 * `IELTS` `CET4` 
 
 
@@ -1082,19 +973,19 @@ The number of selected words is 140
 
 ## mature
 * [məˈʧʊr] 
-* 1+
+* 4+
 * `IELTS` `GRE` `CET4` `CET6` 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|329|00:15:02,091 --> 00:15:03,482|去做成熟的事 |to do the <b>mature</b> thing. |
 |309|00:13:55,160 --> 00:13:56,205|想谈谈成熟吗? |Want to talk <b>mature</b>? |
+|329|00:15:02,091 --> 00:15:03,482|去做成熟的事 |to do the <b>mature</b> thing. |
 |308|00:13:53,165 --> 00:13:54,565|我得做的成熟点 |I have to do the <b>mature</b> thing. |
 
 ## tv
 * [ˌtɛləˈvɪʒən] 
-* 1+
+* 2+
 * 
 
 
@@ -1104,7 +995,7 @@ The number of selected words is 140
 
 ## cash
 * [kæʃ] 
-* 5+
+* 6+
 * `CET4` 
 
 
@@ -1114,7 +1005,7 @@ The number of selected words is 140
 
 ## reward
 * [rɪˈwɔrd] 
-* 0+
+* 1+
 * `IELTS` `GRE` `CET4` `CET6` 
 
 
@@ -1124,7 +1015,7 @@ The number of selected words is 140
 
 ## rushing
 * [ˈrəʃɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -1134,7 +1025,7 @@ The number of selected words is 140
 
 ## yards
 * [jɑrdz] 
-* 0+
+* 1+
 * 
 
 
@@ -1144,7 +1035,7 @@ The number of selected words is 140
 
 ## given
 * [ˈgɪvɪn] 
-* 2+
+* 3+
 * 
 
 
@@ -1154,7 +1045,7 @@ The number of selected words is 140
 
 ## wine
 * [waɪn] 
-* 4+
+* 5+
 * 
 
 
@@ -1164,7 +1055,7 @@ The number of selected words is 140
 
 ## henry
 * [ˈhɛnri] 
-* 0+
+* 1+
 * 
 
 
@@ -1174,7 +1065,7 @@ The number of selected words is 140
 
 ## exciting
 * [ɪkˈsaɪtɪŋ] 
-* 3+
+* 5+
 * `TOEFL` `CET4` 
 
 
@@ -1185,7 +1076,7 @@ The number of selected words is 140
 
 ## memory
 * [ˈmɛməri] 
-* 0+
+* 1+
 * `TOEFL` `CET4` 
 
 
@@ -1195,7 +1086,7 @@ The number of selected words is 140
 
 ## direct
 * [dɪˈrɛkt] 
-* 1+
+* 2+
 * `CET4` 
 
 
@@ -1205,7 +1096,7 @@ The number of selected words is 140
 
 ## attention
 * [əˈtɛnʃən] 
-* 1+
+* 2+
 * `TOEFL` `CET4` 
 
 
@@ -1215,7 +1106,7 @@ The number of selected words is 140
 
 ## television
 * [ˈtɛləˌvɪʒən] 
-* 0+
+* 1+
 * 
 
 
@@ -1225,18 +1116,18 @@ The number of selected words is 140
 
 ## amazing
 * [əˈmezɪŋ] 
-* 3+
+* 5+
 * `TOEFL` 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|428|00:19:35,782 --> 00:19:37,105|你错过了精彩的事 |You missed something so <b>amazing</b>. |
 |350|00:16:08,380 --> 00:16:10,643|你将看到一些不可思议的事情 |You are about to see something <b>amazing</b>. |
+|428|00:19:35,782 --> 00:19:37,105|你错过了精彩的事 |You missed something so <b>amazing</b>. |
 
 ## rode
 * [roʊd] 
-* 0+
+* 1+
 * 
 
 
@@ -1246,7 +1137,7 @@ The number of selected words is 140
 
 ## fourth
 * [fɔrθ] 
-* 3+
+* 4+
 * 
 
 
@@ -1256,7 +1147,7 @@ The number of selected words is 140
 
 ## beyond
 * [bɪɔnd] 
-* 0+
+* 1+
 * `CET4` `CET6` 
 
 
@@ -1266,7 +1157,7 @@ The number of selected words is 140
 
 ## wildest
 * [ˈwaɪldɪst] 
-* 0+
+* 1+
 * 
 
 
@@ -1276,7 +1167,7 @@ The number of selected words is 140
 
 ## dreams
 * [drimz] 
-* 2+
+* 3+
 * 
 
 
@@ -1286,7 +1177,7 @@ The number of selected words is 140
 
 ## alabama
 * [ˌæləˈbæmə] 
-* 0+
+* 1+
 * 
 
 
@@ -1294,19 +1185,9 @@ The number of selected words is 140
 | :-------- | :---------: | :---------: | :---------: | 
 |373|00:17:08,905 --> 00:17:10,977|那么 如果你去阿拉巴马 我妈妈会给你煮那些巨大的龙虾 我想分手 |So,if you ever come to <b>alabama</b>, my mom throws the huge crawfish boils, I want to break up. |
 
-## throws
-* [θroʊz] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|373|00:17:08,905 --> 00:17:10,977|那么 如果你去阿拉巴马 我妈妈会给你煮那些巨大的龙虾 我想分手 |So,if you ever come to alabama, my mom <b>throws</b> the huge crawfish boils, I want to break up. |
-
 ## huge
 * [juʤ] 
-* 4+
+* 5+
 * 
 
 
@@ -1316,7 +1197,7 @@ The number of selected words is 140
 
 ## crawfish
 * [ˈkrɔˌfɪʃ] 
-* 0+
+* 1+
 * 
 
 
@@ -1326,7 +1207,7 @@ The number of selected words is 140
 
 ## boils
 * [bɔɪlz] 
-* 0+
+* 1+
 * 
 
 
@@ -1336,7 +1217,7 @@ The number of selected words is 140
 
 ## tears
 * [tɪrz] 
-* 0+
+* 1+
 * 
 
 
@@ -1346,7 +1227,7 @@ The number of selected words is 140
 
 ## deal
 * [dil] 
-* 3+
+* 4+
 * `TOEFL` `CET4` 
 
 
@@ -1356,7 +1237,7 @@ The number of selected words is 140
 
 ## explain
 * [ɪkˈsplen] 
-* 0+
+* 1+
 * `CET4` 
 
 
@@ -1366,7 +1247,7 @@ The number of selected words is 140
 
 ## effable
 * [effable*] 
-* 0+
+* 1+
 * 
 
 
@@ -1376,7 +1257,7 @@ The number of selected words is 140
 
 ## wh
 * [wh*] 
-* 0+
+* 1+
 * 
 
 
@@ -1386,7 +1267,7 @@ The number of selected words is 140
 
 ## bleeding
 * [ˈblidɪŋ] 
-* 1+
+* 2+
 * 
 
 
@@ -1396,7 +1277,7 @@ The number of selected words is 140
 
 ## internally
 * [ˌɪnˈtərnəli] 
-* 0+
+* 1+
 * 
 
 
@@ -1406,7 +1287,7 @@ The number of selected words is 140
 
 ## misfortune
 * [mɪsˈfɔrʧən] 
-* 0+
+* 1+
 * `TOEFL` `IELTS` `CET6` 
 
 
@@ -1416,7 +1297,7 @@ The number of selected words is 140
 
 ## happily
 * [ˈhæpəli] 
-* 0+
+* 1+
 * 
 
 
@@ -1426,7 +1307,7 @@ The number of selected words is 140
 
 ## anjust
 * [anjust*] 
-* 0+
+* 1+
 * 
 
 
@@ -1436,7 +1317,7 @@ The number of selected words is 140
 
 ## kw
 * [kw*] 
-* 0+
+* 1+
 * 
 
 
@@ -1446,7 +1327,7 @@ The number of selected words is 140
 
 ## upside
 * [ˈəpˈsaɪd] 
-* 0+
+* 1+
 * 
 
 
@@ -1456,12 +1337,12 @@ The number of selected words is 140
 
 ## beat
 * [bit] 
-* 0+
+* 2+
 * `TOEFL` `IELTS` `GRE` `CET4` 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|453|00:20:30,265 --> 00:20:32,634|你被一个女生痛揍了 |You got <b>beat</b> up by a girl. |
 |451|00:20:25,690 --> 00:20:27,733|你被一个女生痛揍了? |So you got <b>beat</b> up by a girl? |
+|453|00:20:30,265 --> 00:20:32,634|你被一个女生痛揍了 |You got <b>beat</b> up by a girl. |
 

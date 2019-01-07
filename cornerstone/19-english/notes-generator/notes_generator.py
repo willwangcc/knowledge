@@ -276,9 +276,11 @@ class NOTE:
 		for i, sen in enumerate(sentence):
 			if i > count:
 				break 
+			# print(self.lines_map)
+			# print(sen)
 			timeline, chinese, english = self.lines_map[sen]
 			english = english.replace(word, "<b>" + word + "</b>")
-			cur_table += "|" + sen + "|" + timeline + "|" + chinese + "|" + english + "|" + "\n"
+			cur_table += "|" + se n + "|" + timeline + "|" + chinese + "|" + english + "|" + "\n"
 		return cur_table
 
 	def render_summary(self, words):
@@ -422,7 +424,7 @@ class NOTE:
 if __name__ == "__main__":
 	file = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/notes-generator/sources/"
 	file += "How.I.Met.Your.Mother/"
-	file += "How.I.Met.Your.Mother.S01E04.srt"
+	file += "How.I.Met.Your.Mother.S01E05.srt"
 
 	# file += "movies/"
 	# file += "Bird.Box.srt"
@@ -430,8 +432,8 @@ if __name__ == "__main__":
 	note.to1368md()
 	# note.to_sentence()
 	# note.to_quizlet( )
-	# note.to_new_words_md()
-	# note.update_words_txt()
+	note.to_new_words_md()
+	note.update_words_txt()
 
     # parser = argparse.ArgumentParser()
     # parser.add_argument("-f", "--file", nargs = 1, help="src to markdown")
