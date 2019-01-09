@@ -57,6 +57,8 @@
 	* [x] Get GRE words, from `word \n define` to `word - define`, [20190105-gre-code](https://repl.it/@WillWang42/getgre)
 	* [x] Updated tag rendering, [20190105-tag渲染](https://i.imgur.com/aiEf3np.png)
 	* [x] Refactored the code, isolate vocabulary-generator.py [20190105-代码重构](https://i.imgur.com/3iggNqp.png)
+* 2019.01.09
+	* [x] Added dictionary API and get definition for words [20190109-define效果](https://i.imgur.com/laVYg6L.png) 
 
 ## 数据库设计
 

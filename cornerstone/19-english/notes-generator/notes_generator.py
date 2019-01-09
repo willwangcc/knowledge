@@ -9,9 +9,12 @@ import argparse
 import collections 
 import re
 import subprocess 
+import json
+import requests
 
 import eng_to_ipa as ipa
 import vocabulary_generator
+import dictionary
 """
 upload_imgur 
 ffmpeg 
@@ -173,7 +176,7 @@ class NOTE:
 			if self.is_end(english):
 				Chinese, English = self.merge2sentence(content)
 				lines_map[position[0]] = [position[1], Chinese, English]
-
+				print(position[1], Chinese, English)
 				# count example of sentence pattern
 				for pattern, notes in self.sentence_map.items():
 					# print(pattern, English)
@@ -231,14 +234,18 @@ class NOTE:
 		sentence: set(str)
 		r: cur_table: str 
 		"""
+		print("We are creating table for " + word + " ...")
 		count = 2
 		word_tags = self.is_tag(word)
 
 		pronounce = ipa.convert(word)
+		definition = dictionary.define(word)
+		print("definition is " + definition)
 		
 		word_notes = "* [" + pronounce + "] " + "\n"
 		word_notes += "* " + str(self.all_words_map[word]) + "+"+ "\n"
-		word_notes += "* " + word_tags 
+		word_notes += "* " + word_tags + "\n" 
+		word_notes += "* " + definition + "\n"
 
 		cur_table = "## " + word + "\n"
 		cur_table += word_notes + "\n\n"
@@ -280,7 +287,7 @@ class NOTE:
 			# print(sen)
 			timeline, chinese, english = self.lines_map[sen]
 			english = english.replace(word, "<b>" + word + "</b>")
-			cur_table += "|" + se n + "|" + timeline + "|" + chinese + "|" + english + "|" + "\n"
+			cur_table += "|" + sen + "|" + timeline + "|" + chinese + "|" + english + "|" + "\n"
 		return cur_table
 
 	def render_summary(self, words):
@@ -347,6 +354,7 @@ class NOTE:
 		new_words = []
 		tables = ""
 
+		count = 0 
 		for word, sentence in self.words_map.items():
 			if word not in self.all_words_map or self.all_words_map[word] < baseline:
 				cur_table = self.create_table(word, sentence)
@@ -354,6 +362,9 @@ class NOTE:
 				new_words.append(word)
 
 			self.all_words_map[word] += len(sentence)
+			count += 1
+			if count > 30:
+				break
 
 		summary = self.render_summary(new_words)
 		markdown += summary + tables 
@@ -424,16 +435,16 @@ class NOTE:
 if __name__ == "__main__":
 	file = "/Users/wangzhixiang/Developer/github/a-growing-cs/cornerstone/19-english/notes-generator/sources/"
 	file += "How.I.Met.Your.Mother/"
-	file += "How.I.Met.Your.Mother.S01E05.srt"
+	file += "How.I.Met.Your.Mother.S01E06.srt"
 
 	# file += "movies/"
 	# file += "Bird.Box.srt"
 	note = NOTE(file)
-	note.to1368md()
+	# note.to1368md()
 	# note.to_sentence()
 	# note.to_quizlet( )
 	note.to_new_words_md()
-	note.update_words_txt()
+	# note.update_words_txt()
 
     # parser = argparse.ArgumentParser()
     # parser.add_argument("-f", "--file", nargs = 1, help="src to markdown")

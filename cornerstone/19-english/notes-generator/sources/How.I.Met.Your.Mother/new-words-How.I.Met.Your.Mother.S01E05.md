@@ -1,5 +1,5 @@
 # New Words from How.I.Met.Your.Mother.S01E05
-The number of selected words is 135
+The number of selected words is 128
 
 |row\column|1|2|3|4|5|
 | :--------| :--------| :--------| :--------| :--------| :--------| 
@@ -9,31 +9,30 @@ The number of selected words is 135
 |4|broke|channel|cheeses|classy|cleaned|
 |5|climate|clubs|coat|common|conds|
 |6|crossed|cruises|cutlet|details|ditched|
-|7|dmv|dork|dramatic|drinking|duck|
-|8|e-mail|earlier|early|embarrassed|eve|
-|9|exclusive|explain|fateful|fiance|fixed|
-|10|floor|foggy|freaking|fruity|gorgeous|
-|11|gourmet|grind|grinding|grow|growing|
-|12|grownup|gutter|handing|heterosexual|icky|
-|13|interest|invite|isn|jones|kelly|
-|14|kindergarten|laughing|lays|league|leter|
-|15|list|lowly|mail|mortgage|named|
-|16|nap|nightill|objects|outer|pairing|
-|17|pants|pea|penis|polished|pudgy|
-|18|purse|rate|reporter|restroom|retionship|
-|19|rooms|rush|sagittarius|salads|saving|
-|20|sherbotsky|shiny|similarities|smile|smooth|
-|21|snuck|soo|space|spilled|stand|
-|22|starting|strategies|strategy|stroke|suck|
-|23|sucked|sucks|supposedly|tannins|tasting|
-|24|tastings|taxi|teeth|tons|tooth|
-|25|ultrasound|universe|usually|video|virgin|
-|26|voice|wasn|wedge|wel|wench|
-|27|weren|wetting|wine|wine-tasting|wines|
+|7|dmv|dramatic|drinking|duck|e-mail|
+|8|earlier|early|embarrassed|eve|exclusive|
+|9|explain|fateful|fiance|fixed|floor|
+|10|foggy|freaking|fruity|gorgeous|gourmet|
+|11|grind|grinding|grow|growing|grownup|
+|12|gutter|handing|heterosexual|icky|interest|
+|13|jones|kelly|kindergarten|laughing|lays|
+|14|league|leter|list|lowly|mail|
+|15|mortgage|named|nap|nightill|objects|
+|16|outer|pairing|pants|pea|penis|
+|17|polished|pudgy|purse|rate|reporter|
+|18|restroom|retionship|rooms|rush|sagittarius|
+|19|salads|saving|sherbotsky|shiny|similarities|
+|20|smile|smooth|soo|space|spilled|
+|21|starting|strategies|strategy|stroke|suck|
+|22|sucked|sucks|supposedly|tannins|tasting|
+|23|tastings|taxi|teeth|tons|tooth|
+|24|ultrasound|universe|usually|video|virgin|
+|25|voice|wedge|wel|wench|weren|
+|26|wetting|wine-tasting|wines|||
 
 ## bitch
 * [bɪʧ] 
-* 1+
+* 2+
 * 
 
 
@@ -43,7 +42,7 @@ The number of selected words is 135
 
 ## stroke
 * [stroʊk] 
-* 0+
+* 1+
 * `TOEFL` `IELTS` `GRE` `CET4` `CET6` 
 
 
@@ -53,7 +52,7 @@ The number of selected words is 135
 
 ## exclusive
 * [ɪkˈsklusɪv] 
-* 0+
+* 1+
 * `TOEFL` `GRE` `CET4` `CET6` 
 
 
@@ -63,39 +62,29 @@ The number of selected words is 135
 
 ## named
 * [nemd] 
-* 1+
+* 3+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|17|00:00:43,468 --> 00:00:46,518|不, 我的朋友叫"闭嘴" |No,a friend of mine <b>named</b> shut up. |
 |16|00:00:41,483 --> 00:00:43,420|你的朋友叫"你"? |A friend of yours <b>named</b> you? |
+|17|00:00:43,468 --> 00:00:46,518|不, 我的朋友叫"闭嘴" |No,a friend of mine <b>named</b> shut up. |
 
 ## list
 * [lɪst] 
-* 3+
+* 5+
 * `GRE` 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|20|00:00:51,284 --> 00:00:52,895|所以我在今晚出席的名单上 |So now I'm on the <b>list</b> for tonight. |
 |186|00:10:36,834 --> 00:10:38,656|噢, 呃, 我刚刚还在里面 Robin Sherbotsky 我在单子上 |Oh,um,I was just in there, robin sherbotsky. I'm on the <b>list</b>. |
-
-## stand
-* [stænd] 
-* 6+
-* `TOEFL` 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|25|00:01:03,387 --> 00:01:07,540|好吧, 在你的小世界里V.I.P. 代表什么? |All right,what does V.I.P. Stand for in your little universe? |
+|20|00:00:51,284 --> 00:00:52,895|所以我在今晚出席的名单上 |So now I'm on the <b>list</b> for tonight. |
 
 ## universe
 * [ˈjunəˌvərs] 
-* 0+
+* 1+
 * `TOEFL` `CET4` `CET6` 
 
 
@@ -105,7 +94,7 @@ The number of selected words is 135
 
 ## penis
 * [ˈpinɪs] 
-* 2+
+* 3+
 * 
 
 
@@ -115,7 +104,7 @@ The number of selected words is 135
 
 ## explain
 * [ɪkˈsplen] 
-* 2+
+* 3+
 * `CET4` 
 
 
@@ -125,7 +114,7 @@ The number of selected words is 135
 
 ## kindergarten
 * [ˈkɪndərˌgɑrtən] 
-* 0+
+* 1+
 * `CET4` 
 
 
@@ -135,7 +124,7 @@ The number of selected words is 135
 
 ## fateful
 * [ˈfetfəl] 
-* 0+
+* 1+
 * `TOEFL` 
 
 
@@ -145,7 +134,7 @@ The number of selected words is 135
 
 ## nap
 * [næp] 
-* 0+
+* 1+
 * 
 
 
@@ -155,7 +144,7 @@ The number of selected words is 135
 
 ## conds
 * [conds*] 
-* 0+
+* 1+
 * 
 
 
@@ -165,7 +154,7 @@ The number of selected words is 135
 
 ## suck
 * [sək] 
-* 0+
+* 1+
 * `IELTS` `CET4` 
 
 
@@ -175,7 +164,7 @@ The number of selected words is 135
 
 ## fiance
 * [ˌfiˌɑnˈse] 
-* 0+
+* 1+
 * 
 
 
@@ -185,7 +174,7 @@ The number of selected words is 135
 
 ## embarrassed
 * [ɪmˈbɛrəst] 
-* 0+
+* 1+
 * 
 
 
@@ -195,30 +184,18 @@ The number of selected words is 135
 
 ## grownup
 * [ˈgroʊˌnəp] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|42|00:01:52,835 --> 00:01:55,118|我们早上做的不就是吗 |That's some pretty <b>grownup</b> stuff we did this morning. |
 |41|00:01:49,766 --> 00:01:52,787|也许我们也应该开始做些成熟的事 |Maybe we should start doing some <b>grownup</b> stuff. |
-
-## wasn
-* [wasn*] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|349|00:20:19,539 --> 00:20:22,013|不是 |It <b>wasn</b>'T. |
-|43|00:01:55,137 --> 00:01:57,563|对啊, 但不是上等的 |Yeah,but it <b>wasn</b>'t classy. |
-|224|00:12:54,642 --> 00:12:55,994|又一次, 我当时不在那 所以在细节上我有点模糊 |Again,I <b>wasn</b>'t there, so I'm a little foggy on the details. |
+|42|00:01:52,835 --> 00:01:55,118|我们早上做的不就是吗 |That's some pretty <b>grownup</b> stuff we did this morning. |
 
 ## classy
 * [ˈklæsi] 
-* 0+
+* 1+
 * 
 
 
@@ -228,7 +205,7 @@ The number of selected words is 135
 
 ## wine-tasting
 * [wine-tasting*] 
-* 0+
+* 1+
 * 
 
 
@@ -236,33 +213,21 @@ The number of selected words is 135
 | :-------- | :---------: | :---------: | :---------: | 
 |44|00:01:58,494 --> 00:02:00,920|也许我们该办个品酒会 |Maybe we should have a <b>wine-tasting</b> party. |
 
-## wine
-* [waɪn] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|335|00:19:43,719 --> 00:19:46,797|我宁愿去你的品酒会 |I'd so much rather go to your fruity little <b>wine</b> tasting. |
-|156|00:09:02,254 --> 00:09:04,450|天那, 告诉我现在能开始品酒了 |Please,tell me we can drink the <b>wine</b> now. |
-|343|00:20:05,422 --> 00:20:06,640|但是,伙计 我找到另一半时 我们也去办个像样的品酒会 |But,man, when I find her, we're gonna have some bad-ass <b>wine</b> tastings. |
-
 ## tasting
 * [ˈtestɪŋ] 
-* 0+
+* 3+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
 |75|00:03:15,984 --> 00:03:17,787|就象今晚, 我们将品尝所有这些不同的酒 与这些美味的奶酪组合起来 |Like tonight,we're <b>tasting</b> all these different wines, pairing them up with these cool gourmet cheeses. |
-|335|00:19:43,719 --> 00:19:46,797|我宁愿去你的品酒会 |I'd so much rather go to your fruity little wine <b>tasting</b>. |
 |45|00:02:00,968 --> 00:02:03,711|我喜欢酒 我也喜欢品尝 |I like wine. I like <b>tasting</b>. |
+|335|00:19:43,719 --> 00:19:46,797|我宁愿去你的品酒会 |I'd so much rather go to your fruity little wine <b>tasting</b>. |
 
 ## lays
 * [lez] 
-* 0+
+* 1+
 * 
 
 
@@ -272,19 +237,19 @@ The number of selected words is 135
 
 ## kelly
 * [ˈkɛli] 
-* 0+
+* 4+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|53|00:02:25,021 --> 00:02:26,105|噢, 你会喜欢上Kelly的 |Oh,you are going to love <b>kelly</b>. |
-|114|00:05:26,790 --> 00:05:29,049|好吧, 是有点吵 Kelly在那边! 你想去找个能讲话的地方吗? 好啊! |Ok,it is a little loud There is Kelly You want to go somewhere we can talk  Totally! |
+|48|00:02:12,074 --> 00:02:16,092|所有能把下月千元工资花掉的事情 我朋友kelly也会去 |all the things you do when you know where your next thousand lays are coming from My friend <b>kelly</b>'s going to be there. |
 |59|00:02:39,905 --> 00:02:42,485|没有 Kelly…… |No. Kelly... |
+|53|00:02:25,021 --> 00:02:26,105|噢, 你会喜欢上Kelly的 |Oh,you are going to love <b>kelly</b>. |
 
 ## supposedly
 * [səˈpoʊzədli] 
-* 0+
+* 1+
 * 
 
 
@@ -294,7 +259,7 @@ The number of selected words is 135
 
 ## blazer
 * [ˈblezər] 
-* 1+
+* 2+
 * 
 
 
@@ -304,7 +269,7 @@ The number of selected words is 135
 
 ## spilled
 * [spɪld] 
-* 0+
+* 1+
 * 
 
 
@@ -314,7 +279,7 @@ The number of selected words is 135
 
 ## gorgeous
 * [ˈgɔrʤəs] 
-* 1+
+* 2+
 * `TOEFL` `IELTS` `GRE` `CET6` 
 
 
@@ -324,7 +289,7 @@ The number of selected words is 135
 
 ## similarities
 * [ˌsɪməˈlɛrətiz] 
-* 0+
+* 1+
 * 
 
 
@@ -334,7 +299,7 @@ The number of selected words is 135
 
 ## attracted
 * [əˈtræktəd] 
-* 0+
+* 1+
 * 
 
 
@@ -344,7 +309,7 @@ The number of selected words is 135
 
 ## shiny
 * [ˈʃaɪni] 
-* 0+
+* 1+
 * `TOEFL` 
 
 
@@ -354,7 +319,7 @@ The number of selected words is 135
 
 ## objects
 * [ˈɑbʤɛkts] 
-* 3+
+* 4+
 * 
 
 
@@ -364,7 +329,7 @@ The number of selected words is 135
 
 ## growing
 * [groʊɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -374,7 +339,7 @@ The number of selected words is 135
 
 ## wines
 * [waɪnz] 
-* 0+
+* 1+
 * 
 
 
@@ -384,7 +349,7 @@ The number of selected words is 135
 
 ## pairing
 * [ˈpɛrɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -394,7 +359,7 @@ The number of selected words is 135
 
 ## gourmet
 * [ˈgʊrˌme] 
-* 0+
+* 1+
 * `TOEFL` `GRE` 
 
 
@@ -404,7 +369,7 @@ The number of selected words is 135
 
 ## cheeses
 * [ˈʧizɪz] 
-* 0+
+* 1+
 * 
 
 
@@ -414,7 +379,7 @@ The number of selected words is 135
 
 ## heterosexual
 * [ˌhɛtəroʊˈsɛkˌʃuəl] 
-* 0+
+* 1+
 * 
 
 
@@ -424,7 +389,7 @@ The number of selected words is 135
 
 ## retionship
 * [retionship*] 
-* 0+
+* 1+
 * 
 
 
@@ -434,7 +399,7 @@ The number of selected words is 135
 
 ## strategy
 * [ˈstrætəʤi] 
-* 0+
+* 1+
 * `CET4` `CET6` 
 
 
@@ -444,7 +409,7 @@ The number of selected words is 135
 
 ## cutlet
 * [cutlet*] 
-* 0+
+* 2+
 * 
 
 
@@ -455,7 +420,7 @@ The number of selected words is 135
 
 ## early
 * [ˈərli] 
-* 1+
+* 2+
 * 
 
 
@@ -465,7 +430,7 @@ The number of selected words is 135
 
 ## grind
 * [graɪnd] 
-* 0+
+* 1+
 * `TOEFL` `IELTS` `GRE` `CET4` 
 
 
@@ -475,7 +440,7 @@ The number of selected words is 135
 
 ## nightill
 * [nightill*] 
-* 0+
+* 1+
 * 
 
 
@@ -485,7 +450,7 @@ The number of selected words is 135
 
 ## strategies
 * [ˈstrætəʤiz] 
-* 0+
+* 1+
 * 
 
 
@@ -495,7 +460,7 @@ The number of selected words is 135
 
 ## wel
 * [wel*] 
-* 0+
+* 1+
 * 
 
 
@@ -505,7 +470,7 @@ The number of selected words is 135
 
 ## interest
 * [ˈɪntəˌrɛst] 
-* 5+
+* 6+
 * `TOEFL` `CET4` 
 
 
@@ -515,7 +480,7 @@ The number of selected words is 135
 
 ## rate
 * [ret] 
-* 0+
+* 1+
 * `CET4` 
 
 
@@ -525,7 +490,7 @@ The number of selected words is 135
 
 ## climate
 * [ˈklaɪmɪt] 
-* 0+
+* 1+
 * `TOEFL` `CET4` `CET6` 
 
 
@@ -535,7 +500,7 @@ The number of selected words is 135
 
 ## fixed
 * [fɪkst] 
-* 0+
+* 2+
 * 
 
 
@@ -546,7 +511,7 @@ The number of selected words is 135
 
 ## mortgage
 * [ˈmɔrgɪʤ] 
-* 3+
+* 5+
 * `IELTS` `GRE` `CET6` 
 
 
@@ -557,7 +522,7 @@ The number of selected words is 135
 
 ## pudgy
 * [ˈpəʤi] 
-* 0+
+* 1+
 * 
 
 
@@ -567,7 +532,7 @@ The number of selected words is 135
 
 ## duck
 * [dək] 
-* 0+
+* 1+
 * 
 
 
@@ -577,7 +542,7 @@ The number of selected words is 135
 
 ## arbitrary
 * [ˈɑrbɪˌtrɛri] 
-* 0+
+* 1+
 * `TOEFL` `IELTS` `GRE` `CET4` `CET6` 
 
 
@@ -587,7 +552,7 @@ The number of selected words is 135
 
 ## awkward
 * [ˈɔkwərd] 
-* 0+
+* 1+
 * `TOEFL` `IELTS` `GRE` `CET4` `CET6` 
 
 
@@ -597,7 +562,7 @@ The number of selected words is 135
 
 ## drinking
 * [ˈdrɪŋkɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -607,7 +572,7 @@ The number of selected words is 135
 
 ## freaking
 * [ˈfrikɪŋ] 
-* 3+
+* 5+
 * 
 
 
@@ -618,19 +583,19 @@ The number of selected words is 135
 
 ## tannins
 * [tannins*] 
-* 0+
+* 4+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|157|00:09:04,479 --> 00:09:07,778|再等5分钟, 别弄糟单宁酸 |Five more minutes.Don't want to rush those <b>tannins</b>. |
 |158|00:09:08,660 --> 00:09:11,432|该死的单宁酸 |Freaking <b>tannins</b>. |
-|129|00:06:43,607 --> 00:06:47,060|该死的单宁酸 |Freaking <b>tannins</b>. |
+|157|00:09:04,479 --> 00:09:07,778|再等5分钟, 别弄糟单宁酸 |Five more minutes.Don't want to rush those <b>tannins</b>. |
+|214|00:11:58,138 --> 00:11:58,987|耶! 没有单宁酸! |Yeah!  No <b>tannins</b>! |
 
 ## sagittarius
 * [sagittarius*] 
-* 0+
+* 1+
 * 
 
 
@@ -640,7 +605,7 @@ The number of selected words is 135
 
 ## ultrasound
 * [ˌəltrəˈsaʊnd] 
-* 0+
+* 1+
 * 
 
 
@@ -650,7 +615,7 @@ The number of selected words is 135
 
 ## video
 * [ˈvɪdioʊ] 
-* 3+
+* 4+
 * `CET4` 
 
 
@@ -660,7 +625,7 @@ The number of selected words is 135
 
 ## starting
 * [ˈstɑrtɪŋ] 
-* 3+
+* 4+
 * 
 
 
@@ -670,7 +635,7 @@ The number of selected words is 135
 
 ## grow
 * [groʊ] 
-* 3+
+* 4+
 * 
 
 
@@ -680,7 +645,7 @@ The number of selected words is 135
 
 ## acting
 * [ˈæktɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -690,7 +655,7 @@ The number of selected words is 135
 
 ## apartment
 * [əˈpɑrtmənt] 
-* 0+
+* 1+
 * `CET4` `CET6` 
 
 
@@ -700,7 +665,7 @@ The number of selected words is 135
 
 ## floor
 * [flɔr] 
-* 3+
+* 4+
 * 
 
 
@@ -710,7 +675,7 @@ The number of selected words is 135
 
 ## taxi
 * [ˈtæksi] 
-* 0+
+* 2+
 * `CET4` 
 
 
@@ -721,7 +686,7 @@ The number of selected words is 135
 
 ## album
 * [ˈælbəm] 
-* 0+
+* 1+
 * `IELTS` `CET6` 
 
 
@@ -731,7 +696,7 @@ The number of selected words is 135
 
 ## smooth
 * [smuð] 
-* 1+
+* 2+
 * `IELTS` `GRE` `CET4` 
 
 
@@ -741,7 +706,7 @@ The number of selected words is 135
 
 ## polished
 * [ˈpɑlɪʃt] 
-* 0+
+* 1+
 * `TOEFL` 
 
 
@@ -751,7 +716,7 @@ The number of selected words is 135
 
 ## jones
 * [ʤoʊnz] 
-* 0+
+* 1+
 * 
 
 
@@ -761,7 +726,7 @@ The number of selected words is 135
 
 ## rush
 * [rəʃ] 
-* 0+
+* 1+
 * `CET4` 
 
 
@@ -771,7 +736,7 @@ The number of selected words is 135
 
 ## outer
 * [ˈaʊtər] 
-* 0+
+* 1+
 * `CET4` 
 
 
@@ -781,7 +746,7 @@ The number of selected words is 135
 
 ## space
 * [spes] 
-* 4+
+* 5+
 * 
 
 
@@ -791,7 +756,7 @@ The number of selected words is 135
 
 ## wetting
 * [ˈwɛtɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -801,7 +766,7 @@ The number of selected words is 135
 
 ## pants
 * [pænts] 
-* 0+
+* 1+
 * `TOEFL` `IELTS` `CET4` 
 
 
@@ -811,19 +776,19 @@ The number of selected words is 135
 
 ## clubs
 * [kləbz] 
-* 0+
+* 5+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|167|00:09:48,364 --> 00:09:50,819|夜总会太烂了 |Clubs sucked. |
+|166|00:09:45,842 --> 00:09:47,587|夜总会一点都不好 |Clubs weren't even okay. |
 |334|00:19:41,494 --> 00:19:43,642|你认为我喜欢去这总夜总会吗? |You think I like going to those <b>clubs</b>? |
-|246|00:14:05,666 --> 00:14:06,692|那天 我不知道在那发生了什么事 这种夜总会应该很有趣, 不是吗? |Now to this day, I don't know what happened in there, These <b>clubs</b> are supposed to be fun,right? |
+|167|00:09:48,364 --> 00:09:50,819|夜总会太烂了 |Clubs sucked. |
 
 ## weren
 * [weren*] 
-* 0+
+* 2+
 * 
 
 
@@ -834,7 +799,7 @@ The number of selected words is 135
 
 ## sucked
 * [səkt] 
-* 2+
+* 3+
 * 
 
 
@@ -844,7 +809,7 @@ The number of selected words is 135
 
 ## voice
 * [vɔɪs] 
-* 4+
+* 5+
 * 
 
 
@@ -854,7 +819,7 @@ The number of selected words is 135
 
 ## mail
 * [mel] 
-* 0+
+* 1+
 * 
 
 
@@ -862,30 +827,20 @@ The number of selected words is 135
 | :-------- | :---------: | :---------: | :---------: | 
 |175|00:10:08,811 --> 00:10:10,135|好样的 语音信箱 |Great. Voice <b>mail</b>. |
 
-## isn
-* [isn*] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|179|00:10:15,419 --> 00:10:18,123|噢, 是啊 Affleck有3兄弟吗? |Oh,yeah. Isn't there a third affleck brother? |
-
 ## affleck
 * [ˈæflɪk] 
-* 0+
+* 2+
 * 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|192|00:10:51,997 --> 00:10:54,893|应该跟着Brian Affleck溜进去 |Should have snuck in with brian <b>affleck</b>. |
 |179|00:10:15,419 --> 00:10:18,123|噢, 是啊 Affleck有3兄弟吗? |Oh,yeah. Isn't there a third <b>affleck</b> brother? |
+|192|00:10:51,997 --> 00:10:54,893|应该跟着Brian Affleck溜进去 |Should have snuck in with brian <b>affleck</b>. |
 
 ## tons
 * [tənz] 
-* 0+
+* 1+
 * 
 
 
@@ -895,7 +850,7 @@ The number of selected words is 135
 
 ## rooms
 * [rumz] 
-* 0+
+* 1+
 * 
 
 
@@ -905,7 +860,7 @@ The number of selected words is 135
 
 ## virgin
 * [ˈvərʤɪn] 
-* 0+
+* 1+
 * `CET6` 
 
 
@@ -915,7 +870,7 @@ The number of selected words is 135
 
 ## sherbotsky
 * [sherbotsky*] 
-* 0+
+* 2+
 * 
 
 
@@ -926,7 +881,7 @@ The number of selected words is 135
 
 ## crossed
 * [krɔst] 
-* 0+
+* 1+
 * 
 
 
@@ -936,7 +891,7 @@ The number of selected words is 135
 
 ## reporter
 * [rɪˈpɔrtər] 
-* 3+
+* 4+
 * `CET4` 
 
 
@@ -946,28 +901,18 @@ The number of selected words is 135
 
 ## channel
 * [ˈʧænəl] 
-* 1+
+* 3+
 * `CET4` 
 
 
 | Number  | Timeline  | Chinese  | English  | 
 | :-------- | :---------: | :---------: | :---------: | 
-|191|00:10:47,863 --> 00:10:51,488|有一台吗? 到后面去排队 |There's a <b>channel</b> one? Back of the line. |
 |190|00:10:46,070 --> 00:10:47,815|我是一台的记者 |I'm a reporter for <b>channel</b> one. |
-
-## snuck
-* [snək] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|192|00:10:51,997 --> 00:10:54,893|应该跟着Brian Affleck溜进去 |Should have <b>snuck</b> in with brian affleck. |
+|191|00:10:47,863 --> 00:10:51,488|有一台吗? 到后面去排队 |There's a <b>channel</b> one? Back of the line. |
 
 ## brian
 * [braɪən] 
-* 0+
+* 1+
 * 
 
 
@@ -977,7 +922,7 @@ The number of selected words is 135
 
 ## smile
 * [smaɪl] 
-* 2+
+* 3+
 * 
 
 
@@ -987,7 +932,7 @@ The number of selected words is 135
 
 ## league
 * [lig] 
-* 3+
+* 4+
 * `TOEFL` `CET4` 
 
 
@@ -997,7 +942,7 @@ The number of selected words is 135
 
 ## dramatic
 * [drəˈmætɪk] 
-* 0+
+* 1+
 * `TOEFL` `IELTS` `CET4` `CET6` 
 
 
@@ -1007,7 +952,7 @@ The number of selected words is 135
 
 ## coat
 * [koʊt] 
-* 0+
+* 3+
 * 
 
 
@@ -1019,7 +964,7 @@ The number of selected words is 135
 
 ## wench
 * [wɛnʧ] 
-* 0+
+* 1+
 * 
 
 
@@ -1029,7 +974,7 @@ The number of selected words is 135
 
 ## leter
 * [leter*] 
-* 0+
+* 1+
 * 
 
 
@@ -1039,7 +984,7 @@ The number of selected words is 135
 
 ## earlier
 * [ˈərliər] 
-* 0+
+* 1+
 * 
 
 
@@ -1049,7 +994,7 @@ The number of selected words is 135
 
 ## foggy
 * [ˈfɑgi] 
-* 0+
+* 1+
 * `TOEFL` 
 
 
@@ -1059,7 +1004,7 @@ The number of selected words is 135
 
 ## details
 * [ˈditelz] 
-* 0+
+* 1+
 * 
 
 
@@ -1069,7 +1014,7 @@ The number of selected words is 135
 
 ## ditched
 * [dɪʧt] 
-* 0+
+* 1+
 * 
 
 
@@ -1077,19 +1022,9 @@ The number of selected words is 135
 | :-------- | :---------: | :---------: | :---------: | 
 |228|00:13:07,692 --> 00:13:10,051|Marshall刚刚从我们的派对上溜了 |Marshall just <b>ditched</b> out on our own party. |
 
-## dork
-* [dork*] 
-* 6+
-* 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|231|00:13:15,144 --> 00:13:16,429|我真是个呆子 |I was such a <b>dork</b>. |
-
 ## lowly
 * [ˈloʊli] 
-* 0+
+* 1+
 * 
 
 
@@ -1099,7 +1034,7 @@ The number of selected words is 135
 
 ## pea
 * [pi] 
-* 0+
+* 1+
 * `CET4` 
 
 
@@ -1109,7 +1044,7 @@ The number of selected words is 135
 
 ## gutter
 * [ˈgətər] 
-* 0+
+* 1+
 * `GRE` `CET6` 
 
 
@@ -1119,7 +1054,7 @@ The number of selected words is 135
 
 ## broke
 * [broʊk] 
-* 4+
+* 5+
 * 
 
 
@@ -1129,7 +1064,7 @@ The number of selected words is 135
 
 ## tooth
 * [tuθ] 
-* 0+
+* 1+
 * 
 
 
@@ -1139,7 +1074,7 @@ The number of selected words is 135
 
 ## aspirin
 * [ˈæsprɪn] 
-* 0+
+* 1+
 * `IELTS` 
 
 
@@ -1149,7 +1084,7 @@ The number of selected words is 135
 
 ## restroom
 * [ˈrɛˌstrum] 
-* 0+
+* 1+
 * 
 
 
@@ -1159,7 +1094,7 @@ The number of selected words is 135
 
 ## usually
 * [ˈjuʒəwəli] 
-* 1+
+* 2+
 * `CET4` 
 
 
@@ -1169,7 +1104,7 @@ The number of selected words is 135
 
 ## sucks
 * [səks] 
-* 1+
+* 2+
 * 
 
 
@@ -1179,7 +1114,7 @@ The number of selected words is 135
 
 ## cruises
 * [ˈkruzɪz] 
-* 0+
+* 1+
 * 
 
 
@@ -1189,7 +1124,7 @@ The number of selected words is 135
 
 ## eve
 * [iv] 
-* 2+
+* 3+
 * `CET4` 
 
 
@@ -1199,7 +1134,7 @@ The number of selected words is 135
 
 ## e-mail
 * [ˈiˌmel] 
-* 2+
+* 3+
 * 
 
 
@@ -1209,7 +1144,7 @@ The number of selected words is 135
 
 ## becoming
 * [bɪˈkəmɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -1219,7 +1154,7 @@ The number of selected words is 135
 
 ## dmv
 * [dmv*] 
-* 0+
+* 1+
 * 
 
 
@@ -1229,7 +1164,7 @@ The number of selected words is 135
 
 ## teeth
 * [tiθ] 
-* 0+
+* 1+
 * 
 
 
@@ -1239,7 +1174,7 @@ The number of selected words is 135
 
 ## cleaned
 * [klind] 
-* 1+
+* 2+
 * 
 
 
@@ -1249,7 +1184,7 @@ The number of selected words is 135
 
 ## answered
 * [ˈænsərd] 
-* 3+
+* 4+
 * 
 
 
@@ -1259,7 +1194,7 @@ The number of selected words is 135
 
 ## wedge
 * [wɛʤ] 
-* 0+
+* 1+
 * `IELTS` `CET6` 
 
 
@@ -1269,7 +1204,7 @@ The number of selected words is 135
 
 ## grinding
 * [ˈgraɪndɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -1279,7 +1214,7 @@ The number of selected words is 135
 
 ## laughing
 * [ˈlæfɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -1289,7 +1224,7 @@ The number of selected words is 135
 
 ## saving
 * [ˈsevɪŋ] 
-* 1+
+* 2+
 * `CET4` 
 
 
@@ -1299,7 +1234,7 @@ The number of selected words is 135
 
 ## soo
 * [su] 
-* 0+
+* 1+
 * 
 
 
@@ -1309,7 +1244,7 @@ The number of selected words is 135
 
 ## handing
 * [ˈhændɪŋ] 
-* 0+
+* 1+
 * 
 
 
@@ -1319,7 +1254,7 @@ The number of selected words is 135
 
 ## icky
 * [icky*] 
-* 0+
+* 1+
 * 
 
 
@@ -1327,19 +1262,9 @@ The number of selected words is 135
 | :-------- | :---------: | :---------: | :---------: | 
 |321|00:18:55,815 --> 00:18:58,797|后来他们…… 甜的发腻 |And then it got... <b>icky</b>. |
 
-## invite
-* [ˌɪnˈvaɪt] 
-* 6+
-* `CET4` 
-
-
-| Number  | Timeline  | Chinese  | English  | 
-| :-------- | :---------: | :---------: | :---------: | 
-|324|00:19:15,983 --> 00:19:18,755|你们出来没邀请让我有点伤心 |It kind of hurt that you guys didn't <b>invite</b> me out. |
-
 ## common
 * [ˈkɑmən] 
-* 0+
+* 1+
 * 
 
 
@@ -1349,7 +1274,7 @@ The number of selected words is 135
 
 ## fruity
 * [ˈfruti] 
-* 0+
+* 1+
 * 
 
 
@@ -1359,7 +1284,7 @@ The number of selected words is 135
 
 ## barf
 * [bɑrf] 
-* 0+
+* 1+
 * 
 
 
@@ -1369,7 +1294,7 @@ The number of selected words is 135
 
 ## purse
 * [pərs] 
-* 0+
+* 1+
 * `GRE` `CET4` 
 
 
@@ -1379,7 +1304,7 @@ The number of selected words is 135
 
 ## bad-ass
 * [ˈbæˌdæs] 
-* 0+
+* 1+
 * 
 
 
@@ -1389,7 +1314,7 @@ The number of selected words is 135
 
 ## tastings
 * [ˈtestɪŋz] 
-* 0+
+* 1+
 * 
 
 
@@ -1399,7 +1324,7 @@ The number of selected words is 135
 
 ## salads
 * [ˈsælədz] 
-* 0+
+* 1+
 * 
 
 
