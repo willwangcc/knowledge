@@ -1,6 +1,0 @@
-"1" || "This is all the money I have in the world" || "((all\athe\s\w+\sI\s))" || "[知识点] + 定语从句" || "1"
-"2" || "If this is about us getting back together..." || "([i|I]f\sthis\sis\sabout)" || "如果这是因为..." || "1"
-"3" || "There's no such thing as the signal." || "(There's\sno\ssuch\sthing\sas\s)" || "根本没有xxx这回事儿" || "1"
-"4" || "It was like something from an old movie, I'm going to marry her some day." || "([I|i]t\swas\slike\ssomething\sfrom\s)" || "这就好像..." || "1"
-"5" || "Are you sure that's a good idea after last time you looked really creepy without eyebrows." || "(Are\syou\ssure\sthat's\sa\sgood\sidea\safter\s)" || "你肯定这是个好主意吗？要知道..." || "1"
-"6" || "how have I always described my perfect woman?" || "([h|H]ow\shave\sI\salways\sdescribed\s)" || "我都是怎么描述我..." || "1"
