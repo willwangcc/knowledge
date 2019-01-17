@@ -1,11 +1,11 @@
 # Interview
 
 > 面试的本质：需求对接，价值匹配。 
-
+> 
+>  **Luck** is what happens when **preparation** meets **opportunity**.
 
 ## Lists 
 
->  **Luck** is what happens when **preparation** meets **opportunity**.
 
 |key|why|what|how|
 |:--|:--|:--|:--|

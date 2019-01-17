@@ -51,5 +51,5 @@
                
 * [ ] 16. **职业规划**
 * [ ] 17. 思维方式
-* [ ] 18. **求职面试**
-* [ ] 19. **英语**写作
+* [ ] 18. [**求职面试**](https://github.com/willwang-x/a-growing-cs/tree/master/cornerstone/18-interview)
+* [ ] 19. [**英语**写作](https://github.com/willwang-x/a-growing-cs/tree/master/cornerstone/19-english)
