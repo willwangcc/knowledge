@@ -15,7 +15,7 @@
 >
 > If it's not (and it's not), you know you need to stretch more. The goal isn't the splits, just some self-determined level. 
 >
->  ——— *[Learning Tip: The 5 Second Gutcheck](https://betterexplained.com/articles/gutcheck/)*
+>  by *[Learning Tip: The 5 Second Gutcheck](https://betterexplained.com/articles/gutcheck/)*
 
 ## Feature 
 
