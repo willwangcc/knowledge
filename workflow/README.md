@@ -15,12 +15,19 @@
 
 ## List 
 
+
+
+
+|key|why|what|how| 
+|:--|:--|:--|:--|
+|Focus|如何雷厉风行地完成一件事情？|<img src="https://i.imgur.com/vRevCvY.png" alt="focus" width=200">|- **脱离**设备 <br> - 无法**分割** <br> - **单元**任务 <br> - **感知**时间 <br> - **聚焦**核心 <br> - **截图**支线 <br> - **踱步**时刻 <br>|
+
+
 1. Review: 如何获得过目不忘的能力？
 2. Nap:   如何充电一刻钟，活力一下午？
 3. Buoy:   如何避免踏入雷区？
 4. Sleep:   如何愉快地度过人生的三分之一？
 5. Arrange: 如何愉快地度过一天？
-6. Focus: 如何雷厉风行地完成一件事情？
 
  
 ## Idea behind workflow 
