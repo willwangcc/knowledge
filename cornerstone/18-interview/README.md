@@ -15,6 +15,7 @@
 |**项目**亮点|实战能力的考察|demos|对项目上的每一点细节都要做到**问答如流**|
 |行为面试|一个「聊不来」的人，如何合作呢？|价值观(=which is more important)|看看Amazon的面经|
 |面试机会|没有**钥匙**永远打不开门||面对面(CF)>=内推(Linkedin,Friends)>网申|
+|[面试**时刻**](https://github.com/willwang-x/algorithms-with-illustrations/blob/master/stories/better-interviewee.md)|一切取决于当场发挥|能力表演赛，共鸣，惊讶|精心的准备+平常心|
 
 
 ## Books
