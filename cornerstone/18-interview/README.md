@@ -12,10 +12,11 @@
 |[**算法**基石](https://github.com/willwang-x/algorithms-with-illustrations)|**解决问题**的能力考察|DS，常用算法，思维方式|标签训练，查漏补缺，面经练手|
 |[**语言**知识](https://github.com/willwang-x/coder-arms)|**工具**熟练程度考察|如Python: decorators; <br> Java: JVM,GC; <br> JS: this;|对语言常见面试题对答如流|
 |**专业**素养|知识**积累**的深度考察|[CS4](https://github.com/willwang-x/cs-core-skills):what-happens-when<br>Design Pattern<br>OOD<br>System Design|学会系统思考 <br>至少准备**一个点**，让对方在**20**min内**问不到底**,如RSA，多线程|
-|**项目**亮点|实战能力的考察|demos|对项目上的每一点细节都要做到**问答如流**|
+|**项目**亮点|**实战**能力的考察|demos|对项目上的每一点细节都要做到**问答如流**|
+|面试机会|没有**钥匙**永远打不开门|sell yourself|面对面(CF)>=内推(Linkedin,Friends)>网申|
+|技术面试|一切取决于当场发挥|能力表演赛，共鸣，惊讶|精心的准备+平常心|
 |行为面试|一个「聊不来」的人，如何合作呢？|价值观(=which is more important)|看看Amazon的面经|
-|面试机会|没有**钥匙**永远打不开门||面对面(CF)>=内推(Linkedin,Friends)>网申|
-|[面试**时刻**](https://github.com/willwang-x/algorithms-with-illustrations/blob/master/stories/better-interviewee.md)|一切取决于当场发挥|能力表演赛，共鸣，惊讶|精心的准备+平常心|
+
 
 
 ## Books
