@@ -16,6 +16,10 @@
 * [1368个单词就够了](https://book.douban.com/subject/25981535/): 英语**词汇**学习的最少必要知识。[读书笔记](https://www.douban.com/people/lanluotiankong/reviews)。
 
 
+## Lessons 
+
+* [如何用「回音法」學好英文口說 | 史嘉琳 Karen Chung | TEDxNTUST](https://www.youtube.com/watch?v=sQEWEPIHLzQ): Listen, **Echo**, Repeat 
+
 ## Tools
 
 查词：
