@@ -23,3 +23,7 @@
 * 低：Programming Interview Exposed
 * 中：Cracking the coding interview
 * 高：Elements of programming interviews in (Java|C++|Python)
+
+## Read More 
+
+* [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
