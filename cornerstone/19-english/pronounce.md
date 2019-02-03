@@ -12,6 +12,8 @@
 
 ## What?
 
+- [ ] [Pronounce from workflowy](https://workflowy.com/s/BZDH.3WnFc2lF9o)
+
 ![KK, DJ, IPA](https://i.imgur.com/dgSqVyA.png)
 
 * ❶  pronunciation ❷ liaison ❸ pitch pattern ❹ intonation 
