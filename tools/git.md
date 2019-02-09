@@ -9,6 +9,8 @@
 ## Tools
 
 
+<a href="https://github.com/willwang-x/a-growing-cs"><img src="https://i.imgur.com/q8amTrs.png" alt="A growing computer scientist" width=200"></a>
+
 
 |key|why|what|how|
 |:--|:--|:--|:--|
