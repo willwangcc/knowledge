@@ -11,10 +11,11 @@
 
 <a href="https://github.com/willwang-x/a-growing-cs"><img src="https://i.imgur.com/q8amTrs.png" alt="A growing computer scientist" width=200"></a>
 
+[<img src="https://i.imgur.com/D2TWJqK.png" alt="Java topic" width="200"/>](https://www.xmind.net/m/5VfC/)
 
 |key|why|what|how|
 |:--|:--|:--|:--|
-|[Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)|Whole picture| [<img src="https://i.imgur.com/rNLeezQ.jpg" alt="git cheatsheet" width=200">](http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;) |check|
+|[Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)|Whole picture| [<img src="https://i.imgur.com/rNLeezQ.jpg" alt="git cheatsheet" width=200">](http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;) <br> [<img src="https://i.imgur.com/rNLeezQ.jpg" alt="git cheatsheet" width="200"/>](http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;) |check|
 |[Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)|search|<a href="https://education.github.com/git-cheat-sheet-education.pdf"><img src="https://i.imgur.com/I1DE9J9.png" alt="git cheatsheet" width=200"> </a>|check|
 
 
