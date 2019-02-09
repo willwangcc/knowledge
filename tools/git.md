@@ -8,10 +8,12 @@
 
 ## Tools
 
+
+
 |key|why|what|how|
 |:--|:--|:--|:--|
-|[Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)|Whole picture|<a href="http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;"><img src="https://i.imgur.com/rNLeezQ.jpg" alt="git cheatsheet" width=200">|check|
-|[Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)|search|<a href="https://education.github.com/git-cheat-sheet-education.pdf"><img src="https://i.imgur.com/I1DE9J9.png" alt="git cheatsheet" width=200">|check|
+|[Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)|Whole picture|<a href="http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;"> <img src="https://i.imgur.com/rNLeezQ.jpg" alt="git cheatsheet" width=200"> </a>|check|
+|[Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)|search|<a href="https://education.github.com/git-cheat-sheet-education.pdf"><img src="https://i.imgur.com/I1DE9J9.png" alt="git cheatsheet" width=200"> </a>|check|
 
 
 
