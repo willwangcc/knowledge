@@ -29,8 +29,8 @@
 
 |key(IPA)|how|what|point|comments|
 |:--|:--|:--|:--|:--|
-|[iː]|**一**二三| **ev**il, t**ea**, y**ie**ld, s**ei**ze, agr**ee** |||
-|[i]|![ɪ in chinese](https://i.imgur.com/9qNxLQp.jpg)| an**y**, recip**e**, chill**i**, cook**ie**, mon**ey**, guin**ea**, coff**ee**, cham**ois**, larv**ae**, prec**is** |
+|[iː]|**一**二三| [e] [ea] [ie] [ei] [ee] <br><br> **ev**il, t**ea**, y**ie**ld, s**ei**ze, agr**ee** |||
+|[i]| <img src="https://i.imgur.com/9qNxLQp.jpg" alt="ɪ in chinese" width="200"/>|[y] [e] [i] [ie] [ey] [ea] [ee] [ois] [ae] [is] <br> <br> an**y**, recip**e**, chill**i**, cook**ie**, mon**ey**, guin**ea**, coff**ee**, cham**ois**, larv**ae**, prec**is** |
 |[eɪ]|eɪ类似中文的“诶”，走一个从e到i的过程。|I am **a**ble to s**ay** my **ei**ght **ai**m.||
 |[e]||s**e**cond br**ea**d||
 |[æ]|| h**al**f f**a**t|
@@ -42,7 +42,7 @@
 |[ʊ]||f**oo**t, b**u**ll, w**o**man|
 |[oʊ]||**o**pen, c**o**ax,  s**ou**l, mell**ow**, t**oe**, bur**eau**|
 |[ɔ]|噢|**or**ganize, f**al**l, p**au**se, l**aw**, b**ou**ght, c**our**se, ab**oar**d, f**or**,sc**ore**,  aw**ar**d,the**aur**us||
-|[ɑ]|![ɑ](https://i.imgur.com/zEByL68.png)|The **en**trepreneur wanna sw**a**p his b**o**dy because of bure**au**cracy.|
+|[ɑ]| <img src="https://i.imgur.com/zEByL68.png" alt="ɑ" width="200"/>|The **en**trepreneur wanna sw**a**p his b**o**dy because of bure**au**cracy.|
 |[aɪ]||**i**ce,rel**y**, n**ei**ther, t**ie**, b**ia**sed, c**ya**nide, [ire/ier/yer/yre] adm**ire**, amplif**ier**, fl**yer**, dryer, b**yre**|||
 |[aʊ]|||
 |[ɔɪ]||
