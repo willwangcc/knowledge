@@ -6,6 +6,124 @@
 
 和 M 讨论RSA，说是RSA是现在网络安全的基石，恰好这学期的老师是 A，然后就想顺便搞明白这个RSA算法。
 
+##  Concepts
+
+* **PKI**: A security architecture that consists of several entities: Certificate Authority (CA), server, client; and covers following techs: public-private key pair, digital certificate, encryption algorithm, hash algorithm, asymmetric/ symmetric encryption
+* **Encryption algorithm**: paired with a key to encrypt original message; to decrypt already encrytped message to original message
+* **symmetric encryption**: use the same key for encryption/decryption
+* **asymmetric encryption**: use public key for encryption; use private key for decryption
+* **hash algorithm**: used to convert original message to a fixed length hashed string, which will be used as a unique fingerprint for this particular message. [data integrity]
+* **digital certificate**: a certificate like ID, issued by CA, to prove the holder is the real one as it claims
+* **CA**: a well-known, trusted entity, issuing digital certificates/ID to web servers, in order to grant trust to them
+* **server**: web servers like amazon.com, being visited by consumers via client; also being issued digital certificate by CA
+* **client**: web browsers like Chrome, Firefox, make HTTP request to web server as the client for consumers
+
+## II. Why do we need PKI
+
+In many cases, like email transportation, money transaction, we want the sensitive information to be secure, intact; We also want the two entities involved to be authenticated to be the real ones. Thus we have 3 requirements:
+
+* **data security**: encryption algorithm
+* **data integrity**: hash algorithm
+* **identity authentication**: digital certificate / CA
+
+
+## Steps to evolve PKI
+
+Senario: A customer using Chrome as client, want to make transaction with web server bank.com. To make sensitive info secure, we evolve our PKI to provide data security, then data integrity, and identity authentication.
+
+## symmetric encryption
+
+client & server use symmetric encryption with a same key to communicate
+
+drawback:
+
+* Hackers can get the shared key when server sends the key to client
+* Server cannot safely distribute the shared key to client
+
+## asymmetric encryption (RSA)
+
+
+RSA algorithm: use public key and private key to encrypt info
+
+* generated at server,
+* beginning with 2 large prime numbers, results with 3 prime numbers: n, a, b
+* public key: n, a
+* private key: n, b
+* How to use RSA?
+	* original message om, encrypted message em
+	* em = om^a % n for encryption using public key: n, a
+	* om = em^b % n for decryptin using private key: n, b
+
+Feature:
+
+* only private key can decrypt, public key can only used to encrypt info
+* In fact, any one of the two keys can be used to encrypt, but only the other one can decrypt the encrypted message
+* private key can also encrypt info, now only public key can decrypt info
+
+Steps:
+
+* client request public key from server
+* server response the same public key to anyone who request it
+* client encrypt original info with public key, send encrypted message to server. Even though intercepted by hacker, he doesn’t have private key, can’t decrypt
+* server receive the encrypted info, use private key to decrypt
+
+Solution to first problem: cannot distribute symmetric key securely
+
+* client & server can use asymmetric encryption to distribute symmetric key
+* client request public key from server
+* server response the same public key to anyone who request it
+* client encrypt symmetric key (symmetric encryption) with public key (asymmetric encryption), send encrypted message to server. Even though intercepted by hacker, he doesn’t have private key, can’t get symmetric key
+* server receive the encrypted info (symmetric key), use private key to decrypt
+* Now, only client (browser) and server know symmetric key, which can be used to communicate.
+
+## identity authentication
+
+* Problem above: client cannot assert the server is the real server it expect. If the conversation is hacked by hacker when client want to request public key from server, then the sensitive info of client will leak to hacker
+* So, before we request public key from server, we first authenticate the server is the real one we expect
+
+How?
+
+* CA is the authority, trusted by browser/server. It signs certificate for server who apply for, by encrypting certificate info (subject+issuer+valid time+public key of subject) with its own private key. Then encrypted info is the signature
+* web server has a digital certificate (ID) issued by CA, used for client/browser to check its identity. Server will first send its digital signature to client before sending its public key
+* client/browser has a local list of CA and its public key. When request public key from server, it first check the validity of server’s digital certificate, using the public key of the issuer listed on the certificate. If the decrypted info matches, it trust the server. Otherwist, the server is bad!
+
+
+## data integrity
+
+another problem: even though hackers cannot see the original info, they can still modify encrypted info, sometimes the modified info is still meaningful, but is not what we want
+
+Solution: **fingerprint**
+
+* human kind uses fingerprint to uniquely identify a person, instead of all kinds of features of this person. It is short, and easy to check
+* In fact, it is a way to convert massive info to unique short info
+* For message, we use hash algorithm to get the fingerprint of that message. 4 features of hash algorithm:
+
+	* fixed length, short
+	* avalanche effect: minor different in original message can lead to significant difference in fingerprints
+	* no collision: two different messages shouldn’t share same fingerprint
+	* uniqueness: two fingerprints shouldn’t be calculted by one message
+
+Steps:
+
+* server hashes message using a hash algorithm, then append the hashed fingerprint and hash algorithm. It then encryptes the 3 items using private key, and sends to clients
+* clients receive message from server, decrypt message using public key, obtaining original message, hashed result, hash algorithm. Client use the same algorithm to hash original message, and compared the result with the hashed result calculated by server. If they are the same, the message is intact.
+* Even though hacker can modify message, we can use hash result as fingerprint to check if the message is intact
+
+
+## Summary
+
+PKI provides secure information transfer, used in either SSL(Secure Socket Layer) or TLS(Transport Layer Security). It involves 3 technologies:
+
+* symmetric/asymmetric encryption: secured information transfer
+* hash algorithm: data integrity
+* digital certificate: server authentication, to prove the server is the authentic one
+
+When you request a HTTPS connection to a webpage, the website will initially send its SSL certificate to your browser. This certificate contains the public key needed to begin the secure session. Based on this initial exchange, your browser and the website then initiate the ‘SSL handshake’. The SSL handshake involves the generation of shared secrets to establish a uniquely secure connection between yourself and the website.
+
+When a trusted SSL Digital Certificate is used during a HTTPS connection, users will see a padlock icon in the browser address bar. When an Extended Validation Certificate is installed on a web site, the address bar will turn green.
+
+
+
 
 ## 重新设计
 
@@ -65,3 +183,7 @@
 ## Reference 
 
 * [数字证书原理](http://www.cnblogs.com/JeffreySun/archive/2010/06/24/1627247.html) : 详细阐述了相关的原理
+* [@caomingkai](https://caomingkai.github.io/2018/12/28/Cryptography-PKI-public-key-infrastructure/) 
+* https://www.instantssl.com/ssl-certificate-products/https.html
+* https://en.wikipedia.org/wiki/Public_key_infrastructure
+
