@@ -16,4 +16,8 @@
 
 
 
-![software development](https://i.imgur.com/H7LzYzS.png)
+
+<h1 align="center">
+<br>
+  <a href="https://www.wikiwand.com/en/Continuous_integration"><img src="https://i.imgur.com/FXfIlg1.png" alt="Software development Practice" width=200"></a>
+</h1>
