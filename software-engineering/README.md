@@ -1,4 +1,15 @@
-# Software engineering 
+
+
+
+<h1 align="center">
+<br>
+  <a href="https://www.wikiwand.com/en/Software_development"><img src="https://i.imgur.com/H7LzYzS.png" alt="Software engineering" width=200"></a>
+  <br>
+    <br>
+  Software engineering 
+  <br><br>
+</h1>
+
 
 > **Software engineering** is the application of engineering to the development of software in a systematic method.[1][2][3]
 > 
@@ -10,5 +21,3 @@
 
 
 
-
-![software development](https://i.imgur.com/H7LzYzS.png)
