@@ -27,6 +27,9 @@ Continuous Integration (CI) systems are dedicated systems used to test new code.
 - Docker
 - Bash 
 
+A example project: [A continous intergration system](https://github.com/willwang-x/coder-arms/tree/master/python/projects/project-002-CI)
+
+
 ## More 
 
 - [Open Sourcing a Python Project the Right Way](https://jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/): **TravisCI** for continuous testing integration
