@@ -14,7 +14,7 @@
 |**专业**素养|知识**积累**的深度考察|[CS4](https://github.com/willwang-x/cs-core-skills):what-happens-when<br>Design Pattern<br>OOD<br>System Design|学会系统思考 <br>至少准备**一个点**，让对方在**20**min内**问不到底**,如RSA，多线程|
 |**项目**亮点|**实战**能力的考察|demos|对项目上的每一点细节都要做到**问答如流**，[**S**ituation-> **T**ask-> **A**ction-> **R**esult](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629)|
 |面试机会|没有**钥匙**永远打不开门|sell yourself|面对面(CF)>=内推(Linkedin/Friends)>网申|
-|技术面试|一切取决于当场发挥|能力表演赛，共鸣，惊讶|**精心**准备，保持**精力**，**平常心**，**当场**思考，自留**余地**，**系统**表达|
+|技术面试|一切取决于当场发挥|能力表演赛，共鸣，惊讶|**精心**准备，保持**精力**，**平常心态**，**当场**思考，自留**余地**，**系统**表达|
 |行为面试|一个「聊不来」的人，如何合作呢？|价值观(=which is more important)|看看公司About和面经, 典型如Amazon|
 
 
