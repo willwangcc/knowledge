@@ -1,5 +1,8 @@
 # System Design 
 
+![from The System Design Primer](https://i.imgur.com/i9kphdZ.png)
+
+> Everything is a trade-off.
 
 ## Why？
 
@@ -46,13 +49,16 @@
 	* Do we’ve enough replicas of the data so that if we lose a few servers, we can still serve our users?
 
  
-Exmaple: 
+### Exmaple
+
+- [Designing a URL Shortening service like TinyURL](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904)
+
 
 
 
 ## More 
 
-* **入门**：[system-design-primer](https://github.com/donnemartin/system-design-primer): 入门
+* **入门**：[system-design-primer](https://github.com/donnemartin/system-design-primer)
 * **面试**：[Grokking System Design](https://www.educative.io/collection/5668639101419520/5649050225344512): 相关课程及笔记
 * 模拟：[Pramp](https://www.pramp.com/): 模拟面试
 * 实战：[Designing Data-Intensive Applications](https://book.douban.com/subject/26197294/): 时间宽裕的话看，内容很详尽，理解会更深。
