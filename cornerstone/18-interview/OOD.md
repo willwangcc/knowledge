@@ -1,5 +1,11 @@
 # Object-oriented Design 
 
+## Why?
+
+Good design is paramount to extensible, bug-free, long-lived code. It’s possible to solve any given software problem in an almost limitless number of ways, but when software needs to be extensible and maintainable, good software design is critical to success. Using Object-oriented design best practices is one way to build lasting software. 
+
+You should have a working knowledge of a few common and useful design patterns as well as know how to write software in an object-oriented way, with appropriate use of **inheritance** and **aggregation**. You probably won’t be asked to describe the details of how specific design patterns work, but expect to have to defend your design choices.
+
 ## What 
 
 OO Design的题目一般需要UML相关的知识做准备：
@@ -27,7 +33,7 @@ Steps:
 * Design a circular array	
 
 
-## Read More 
+## More 
 
 * [ ] [如何准备OO Design](https://github.com/yaobinwen/job_hunting/blob/master/README.md) 
 * [ ] [面向对象设计面试笔记](https://wdxtub.com/interview/14520596997643.html)
