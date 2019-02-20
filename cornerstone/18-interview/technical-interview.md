@@ -13,18 +13,23 @@
 
 ## How?
 
-- Please ask **questions** if you need **clarification**.
+- **Ask** 
+	- Please ask **questions** if you need **clarification**.
 	- Why? 
 		- We want the interview process to be collaborative.
 		- We also want to learn what it would be like to work with you on a day-to-day basis in our open environment.
 	- How?
 		-  If you are asked a question, but not given enough information to solve the problem, drill down to get the information that you need.
 		-  If that information isn’t available, focus on how you would attempt to solve the problem given the limited information you have. Often times at the Company, we have to make quick decisions in the absence of all of the relevant data.
-- When answering questions, be as **concise** and **detailed** in your response as possible.
+- **Answer**
+	- When answering questions, be as **concise** and **detailed** in your response as possible.
 	- Why? We realize it’s hard to gauge how much information is too much versus not sufficient enough. 
 	- How? An effective litmus test is pausing after your succinct response to ask 
 		- if you’ve provided enough detail, 
 		- or if the interviewer would like you to go into more depth.
+- **Code** 
+	- writing scalable, robust, and well-tested code
+	- A few missed commas or typos here and there aren’t that big of a deal, but the goal is to write code that’s as close to **production-ready** as possible. This is your chance to show off your coding ability.
 
 		
 ## Flow 
