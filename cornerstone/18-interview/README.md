@@ -15,7 +15,7 @@
 |**项目**亮点|**实战**能力的考察|demos|对项目上的每一点细节都要做到**问答如流**，[**S**ituation-> **T**ask-> **A**ction-> **R**esult](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629)|
 |面试机会|没有**钥匙**永远打不开门|sell yourself|面对面(CF)>=内推(Linkedin/Friends)>网申|
 |技术面试|是驴子是马，拉出来看看|能力表演赛，共鸣，惊讶|**精心**准备，保持**精力**，**平常心态**，**当场**思考，自留**余地**，**系统**表达|
-|行为面试|一个「聊不来」的人，如何合作呢？|价值观(=which is more important)<br><br>了解一个人**未来表现**的最好方式是看TA的过去|看看公司About和面经, 典型如Amazon|
+|行为面试|一个「聊不来」的人，如何合作呢？|价值观(=which is more important)<br><br>了解一个人**未来表现**的最好方式是看TA的过去|看公司Value和面经, 不同公司有时是不同的，典型如Amazon|
 
 
 
