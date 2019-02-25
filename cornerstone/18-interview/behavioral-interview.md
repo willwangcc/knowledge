@@ -18,7 +18,7 @@ From [How to Use the STAR Interview Response Technique](https://www.thebalanceca
 - Why X?
 	- Although “Why X?” is a standard type of question, it’s not a check-the-box type of formality for us. We genuinely want to understand what inspired you to explore an opportunity with us, so we **get a better sense of who you are**. 
 	- It’s also appreciated when a candidate has put thought into a few questions for the interviewer. It goes a long way when you’ve taken the initiative to research the company prior to your interview.  
-- 1-2 Examples for each of the compnay's value.
+- 1-2 Examples for each of the company's value.
 	- The behavioral interview tie back to the company's values.
 - How do you with failed things?
 	- Be prepared to provide examples of when results didn't turn out as you planned.
