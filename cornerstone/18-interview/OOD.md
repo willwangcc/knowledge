@@ -14,17 +14,26 @@ OO Design的题目一般需要UML相关的知识做准备：
 * sequence diagram (时序图): 最常用
 * state machine diagram (状态机图): 在分析系统中某实体的状态时可能会用到。
 
-Steps:
-
-* 澄清题目中含糊不清的地方。
-* 定义出核心的对象。
-* 分析对象之间的关系，例如包含与被包含关系，数量上的关系，继承上的关系，等等。
-* 分析对象可以具有的行为(也就是各个class的methods)。
-
 ## How 
 
 
-* Design a hash map	
+* 澄清题目中**含糊不清**的地方。
+* 定义出核心的**对象**。 (名词)
+* 分析对象之间的关系，例如**包含与被包含**关系，**数量上**的关系，**继承上**的关系，等等。
+* 分析对象可以具有的**行为**(也就是各个class的methods)。 （动词）
+
+
+## Practice  
+
+
+* [**Design a hash map**](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/hash_table/hash_map.ipynb)
+	* Constraints and assumptions
+		* For simplicity, are the keys integers only?
+		* For collision resolution, can we use chaining?
+		* Do we have to worry about load factors?
+		* Can we assume inputs are valid or do we have to validate them?
+		* Can we assume this fits memory? 
+ 	
 * Design a least recently used cache	
 * Design a call center	
 * Design a deck of cards	
