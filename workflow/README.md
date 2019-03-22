@@ -22,13 +22,11 @@
 |:--|:--|:--|:--|
 |Focus|如何雷厉风行地完成一件事情？|<img src="https://i.imgur.com/vRevCvY.png" alt="focus" width="200"/>|- **脱离**设备 <br> - 踱步**思考** <br> - 聚焦**单元** <br> - **感知时间** <br> - **截图**支线 <br> - **记录**结果 ♻️ |
 |Review|如何过目不忘？|<img src="https://i.imgur.com/zO2wUs2.png" alt="review" width="200"/>|- **结点**截图 <br> - **标签**过滤 <br> - 离线@reviw <br> - 在线@map <br> - 限时处理 <br> - 分类@github <br> - **剩余**打包 <br>|
-
-
-
-2. Nap:   如何充电一刻钟，活力一下午？
-3. Buoy:   如何避免踏入雷区？
-4. Sleep:   如何愉快地度过人生的三分之一？
-5. Arrange: 如何愉快地度过一天？
+|Nap|如何充电一刻钟，活力一下午？|:--|:--|
+|Buoy| 如何避免踏入雷区？|||
+|Sleep|如何愉快地度过人生的1/3？|||
+|Arrange|如何愉快地度过一天？|||
+|Board | 如何有效弥补短板？|||
 
 ### 备注
 
