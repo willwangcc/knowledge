@@ -4,7 +4,7 @@
 
 > “我**吻**一下，可以吗?”  —— 一个有疑惑的外国男生问女生的你。
 
-切换到说英语的情形，记得我同学去修屏幕裂缝的手机，对着一个女服务员说明情况，一直把**slit**说成**slut**。
+切换到说英语的情形，记得我同学去修屏幕裂缝的手机，对着一个女店员说明情况，一直把**slit**说成**slut**。
 
 就问你尴不尴尬吧？😅
 
@@ -78,7 +78,10 @@
 
 ## More 
 
-* [Interactive IPA Chart](http://www.ipachart.com/): a set of symbols that linguists use to describe the **sounds** of spoken languages.
+* [YouGlish](https://youglish.com/): Use YouTube to improve your English pronunciation. With more than 30M tracks, YouGlish gives you fast, unbiased answers about how English is spoken by real people and in context. 
 * [tophonetics](https://tophonetics.com/): online converter of English text to IPA phonetic transcription
 * [Youtube channel|Sounds American](https://www.youtube.com/channel/UC-MSYk9R94F3TMuKAnQ7dDg/featured ): 在线美音教程
-
+* [Interactive IPA Chart](http://www.ipachart.com/): a set of symbols that linguists use to describe the **sounds** of spoken languages.
+* [The top spellings for phonemes](http://www.auburn.edu/academic/education/reading_genie/spcat.html)
+* [Forvo](https://forvo.com/): 母语使用者真人发音的世界上最大的发音词典。
+* [Rachel’s English](https://rachelsenglish.com/): 单个音素、音素对比、连读、略读、入读、节奏、语调等等。
