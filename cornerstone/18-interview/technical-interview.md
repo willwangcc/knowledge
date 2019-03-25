@@ -126,6 +126,14 @@
 * If S[i] == 0 ... 2 ... > 2...  Putting this all together ...
 * Of course, **since at each step** we only **reference** dp[i+1] and dp[i+2], we could **store these as variables** `first` and `second`. This means we do not need to store the entire array. -- [LC91 Decode Variations](https://www.pramp.com/challenge/r1Kw0vwG6OhK9AEGAy6L)
  
+### Two pointers
+
+> Define your 2 pointers 
+
+* Instead, we need to **maintain** two pointers: a write-head, and a read-head. The read-head will read each nonzero element from left to right, and we will write those values to the write-head, then increment the write-head.  -- [LC 283 Move Zeros](https://www.pramp.com/challenge/9PNnW3nbyZHlovqAvxXW)
+
+
+
 
 ## What: Suggestions on Google Docs coding?
 
