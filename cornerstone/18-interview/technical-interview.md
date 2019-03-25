@@ -117,6 +117,16 @@
 
 * We can solve this problem **in O(N⋅log(K))**. The idea is to **construct a min-heap of size k+1** and insert first k+1 elements into the heap. Then we remove min from the heap and insert next element from the array into the heap and **continue the process until both array and heap are exhausted.** Each **pop operation** from the heap should insert **the corresponding top element** in its correct position in the array.
 
+### DP 
+
+> Define your **recurrence relation** and **base cases**.
+> Besides, try to improve your space complexity if possible.
+
+* **Let** dp(i) **be the answer for the string** S[i:]. We can calculate dp(i) in terms of dp(i+1) and dp(i+2).  
+* If S[i] == 0 ... 2 ... > 2...  Putting this all together ...
+* Of course, **since at each step** we only **reference** dp[i+1] and dp[i+2], we could **store these as variables** `first` and `second`. This means we do not need to store the entire array. -- [LC91 Decode Variations](https://www.pramp.com/challenge/r1Kw0vwG6OhK9AEGAy6L)
+ 
+
 ## What: Suggestions on Google Docs coding?
 
 1. Close page break: View -> Print layout
