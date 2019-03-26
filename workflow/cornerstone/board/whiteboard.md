@@ -14,6 +14,7 @@
 - design pattern
 - OOD
 - algorithms
+- database
 
 ## Make-up
 
@@ -22,6 +23,7 @@
 - autocomplete
 - API
 - SSH
+- MySQL 
 
 ## Project 
 
