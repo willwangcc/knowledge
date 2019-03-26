@@ -15,6 +15,7 @@
 - OOD
 - algorithms
 - database
+- [面试技能](https://github.com/willwang-x/a-growing-cs/tree/master/cornerstone/18-interview)
 
 ## Make-up
 
