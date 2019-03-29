@@ -49,8 +49,10 @@
 	- Clarify the **meaning** of your variable, especially when you define:
 		- **Entries** of DP array
 		- Hashmap
-- **Explain**: 
+- **Explain**:  
 	- Coding while you are **talking**
+		- **Think loud** but not **murmur**! 💥
+		- Be quiet is OK but please tell your interview you need think quietly for 2 minutes.
 	- **Why** do you use this DS and Algorithm? Pros and Cons? Trade-off? (show you are reliable with **systematical** thinking approach 💯)
 	- Explain your idea before coding, make sure it makes sense to the interview
 
