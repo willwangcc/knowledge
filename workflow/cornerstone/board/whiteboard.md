@@ -22,9 +22,12 @@
 > What I should Know
 
 - autocomplete
-- API
+- API Design 
 - SSH
 - MySQL 
+- concurrency
+- data modeling
+- CI/CD 
 
 ## Project 
 
@@ -40,8 +43,8 @@
 
 - Kubernets
 - Dockers
-- CI/CD 
 - Jenkins
 - microservices
 - Redis 
 - Distributed systems
+- scalability
