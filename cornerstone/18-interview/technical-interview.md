@@ -115,10 +115,22 @@
 
 * However, we can do better than that. If we use min heap, we can get an asymptotically better time complexity. 
 * Building a heap takes O(K) time for K+1 elements. Insertion into and extraction from the min-heap take O(log(K)), **each**. **Across all three loops**, we do at least one of these actions N times, so the total time complexity is O(N⋅log(K)). if K is **substantially** smaller than N, then we can consider log(K) constant and **argue** that the complexity is **practically linear**.
+* Our `fitsOneByte` operation takes **a linear amount of time** and space for each chunk, and **the sum of** the chunks is the whole string.
+
+
 
 ### Space Complexity
 
 * We need to a maintain min-heap of size K+1 **throughout the algorithm**, so the **auxiliary** space complexity is O(K).
+* O(N), the space used when **considering each part** of the original string `ip`.
+
+
+### String 
+
+**Key words**: chunks, parsing, delimited, leading zeroes, bffer
+
+- We record seen characters into a buffer, and flush the buffer into our answer every time we see a delimiting character. -- [LC 468. Validate IP Address](https://www.pramp.com/challenge/Q5G1jZ1OWdtZ3GbAGpNE)
+
 
 
 ### Heap 
