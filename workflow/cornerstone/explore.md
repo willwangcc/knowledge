@@ -49,6 +49,8 @@ replay() # case study
 
 Example: [本地运行一个开源工具](https://workflowy.com/s/explain-my-shell3/Y8ZlMSiGBKN3pKvI)
 
+![本地运行一个开源工具](https://i.imgur.com/f5urBht.png)
+
 ## What?
 
 - "要么不做，要做就做完": [Impatient Execution](https://briancasel.com/impatient-execution/) Fail Fast. 不做比做完更困难。
