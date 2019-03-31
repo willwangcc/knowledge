@@ -34,3 +34,11 @@ From [How to Use the STAR Interview Response Technique](https://www.thebalanceca
 	* **Action Taken**: Discuss what you did and who was involved?
 	* **Results or Outcome**: Communicate the outcome?  How you measured the results?	
 	
+
+## More 
+
+### list of values
+
+- [amazon](https://www.amazon.jobs/en/principles)
+- [redfin](https://www.redfin.com/careers/redfin-values)
+	
