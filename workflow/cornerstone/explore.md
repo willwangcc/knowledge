@@ -16,7 +16,7 @@
 ``` python
 def solve():
 	if solved:
-		screenshot()
+		screenshot() # review
 		return 
 		
 	while queue:
@@ -26,13 +26,13 @@ def solve():
 			slove()
 		else:
 			screenshot()	
-
-solve()			
-replay() # case study	
+	return replay() # case study	
 ```
 
 1. **记录**：出现新问题，一定先记录，再解决，避免陷入问题漩涡，忘记最初的问题是什么。
-1. **定义**：定义问题是什么？定义清楚一个问题，就解决了一半的问题。
+1. **定义**：定义问题是什么？
+	- 定义清楚一个问题，就解决了一半的问题。
+	- 明确**清晰**的结束条件，这是避免进入**问题漩涡**的一个重要步骤。
 1. **选择**："要么不做，要做就做完"
 	- 	**现在做**(对解决现有问题有用) or 
 	-  **以后做**(对打基础有用 -> 截图)
