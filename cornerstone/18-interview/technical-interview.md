@@ -168,7 +168,7 @@
 
 * Instead, we need to **maintain** two pointers: a write-head, and a read-head. The read-head will read each nonzero element from left to right, and we will write those values to the write-head, then increment the write-head.  -- [LC 283 Move Zeros](https://www.pramp.com/challenge/9PNnW3nbyZHlovqAvxXW)
 
-## Lesson for Mock Interview
+## What: Lesson for Mock Interview
 
 * Look at familiar **code patterns** used for bfs as well as others. 
 * Don't spend too much much time on **complexity analysis** of there are errors in it, ask interviewer if it's okay to go on and code the solution if complexity analysis takes too long to figure out. Interviewer can tell you if it's worth coding it or not.
