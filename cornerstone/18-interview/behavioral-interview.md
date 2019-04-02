@@ -15,7 +15,7 @@ From [How to Use the STAR Interview Response Technique](https://www.thebalanceca
 > - Tell me a specific time when……, 
 > - Do have an example when you………. 
 
-- Why X?
+- Why `X`?
 	- Although “Why X?” is a standard type of question, it’s not a check-the-box type of formality for us. We genuinely want to understand what inspired you to explore an opportunity with us, so we **get a better sense of who you are**. 
 	- It’s also appreciated when a candidate has put thought into a few questions for the interviewer. It goes a long way when you’ve taken the initiative to research the company prior to your interview.  
 - 1-2 Examples for each of the company's value.
@@ -25,6 +25,8 @@ From [How to Use the STAR Interview Response Technique](https://www.thebalanceca
 	- What did you do then? What did you learn? 
 - Achievements
 	- Refresh your memory regarding your achievements in the past couple of years. 
+
+More: [behind-the-behavioral](https://workflowy.com/s/behind-the-behaviora/GSHfYBqFkHhNNui0)
 
 ## How?
 
