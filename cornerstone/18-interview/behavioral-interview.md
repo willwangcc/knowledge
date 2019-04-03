@@ -6,7 +6,34 @@ From [How to Use the STAR Interview Response Technique](https://www.thebalanceca
 
 ## Why?
 
-> The best way to predict your future performance is to examine your past and present performance in a similar situation. 
+> The best way to **predict** your future performance is to examine your **past** and present performance in a similar situation. 
+
+### As an interviewer
+
+source: [pramp](https://pramp.com)
+
+**Competency**:  Did your interviewee demonstrate strong professional competency? 
+Did they use relevant examples related to the skills necessary for the job? Did they demonstrate genuine interest and excitement about their profession?
+
+* `Not quite`: Had trouble answering basic questions
+* `Basically`: Gave mostly reasonable answers
+* `Mostly`: Gave clear answers without examples
+* `Perfectly`: Gave clear & concise answers using specific examples
+
+**Communication**: How were your interviewee's communication skills?
+
+* `Awkward`: Hardly spoke, or was very unclear
+* `Decent`: I wasn't able to understand some parts
+* `Good`: Communicated well
+* `Amazing`: Every single bit was crystal clear
+
+**Interpersonal Skills**: Did your interviewee give a positive first impression?
+
+* `Not quite`: Got off on the wrong foot
+* `Basically`: No major red flags
+* `Mostly`: Would be happy to meet again
+* `Definitely`: Was positively impressed
+
 
 ## What? 
 
