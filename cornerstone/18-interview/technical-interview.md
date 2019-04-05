@@ -35,6 +35,11 @@
 	- A few missed commas or typos here and there aren’t that big of a deal, but the goal is to write code that’s as close to **production-ready** as possible. This is your chance to show off your coding ability.
 
 
+## What: Benchmark
+
+- **Problem Solving**: answering correctly, without much help or hints
+- **Coding**: bug-less, clean, readable, reusable and maintainable code
+- **Communication**: clarity of your answers and line of reasoning
 
 ## What: Flow? 
 
