@@ -63,6 +63,7 @@ OO Design的题目一般需要UML相关的知识做准备：
 		* Does the parking lot have multiple levels? 
 * [Design a chat server	](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/online_chat/online_chat.ipynb)  
 * Design a circular array	
+* Design Amazon Locker 
 
 
 ## More 
