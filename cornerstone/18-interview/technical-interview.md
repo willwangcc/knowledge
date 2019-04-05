@@ -103,6 +103,19 @@
 
 > 流畅沟通，系统表达。
 
+- ideas
+- trade-off
+- time complexity
+- space complexity
+- string
+- array
+- heap
+- BFS
+- DP
+- two pointers
+- sorting
+- test  
+
 ### Ideas
 
 * A simple solution would be to use an efficient sorting algorithm to sort the whole array again. This method **also do not use the fact that** array is k-sorted.
@@ -123,6 +136,7 @@
 * Building a heap takes O(K) time for K+1 elements. Insertion into and extraction from the min-heap take O(log(K)), **each**. **Across all three loops**, we do at least one of these actions N times, so the total time complexity is O(N⋅log(K)). if K is **substantially** smaller than N, then we can consider log(K) constant and **argue** that the complexity is **practically linear**.
 * Our `fitsOneByte` operation takes **a linear amount of time** and space for each chunk, and **the sum of** the chunks is the whole string.
 * O(N*K^2) , where N is the length of words and K is the maximum length of any given word. For each word in words, in order to find neighbors we may **construct O(K) new words**, each in O(K) time. [BFS for LC127]
+* we have **three nested loops** whose combined time complexity is O(N^3), where N is the size of arr. We also using sorting in the beginning and that’s additional O(N⋅log(N)). The total time complexity is still O(N^3) because O(N⋅log(N)) **gets thrown away since in the asymptotic calculation it’s not material.** [[LC18 4sum](https://www.pramp.com/challenge/gKQ5zA52mySBOA5GALj9)]
 
 ### space complexity
 
@@ -130,7 +144,7 @@
 * O(N), the space used when **considering each part** of the original string `ip`.
 
 
-### Ssring 
+### string 
 
 **Key words**: chunks, parsing, delimited, leading zeroes, bffer
 
@@ -168,12 +182,22 @@
 
 * Instead, we need to **maintain** two pointers: a write-head, and a read-head. The read-head will read each nonzero element from left to right, and we will write those values to the write-head, then increment the write-head.  -- [LC 283 Move Zeros](https://www.pramp.com/challenge/9PNnW3nbyZHlovqAvxXW)
 
+### sorting 
+
+* **Leverage** the sort function of your languages library. Usually, it will have support for either a custom comparison function. For a custom comparison function compare(a, b),** typically we want to** return -1 if a < b, 1 if a > b, and 0 if a == b. -- [Absolute Value Sort](https://www.pramp.com/challenge/4E4NW7NjbnHQEx1AxoXE)
+
+### test 
+
+- Write some tests and let's give it a shot.
+
 ## What: Lesson for Mock Interview
+
+### Things you should work on:
 
 * Look at familiar **code patterns** used for bfs as well as others. 
 * Don't spend too much much time on **complexity analysis** of there are errors in it, ask interviewer if it's okay to go on and code the solution if complexity analysis takes too long to figure out. Interviewer can tell you if it's worth coding it or not.
 * It would be helpful to be more communicative when **debugging**.
-
+* I would prefer more discussion about **what you're thinking**, the possible **trade-offs**, etc. It would be good to **mention** you could write **a custom merge/quick sort**, etc. -- 2019.04.05 [Absolute Value Sort](https://www.pramp.com/challenge/4E4NW7NjbnHQEx1AxoXE) 
 ## What: Suggestions on Google Docs coding?
 
 1. Close page break: View -> Print layout
