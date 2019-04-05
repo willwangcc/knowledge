@@ -18,7 +18,7 @@ Did they use relevant examples related to the skills necessary for the job? Did 
 * `Not quite`: Had trouble answering basic questions
 * `Basically`: Gave mostly reasonable answers
 * `Mostly`: Gave clear answers without examples
-* `Perfectly`: Gave clear & concise answers using specific examples
+* `Perfectly`: Gave clear & **concise** answers using **specific** examples
 
 **Communication**: How were your interviewee's communication skills?
 
@@ -62,6 +62,12 @@ More: [behind-the-behavioral](https://workflowy.com/s/behind-the-behaviora/GSHfY
 	* **Task**: Tell what led to the situation or task?
 	* **Action Taken**: Discuss what you did and who was involved?
 	* **Results or Outcome**: Communicate the outcome?  How you measured the results?	
+
+- Mention **"STAR"** key words to help your interviwer **follow** your topic:
+	- The situation is...
+	- Our task is ...
+	- Actions we took ...
+	- Results we got ...  
 	
 
 ## More 
