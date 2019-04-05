@@ -184,7 +184,7 @@
 
 ### sorting 
 
-* **Leverage** the sort function of your languages library. Usually, it will have support for either a custom comparison function. For a custom comparison function compare(a, b),** typically we want to** return -1 if a < b, 1 if a > b, and 0 if a == b. -- [Absolute Value Sort](https://www.pramp.com/challenge/4E4NW7NjbnHQEx1AxoXE)
+* **Leverage** the sort function of your languages library. Usually, it will have support for either a custom comparison function. For a custom comparison function compare(a, b), **typically we want to** return -1 if a < b, 1 if a > b, and 0 if a == b. -- [Absolute Value Sort](https://www.pramp.com/challenge/4E4NW7NjbnHQEx1AxoXE)
 
 ### test 
 
