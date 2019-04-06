@@ -41,17 +41,17 @@
 	- `Struggling`: Had trouble grasping the problem
 	- `Decent`: Worked out a rough solution
 	- `Good `: Solved the problem with hints
-	- `Amazing`: Got an optimal solution with minimal guidance 
+	- `Amazing`: Got an optimal solution with **minimal guidance** 
 - **Coding**: bug-less, clean, readable, reusable and maintainable code
 	- `Beginner`: Unfamiliar with some of the basics
 	- `Decent`: Struggled to get from idea to running code
 	- `Strong`: Works but not quite readable, reusable or maintainable
-	- `Ninja`: Flawless code: readable, reusable & maintainable
+	- `Ninja`: Flawless code: readable, reusable & **maintainable**
 - **Communication**: clarity of your answers and line of reasoning
 	- `Awkward`: Hardly spoke, or was very unclear
 	- `Decent`: I wasn't able to understand some parts
 	- `Good`: Communicated well
-	- `Amazing`: Every single bit was crystal clear
+	- `Amazing`: Every single bit was **crystal** clear
 
 source: [pramp](https://www.pramp.com/dashboard#/) 
  
@@ -69,7 +69,8 @@ source: [pramp](https://www.pramp.com/dashboard#/)
 	- Clarify the **meaning** of your variable, especially when you define:
 		- **Entries** of DP array
 		- Hashmap
-- **Explain**:  
+- **Explain**:
+	- Try it first on **concrete** examples 
 	- Coding while you are **talking**
 		- **Think loud** but not **murmur**! 💥
 		- Be quiet is OK but please tell your interview you need think quietly for 2 minutes.
@@ -132,6 +133,7 @@ source: [pramp](https://www.pramp.com/dashboard#/)
 - heap
 - BFS
 - DP
+- binary search
 - two pointers
 - sorting
 - test  
@@ -198,6 +200,15 @@ source: [pramp](https://www.pramp.com/dashboard#/)
 * **Let** dp(i) **be the answer for the string** S[i:]. We can calculate dp(i) in terms of dp(i+1) and dp(i+2).  
 * If S[i] == 0 ... 2 ... > 2...  Putting this all together ...
 * Of course, **since at each step** we only **reference** dp[i+1] and dp[i+2], we could **store these as variables** `first` and `second`. This means we do not need to store the entire array. -- [LC91 Decode Variations](https://www.pramp.com/challenge/r1Kw0vwG6OhK9AEGAy6L)
+ 
+### binary search 
+
+key words: lower and upper bound, cut by half 
+ 
+- As we can see, the function finds an initial lower and upper bound for the answer, and sets the initial guess for the answer to be the average. **Then the iteration begins**, and the we notice that **the following facts** are true in every step of the iteration: ... 
+	- At the end of every iteration, the real root **always satisfies the inequality** `lowerBound < root < upperBound`: this is true since in the beginning of the iteration, we check if approxRoot to the power of n is greater than or lesser than x. The power function is **monotonically** increasing (i.e. a < b dictates that a^n < b^n) meaning this indicates whether the approximation is too high or too low. 
+	- The value of `(upperBound - lowerBound)` is **cut by half** in every iteration - since in every step we replace one of the values of `upperBound` or `lowerBound` by their current average. Obviously it means that **eventually** the distance between the bounds is lower than `0.001`. Since the real root is between the bounds, this **promises** the algorithm stops.
+	- [root of number](https://www.pramp.com/challenge/jKoA5GAVy9Sr9jGBjzN4)
  
 ### two pointers
 
