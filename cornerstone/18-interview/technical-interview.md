@@ -38,8 +38,23 @@
 ## What: Benchmark
 
 - **Problem Solving**: answering correctly, without much help or hints
+	- `Struggling`: Had trouble grasping the problem
+	- `Decent`: Worked out a rough solution
+	- `Good `: Solved the problem with hints
+	- `Amazing`: Got an optimal solution with minimal guidance 
 - **Coding**: bug-less, clean, readable, reusable and maintainable code
+	- `Beginner`: Unfamiliar with some of the basics
+	- `Decent`: Struggled to get from idea to running code
+	- `Strong`: Works but not quite readable, reusable or maintainable
+	- `Ninja`: Flawless code: readable, reusable & maintainable
 - **Communication**: clarity of your answers and line of reasoning
+	- `Awkward`: Hardly spoke, or was very unclear
+	- `Decent`: I wasn't able to understand some parts
+	- `Good`: Communicated well
+	- `Amazing`: Every single bit was crystal clear
+
+source: [pramp](https://www.pramp.com/dashboard#/) 
+ 
 
 ## What: Flow? 
 
@@ -202,6 +217,7 @@
 
 ### Things you should work on:
 
+* Find the solution that could use the minimal amount of work first. -- 2018.06.08 [Largest Smaller BST Key](https://www.pramp.com/challenge/pK6A4GA5YES09qKmqG33) 
 * Look at familiar **code patterns** used for bfs as well as others. 
 * Don't spend too much much time on **complexity analysis** of there are errors in it, ask interviewer if it's okay to go on and code the solution if complexity analysis takes too long to figure out. Interviewer can tell you if it's worth coding it or not.
 * It would be helpful to be more communicative when **debugging**.
