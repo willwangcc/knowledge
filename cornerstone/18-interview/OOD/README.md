@@ -2,6 +2,8 @@
 
 ## Why?
 
+> Really these problems are about one thing: can the candidate articulate and handle the **trade offs** between **“needs to work now”** and **“needs to handle changes later”**. -- [How to Interview (Object Oriented Design)](https://danonrockstar.com/how-to-interview-object-oriented-design-60de0176dfbd)
+
 Good design is paramount to extensible, bug-free, long-lived code. It’s possible to solve any given software problem in an almost limitless number of ways, but when software needs to be extensible and maintainable, good software design is critical to success. Using Object-oriented design best practices is one way to build lasting software. 
 
 You should have a working knowledge of a few common and useful design patterns as well as know how to write software in an object-oriented way, with appropriate use of **inheritance** and **aggregation**. You probably won’t be asked to describe the details of how specific design patterns work, but expect to have to defend your design choices.
@@ -22,6 +24,12 @@ OO Design的题目一般需要UML相关的知识做准备：
 * 分析对象之间的关系，例如**包含与被包含**关系，**数量上**的关系，**继承上**的关系，等等。
 * 分析对象可以具有的**行为**(也就是各个class的methods)。 （动词）
 
+Here are the steps you need to follow when answering a design problem.
+
+* Find the right level
+* Talk through use cases
+* Find the objects
+* Wire the relationships
 
 ## Practice  
 

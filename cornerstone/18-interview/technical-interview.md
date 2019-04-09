@@ -64,26 +64,52 @@ source: [pramp](https://www.pramp.com/dashboard#/)
 
 ### In
 
-- **Define**:
+- **Confirm**:
+	- Read the questions and Repeat the question back at the interviewer. (input(format & range) -> output)
+	- Clarify any assumptions you made subconsciously. Many questions are under-specified on purpose. 	
+		- e.g. *Can I assume the input well-formed and non-null? (If not, raise exception)*
+	- Work through a small example to ensure you understood the question.
+- **Think**:
+	- If you don't have any idea, Try it first on **concrete** examples. 🕵️‍♂️ What would do if you just do it by hand?
+	- Be quiet for a while is OK but please tell your interviewer you need think quietly for 2 minutes.
+	- DFS, BFS, DP, Greedy, Sliding window...
+- **Explain**:
+	- Explain a high level approach even if it is a brute force one. 
 	- Define and confirm **signature** with the interviewer. This helps you clarify with the **interviewer** about required details
+		- e.g. Let dp(i) == ? 
 	- Clarify the **meaning** of your variable, especially when you define:
 		- **Entries** of DP array
-		- Hashmap
-- **Explain**:
-	- Try it first on **concrete** examples 
+		- Hashmap 
+	- **Why** do you use this DS and Algorithm? **Pros and Cons?** Trade-off? (show you are reliable with **systematical** thinking approach 💯)
+	- Think carefully, then state and explain **the time and space complexity of your approaches**. Ask interviewer if it's okay to go on and code the solution if complexity analysis takes too long to figure out. Interviewer can tell you if it's worth coding it or not.
+	- Explain your idea before coding, make sure it makes sense to the interview
+	- Use **hints** that the interviewer gives you.
+	- Improve upon the approach and optimize. Reduce duplicated work and cache repeated computations.
+	- ❌ 💥But don't take too much to explain, otherwise, you don't have enough time to code. (Practice to explain your solution quickly)
+- **Code:** 
+	- e.g. *Is it good to code?*
 	- Coding while you are **talking**
 		- **Think loud** but not **murmur**! 💥
-		- Be quiet is OK but please tell your interview you need think quietly for 2 minutes.
-	- **Why** do you use this DS and Algorithm? Pros and Cons? Trade-off? (show you are reliable with **systematical** thinking approach 💯)
-	- Explain your idea before coding, make sure it makes sense to the interview
-
-- **Test**:
+	- Check **Edge case** in advance, raise **an exception** if there is edge cases. 💯
+	- Base case, General case.
+	- Demonstrate mastery of your chosen programming language.
+	- Demonstrate technical knowledge in data structures and algorithms.
+	- Write **in a modular fashion**. Extract out chunks of repeated code into functions.
+	- Ask for permission to use **trivial functions** without having to implement them; saves you some time.
+	- If you are cutting corners in your code, state that out loud to your interviewer and **say what you would do in a non-interview setting** (no time constraints). E.g., I would write a regex to parse this string rather than using split() which may not cover all cases.
+- **Test**: 
 	- Be proactive to find your **bug** after finish your code
 	- Be proactive to **propose test cases**: thoroughly tested the code before submitting it (💯 shows you are thoughtful and reliable)
 	- Try to be **comprehensive** to cover **corner cases**, when proposing test cases
 	- Use table to **go through** test cases when possible. Explain how does states of each variable change, when going through the code.
 - **Optimize**:
 	- Be proactive to think and propose **optimization** of your current code
+		- Look out for places where you can **refactor**.
+	- **Reiterate** the time and space complexity of your code.
+	- Explain **trade-offs** and how the code/approach can be improved if given more time.
+
+
+
 
 ### After
 
