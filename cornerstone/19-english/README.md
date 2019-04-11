@@ -19,6 +19,7 @@
 ## Lessons 
 
 * [如何用「回音法」學好英文口說 | 史嘉琳 Karen Chung | TEDxNTUST](https://www.youtube.com/watch?v=sQEWEPIHLzQ): Listen, **Echo**, Repeat 
+* [想学会一个语言？就像玩电子游戏般地去说出来](https://www.youtube.com/watch?v=mwpdffpixBY): English is just **a tool** to use to **get a result** instead of an art to be mastered. Focus on the **clarity** instead of correctness.
 
 ## Tools
 
