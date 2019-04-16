@@ -53,7 +53,9 @@
 
 - [Designing a URL Shortening service like TinyURL](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904)
 
+### Story
 
+- [为什么超音速电动飞机不太可能出现？](https://i.imgur.com/DtqQjQu.jpg) : 结合现实的分析，就是System Design。
 
 
 ## More 
