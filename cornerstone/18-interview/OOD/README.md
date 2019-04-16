@@ -16,6 +16,11 @@ OO Design的题目一般需要UML相关的知识做准备：
 * sequence diagram (时序图): 最常用
 * state machine diagram (状态机图): 在分析系统中某实体的状态时可能会用到。
 
+### benchmark
+
+- **handling** ambiguity
+- **systematic** approach
+
 ## How 
 
 
@@ -38,7 +43,8 @@ Here are the steps you need to follow when answering a design problem.
 * [Design a least **recently used cache**](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/lru_cache/lru_cache.ipynb)	 
 * [Design **a call center**](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/call_center/call_center.ipynb)
 * [Design a deck of cards](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb)
-* [Design a parking lot](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/parking_lot/parking_lot.ipynb) [Design a chat server](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/online_chat/online_chat.ipynb)  
+* [Design a parking lot](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/parking_lot/parking_lot.ipynb) 
+* [Design a chat server](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/online_chat/online_chat.ipynb)  
 * Design a circular array	
 * Design Amazon Locker 
 
