@@ -1,5 +1,6 @@
 # Design a Deck of Cards
 
+![a deck of cards](https://i.imgur.com/Upuy21L.jpg)
 
 ## Constraints and assumptions
 
