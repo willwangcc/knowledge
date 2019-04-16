@@ -35,41 +35,10 @@ Here are the steps you need to follow when answering a design problem.
 
 
 * [**Design a hash map**](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/hash_table/hash_map.ipynb)
-	* Constraints and assumptions
-		* For simplicity, are the keys integers only?
-		* For collision resolution, can we use chaining?
-		* Do we have to worry about load factors?
-		* Can we assume inputs are valid or do we have to validate them?
-		* Can we assume this fits memory? 
- 	
-* [Design a least **recently used cache**](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/lru_cache/lru_cache.ipynb)	
-	* Constraints and assumptions
-		* What are we caching?
-		* Can we assume inputs are valid or do we have to validate them?
-		* Can we assume this fits memory?
- 
+* [Design a least **recently used cache**](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/lru_cache/lru_cache.ipynb)	 
 * [Design **a call center**](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/call_center/call_center.ipynb)
-	* Constraints and assumptions
-		* What levels of employees are in the call center?
-		* Can we assume operators always get the initial calls?
-		* If there is no available operators or the operator can't handle the call, does the call go to the supervisors?
-		* If there is no available supervisors or the supervisor can't handle the call, does the call go to the directors?
-		* Can we assume the directors can handle all calls?
-		* What happens if nobody can answer the call?
-		* Do we need to handle 'VIP' calls where we put someone to the front of the line?
-		* Can we assume inputs are valid or do we have to validate them?
-
 * [Design a deck of cards](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb)
-	* Constraints and assumptions
-		* Is this a generic deck of cards for games like poker and black jack?
-		* Can we assume the deck has 52 cards (2-10, Jack, Queen, King, Ace) and 4 suits?
-		* Can we assume inputs are valid or do we have to validate them?
-* [Design a parking lot](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/parking_lot/parking_lot.ipynb)
-	* Constraints and assumptions
-		* What types of vehicles should we support?
-		* Does each vehicle type take up a different amount of parking spots?
-		* Does the parking lot have multiple levels? 
-* [Design a chat server	](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/online_chat/online_chat.ipynb)  
+* [Design a parking lot](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/parking_lot/parking_lot.ipynb) [Design a chat server](https://github.com/donnemartin/system-design-primer/blob/master/solutions/object_oriented_design/online_chat/online_chat.ipynb)  
 * Design a circular array	
 * Design Amazon Locker 
 
