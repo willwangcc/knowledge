@@ -28,3 +28,4 @@
 ## More 
 
 * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+* [Amazon-in-person-interview](https://www.amazon.jobs/en/landing_pages/in-person-interview)

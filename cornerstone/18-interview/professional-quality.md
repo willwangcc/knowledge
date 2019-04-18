@@ -1,5 +1,8 @@
 # Professional quality
 
+## What 
+
+- [Software development topics](https://www.amazon.jobs/en/landing_pages/software-development-topics): OOD, Databases, Distributed computing, Operating systems, Internet topics, General machine learning and artifical intelligence 
 
 ## More 
 
