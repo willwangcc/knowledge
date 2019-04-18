@@ -51,6 +51,7 @@ Here are the steps you need to follow when answering a design problem.
 
 ## More 
 
+* [OBJECT ORIENTED PROGRAMMING PRINCIPLES](https://www.imaginarycloud.com/blog/the-dos-and-donts-of-oop/): dos and donts
 * [ ] [如何准备OO Design](https://github.com/yaobinwen/job_hunting/blob/master/README.md) 
 * [ ] [面向对象设计面试笔记](https://wdxtub.com/interview/14520596997643.html)
 * [ ] [Youtube: Object Oriented Design](https://www.youtube.com/watch?v=fJW65Wo7IHI&index=1&list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE): 一个OOD教程。
