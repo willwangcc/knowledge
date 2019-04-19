@@ -58,16 +58,17 @@ More: [behind-the-behavioral](https://workflowy.com/s/behind-the-behaviora/GSHfY
 ## How?
 
 - During a behavioral interview, always listen carefully to the question, ask for clarification if necessary, and make sure you answer the question completely. When answering behavioral questions use the STAR Method and convey specific situations, actions, and outcomes/results.
-	* **Situation Use**: specific details about a situation or task.
-	* **Task**: Tell what led to the situation or task?
-	* **Action Taken**: Discuss what you did and who was involved?
-	* **Results or Outcome**: Communicate the outcome?  How you measured the results?	
+	* **Situation Use**: Describe the situation that you were in, or the task that you needed to accomplish. Give ****enough detail**** for the interviewer to understand the ****complexities**** of the situation. This example can be from a previous job, school project, volunteer activity, or any relevant event.
+	* **Task**: What goal were you working toward?
+	* **Action Taken**: Describe the actions you took to address the situation with an appropriate amount of detail, and keep the focus on ****you****. What specific ****steps**** did you take? What was your particular contribution? Be careful that you don’t describe what the team or group did when talking about a project. Let us know what you actually did. Use the word “**I**,” not “we,” when describing actions.
+	* **Results or Outcome**: Describe the outcome of your actions and don’t be shy about ****taking credit for your behavior****. What happened? How did the event ****end****? What did you ****accomplish****? What did you ****learn****? Provide examples using ****metrics or data**** if applicable.
+
 
 - Mention **"STAR"** key words to help your interviwer **follow** your topic:
 	- The situation is...
 	- Our task is ...
-	- Actions we took ...
-	- Results we got ...  
+	- Actions **I** took ...
+	- Results **I** got ...  
 	
 
 ## More 
