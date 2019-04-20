@@ -70,6 +70,19 @@ More: [behind-the-behavioral](https://workflowy.com/s/behind-the-behaviora/GSHfY
 	- Actions **I** took ...
 	- Results **I** got ...  
 	
+### how to tell a good example?
+
+- convincing detail
+- logical, vivid, measure.
+	- high level design 
+	- timeline: start, middle, end 
+	- stack: pros and cons. Why?
+	- Features
+- Stop when you are done with one point, ask the interviewer: "Would you want me to go depth?" 
+- Example: recent industrial project > side project 
+	- The interviewer wants to know how do you work with others? 	
+	
+	
 
 ## More 
 
