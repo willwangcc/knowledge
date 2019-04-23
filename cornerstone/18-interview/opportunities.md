@@ -16,3 +16,8 @@ Refer:
 - shorter is better, under 100 words is preferred, no more than 150 words
 - ❌ don't spend many words to repeat what's on your resume, e.g., degree, GPA, scholarship
 - ✅ say something more **personal**, e.g., interest, strength
+
+
+## Thanks 
+
+- [最有效的五步推销法](http://www.ruanyifeng.com/blog/2018/11/most-effective-sales-promotion.html): 趋势，赢家和输家，未来，关键步骤，证据。
