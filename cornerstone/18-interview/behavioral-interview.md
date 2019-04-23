@@ -91,3 +91,6 @@ More: [behind-the-behavioral](https://workflowy.com/s/behind-the-behaviora/GSHfY
 - [amazon](https://www.amazon.jobs/en/principles): [illustration](https://i.imgur.com/CkoXRk9.png)
 - [redfin](https://www.redfin.com/careers/redfin-values)
 	
+### solution 
+
+- [How to Deal with Difficult People on Software Projects](https://neilonsoftware.com/books/personality-patterns-of-problematic-projects/)
