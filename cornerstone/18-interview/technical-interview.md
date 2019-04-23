@@ -268,3 +268,4 @@ key words: lower and upper bound, cut by half
 ## More
 
 *  Interviews Tips from [Vince Grimes](https://www.linkedin.com/in/vincegrimes/detail/recent-activity/shares/)
+*  [Google Interview Questions Deconstructed: Synonymous Queries](https://medium.com/@alexgolec/google-interview-problems-synonymous-queries-36425145387c)
