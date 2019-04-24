@@ -22,4 +22,7 @@
 * [Hacker Tools](https://hacker-tools.github.io/): a lecture series on programmer tools by MIT. In this class, we’ll help you learn how to make the most of **tools** that **productive** programmers use.
 
 
+## More
+
+- [装了啥](https://github.com/sorrycc/blog/issues/16)
 
