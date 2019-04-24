@@ -21,3 +21,4 @@ Refer:
 ## Thanks 
 
 - [最有效的五步推销法](http://www.ruanyifeng.com/blog/2018/11/most-effective-sales-promotion.html): 趋势，赢家和输家，未来，关键步骤，证据。
+- [Why You Should Apply To Engineering Jobs You Aren't Qualified For](https://angel.co/blog/why-you-should-apply-to-engineering-jobs-you-arent-qualified-for): "Less experienced" doesn't mean "under-qualified."

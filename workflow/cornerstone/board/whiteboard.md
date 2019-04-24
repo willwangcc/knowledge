@@ -12,6 +12,7 @@
 - react project
 - unit test
 - design pattern
+- **distributed system**
 - OOD
 - algorithms
 - database
