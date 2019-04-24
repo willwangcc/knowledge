@@ -25,4 +25,5 @@
 ## More
 
 - [装了啥](https://github.com/sorrycc/blog/issues/16)
+- [个人成长基础设施之硬件&软件篇](https://github.com/JimmyLv/jimmylv.github.io/issues/121)
 
