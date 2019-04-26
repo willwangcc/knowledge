@@ -8,6 +8,13 @@
 
 作为一个现在程序员，工作学习时间大都发生在电脑和手机，所以，一个好方法，就是统计自己Chrome history和手机的history。
 
+需求：
+
+- [ ] 统一统计工具：选择哪一个时间统计工具。
+- [ ] 减少统计时间：自动化
+- [ ] 形成时间印象: 时间分布情况
+- [ ] 得到最佳实践: 什么「时间格子」(精力x时长)适合什么事件块(难度x完成时间)？
+
 ## What？
 
 ### tools
@@ -27,6 +34,17 @@
 	- RescueTime or Timing (测试中...) 
 - Workflowy 
 	- [时间记录法](https://book.douban.com/review/9866948/)
+	- 用JS开发一个时间可视化工具或者使用第三方，如[toggl](https://toggl.com/app/timer)
+
+	
+## How？	
+
+- 「Timing」x「screen time」x「history by date」 x 「workflowy」查看一天所做「事件块」和「精力值」，找到可以优化效率的地方。
+- workflowy 解决 `#Q` (遗留问题) 标签。
+- 「github」 x 「screenshot」(Done) 回顾一天完成的事情。
+- 时间有限，把任务留给明天。
+
+## Q&A
 
 ## More 
 
