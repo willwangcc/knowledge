@@ -39,10 +39,10 @@
 	
 ## How？	
 
-- 「Timing」x「screen time」x「history by date」 x 「workflowy」查看一天所做「事件块」和「精力值」，找到可以优化效率的地方。
+- 「Mac/Timing」x「iPhone/screen time」x「Chrome/history by date」 x 「workflowy」查看一天所做「事件块」和「时间格子」，找到可以优化效率的地方。
 - workflowy 解决 `#Q` (遗留问题) 标签。
-- 「github」 x 「screenshot」(Done) 回顾一天完成的事情。
-- 时间有限，把任务留给明天。
+- [github](https://github.com/search?o=desc&q=committer%3Awillwang-x&s=committer-date&type=Commits) x 「screenshot」(Done) 回顾一天完成的事情。
+- 时间有限时，把任务留给明天。
 
 ## Q&A
 
