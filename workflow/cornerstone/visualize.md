@@ -1,8 +1,8 @@
-# Visualize: 如何回放过去并获得积累？
+# Visualize: 经历如何成为积累？
 
 ## Why?
 
-如何不总结反思，为什么奢望成长呢？做事是获得经验的基础，而反思是获得积累的高潮。只做事而不反思总结，亏大了。想一想，你用了80%时间做事，只有获得潜在经验的20%; 但如果你再花20%时间反思，那么你能潜在经验的80%。
+如何不总结反思，为什么奢望成长呢？**做事是获得经验的基础，而反思是获得积累的高潮。**只做事而不反思总结，亏大了。想一想，你用了80%时间做事，只有获得潜在经验的20%; 但如果你再花20%时间反思，那么你能潜在经验的80%。
 
 而反思的第一步，是回放自己的过去。所以想，有什么工具和方法，能帮到自己呢？
 
@@ -39,9 +39,12 @@
 	
 ## How？	
 
-- 「Mac/Timing」x「iPhone/screen time」x「Chrome/history by date」 x 「workflowy」查看一天所做「事件块」和「时间格子」，找到可以优化效率的地方。
-- workflowy 解决 `#Q` (遗留问题) 标签。
-- [github](https://github.com/search?o=desc&q=committer%3Awillwang-x&s=committer-date&type=Commits) x 「screenshot」(Done) 回顾一天完成的事情。
+- 查看一天所做「事件块」和「时间格子」，找到可以优化效率的地方。
+	- 「Mac/Timing」x「iPhone/screen time」x「Chrome/history by date」 x 「workflowy」x omnifocus？
+- 解决 `#Q` (遗留问题) 标签。
+	- workflowy
+- 回顾一天完成的事情。
+	- [github](https://github.com/search?o=desc&q=committer%3Awillwang-x&s=committer-date&type=Commits) x screenshot(Done) 
 - 时间有限时，把任务留给明天。
 
 ## Q&A
