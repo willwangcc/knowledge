@@ -24,3 +24,5 @@
 - Github: 细节。
 - Workflowy: 地图。
 - A4纸: 迭代。
+
+例子：[算法Palace](https://workflowy.com/s/0-x-palace/wl1ogOpj0IU7juyl)
