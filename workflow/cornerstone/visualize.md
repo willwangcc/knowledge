@@ -40,7 +40,13 @@
 ## How？	
 
 - 查看一天所做「事件块」和「时间格子」，找到可以优化效率的地方。
-	- 「Mac/Timing」x「iPhone/screen time」x「Chrome/history by date」 x 「workflowy」x omnifocus？
+	- [Mac / RescueTime](visualize) or Timing 
+	- iPhone / screen time 
+	- [Chrome / history](chrome-extension://cancngpbjlfnkdfeigpododikkpelmfg/dist/index.html)
+	-  Workflowy 
+		-  [Email - Daily Update](https://mail.google.com/mail/u/0/#label/review)
+		-  [`last-changed:1d`](https://workflowy.com/#?q=last-changed%3A1d%20)
+	-  Omnifocus
 - 解决 `#Q` (遗留问题) 标签。
 	- workflowy
 - 回顾一天完成的事情。
