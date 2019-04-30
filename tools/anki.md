@@ -35,6 +35,11 @@
 
 ## How?
 
+* 用于记忆已经**理解**的东西
+* 在拥有**知识地图**后打磨细节
+
+### Tutorial
+
 - [How I Learn Everything : Anki Tutorial](https://www.youtube.com/watch?v=5urUZUWoTLo&t=946s) 
 - [13 Steps to Better ANKI Flashcards | Part 1/2](https://www.youtube.com/watch?v=AbvaITy3oeQ): 
 	*   1) Keep Your Decks **Simple**
