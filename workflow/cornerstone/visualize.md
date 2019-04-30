@@ -50,7 +50,8 @@
 - 解决 `#Q` (遗留问题) 标签。
 	- workflowy
 - 回顾一天完成的事情。
-	- [github](https://github.com/search?o=desc&q=committer%3Awillwang-x&s=committer-date&type=Commits) x screenshot(Done) 
+	- [github](https://github.com/search?o=desc&q=committer%3Awillwang-x&s=committer-date&type=Commits) x screenshot(Done 深度) 
+	- screenshot from iPhone (广度)
 - 时间有限时，把任务留给明天。
 
 ## Q&A
