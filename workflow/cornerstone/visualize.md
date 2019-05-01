@@ -40,7 +40,7 @@
 ## How？	
 
 - 查看一天所做「事件块」和「时间格子」，找到可以优化效率的地方。
-	- [Mac / RescueTime](visualize) or Timing 
+	- [Mac / RescueTime](https://www.rescuetime.com/dashboard?src=client) or Timing 
 	- iPhone / screen time 
 	- Chrome / history
 	-  Workflowy 
