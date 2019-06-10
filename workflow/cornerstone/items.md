@@ -18,6 +18,12 @@
 
 ## How?
 
+### App:
+
+- [Pinterest Save Button](https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en)
+
+### Workflow:
+
 - 使用「Pinterest」优先在「Amazon」上标记自己的物品。
 - 在构建完自己的物品画册后，定期在「Pinterest」上点击到「Amazon」再次购买即可。
 
