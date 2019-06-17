@@ -4,12 +4,19 @@
 <h1 align="center">
 <br>
   <a href="https://www.google.com/maps/d/u/0/viewer?mid=1yURWf-UrdrJCaAIm1BVciCHXz5Bu30pV&ll=0%2C0&z=9"><img src="https://i.imgur.com/igKfmtV.jpg" alt="workflow" width=200"></a>
-
 </h1>
+
+> 如果你不出去走走，你就会以为这就是世界。——《天堂电影院》
+
 
 ## Why
 
-旅行核心在于**与喜欢的人一起体验世界种种美妙**，所以希望得到一个做旅游计划的最佳实践，以高效完成计划和让每一个人都满意，让更多的时间留给旅游的本身 —— **体验**，而非规划。
+旅行核心在于**与喜欢的人一起体验世界种种美妙**，所以希望得到一个做旅游计划的最佳实践，以高效完成计划和让每一个人都满意，让更多的时间留给旅游的本身 
+
+> —— **体验**，而非规划。
+
+- 一次旅行，最棒的是事后用朋友来计量，而不是里程。- Tim Cahill
+- A journey shows us not only the world, but how we fit in it. - [LV](https://www.youtube.com/watch?v=hzp_gshdwsM)
 
 ## How
 
