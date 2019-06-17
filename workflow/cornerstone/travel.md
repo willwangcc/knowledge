@@ -13,16 +13,6 @@
 
 ## How
 
-### Tools:
-
-- [instagram](https://www.instagram.com/explore/tags/napavalley/?hl=en): 如同画册，获得灵感
-- [pinterest](https://www.pinterest.com/ytravelblog/): 如同剪报，收集灵感
-- [dropbox paper](https://paper.dropbox.com/doc/--Ae6lAOZCy51ytmbAjL~oCp_JAg-DU7THgz9KilOmI4nQRDYW): 分工合作，分享编辑
-- [google map](https://www.youtube.com/watch?v=jC9dtTyD3i4): 规划路线，共同编辑
-
-
-### Workflow:
-
 - **确定基本**：人物，时间，地点。
 - **搜集想法**：浏览网站，列出旅游地点想去的活动。
 	- 收集图片：instagram, pinterest 
@@ -32,7 +22,7 @@
 - **集中讨论**：一对多交流，或者定一个共同时间一起讨论，完成讨论清单，然后分配任务。
 - **门票预定**：提前定好房间和热门活动门票，以免错失。
 
-### Example:
+### [Template](https://paper.dropbox.com/doc/--AfP2zZwo_BgNlVOIp67vPGuOAg-dkQU34i95AVgmHURQD90E):
 
 - [Tahoe Lake四天三夜](https://paper.dropbox.com/doc/--Ae6lAOZCy51ytmbAjL~oCp_JAg-DU7THgz9KilOmI4nQRDYW)
 - [Napa Valley两天一夜](https://paper.dropbox.com/doc/Napa-Valley-EoFfDmKY8K21brE0BTCD3)
@@ -45,9 +35,20 @@
 - **活动信息**：活动(网站链接)，内容(简单介绍)，时间，携带物品，便于在时间安排和出发前检查。
 - **成本预算**：预算允许情况下，丰富体验。
 
+
+### Tools:
+
+- [instagram](https://www.instagram.com/explore/tags/napavalley/?hl=en): 如同画册，获得灵感
+- [pinterest](https://www.pinterest.com/ytravelblog/): 如同剪报，收集灵感
+- [dropbox paper](https://paper.dropbox.com/doc/--AfP2zZwo_BgNlVOIp67vPGuOAg-dkQU34i95AVgmHURQD90E): 分工合作，分享编辑
+- [google map](https://www.youtube.com/watch?v=jC9dtTyD3i4): 规划路线，共同编辑
+- [airbnb](https://airbnb.com): 定住所
+
+
+
 ## More 
 
-- [What is the best website or app to use for trip planning, and why?](https://www.quora.com/What-is-the-best-website-or-app-to-use-for-trip-planning-and-why)
-- 小红书: 别人的旅游计划
-- [A Step-by-Step Guide to Planning an Epic Trip With Google Maps](https://www.livelikeitstheweekend.com/google-maps-trip-planner/)
+- [quora](https://www.quora.com/What-is-the-best-website-or-app-to-use-for-trip-planning-and-why) : What is the best website or app to use for trip planning, and why?
+- [小红书](https://www.xiaohongshu.com/search_result/napa): 参考别人的标记
+- [Google Maps](https://www.livelikeitstheweekend.com/google-maps-trip-planner/): A Step-by-Step Guide to Planning an Epic Trip With Google Maps
 - [Google Map视频教学](https://www.youtube.com/watch?v=jC9dtTyD3i4)
