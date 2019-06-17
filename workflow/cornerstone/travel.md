@@ -1,10 +1,10 @@
 # Travel: 如何高效做旅行计划？
 
 
-<h1 align="center">
+<div align="center">
 <br>
   <a href="https://www.google.com/maps/d/u/0/viewer?mid=1yURWf-UrdrJCaAIm1BVciCHXz5Bu30pV&ll=0%2C0&z=9"><img src="https://i.imgur.com/igKfmtV.jpg" alt="workflow" width=200"></a>
-</h1>
+</div>
 
 > 如果你不出去走走，你就会以为这就是世界。——《天堂电影院》
 
