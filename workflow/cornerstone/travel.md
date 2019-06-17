@@ -1,13 +1,12 @@
 # Travel: 如何高效做旅行计划？
 
 
+
 <div align="center">
 <br>
   <a href="https://www.google.com/maps/d/u/0/viewer?mid=1yURWf-UrdrJCaAIm1BVciCHXz5Bu30pV&ll=0%2C0&z=9"><img src="https://i.imgur.com/igKfmtV.jpg" alt="workflow" width=200"></a>
 </div>
-
-> 如果你不出去走走，你就会以为这就是世界。——《天堂电影院》
-
+<br>
 
 ## Why
 
@@ -16,6 +15,7 @@
 > —— **体验**，而非规划。
 
 - 一次旅行，最棒的是事后用朋友来计量，而不是里程。- Tim Cahill
+- 如果你不出去走走，你就会以为这就是世界。——《天堂电影院》
 - A journey shows us not only the world, but how we fit in it. - [LV](https://www.youtube.com/watch?v=hzp_gshdwsM)
 
 ## How
