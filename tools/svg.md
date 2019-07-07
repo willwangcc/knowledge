@@ -38,9 +38,5 @@
 ## Q&A
 
 - [Does SVG support embedding of bitmap images?](https://stackoverflow.com/questions/6249664/does-svg-support-embedding-of-bitmap-images)
-
-## More
-
-
-- [wiki: SVG](https://www.wikiwand.com/en/Scalable_Vector_Graphics)
-- Gapplin: svg → png
+- How do we view SVG on MacOS? [Gapplin](http://gapplin.wolfrosch.com/)
+- 有什么字体推荐？[字体和风格](https://www.zhihu.com/question/20727176)
