@@ -29,4 +29,4 @@
 
 - [Scannable](https://evernote.com/products/scannable): 扫描账本
 - [Splitwise](https://www.splitwise.com/): 记录结账，定期结算，支持venmo付款。
-- [Venmo](https://venmo.com/): Share Payments
+- [Venmo](https://venmo.com/): 朋友都venmo，便于快速结账
