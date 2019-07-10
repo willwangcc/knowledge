@@ -2,12 +2,12 @@
 
 ## Why?
 
-写一遍文章太长，一句话即可记得当时所想。如何快速制作一个文字图片？来当壁纸。
+写一遍文章太长，一句话即可记得当时所想。如何快速制作一个文字图片？比如用来当壁纸。
 
 ## How?
 
 
-- code 
+- code
 
 ``` xml
 <?xml version="1.0"?>
@@ -34,6 +34,8 @@
 ## What?
 
 - [SVG](https://www.wikiwand.com/en/Scalable_Vector_Graphics): an XML-based vector image format for two-dimensional graphics with support for **interactivity** and **animation**. SVG images and their behaviors are defined in XML text files. This means that they can be **searched**, **indexed**, **scripted**, and **compressed**. As XML files, SVG images can be created and edited with any text editor, as well as with drawing software.
+- [font: founderType](https://www.foundertype.com/index.php/FindFont/index)
+- [字+](https://www.foundertype.com/index.php/Index/ftXplorer/): 一款字体获取工具、字体使用工具、字体管理工具，旨在提供更高效、更便捷的用字服务。目前App不稳定，可以在网站下载。
 
 ## Q&A
 
