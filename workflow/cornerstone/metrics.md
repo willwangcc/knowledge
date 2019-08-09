@@ -1,4 +1,4 @@
-# Measure: 给自己找一把尺
+# Metrics: 给自己找一把尺
 
 > If you cannot measure it, you cannot improve it. —— Kelvin 
 
