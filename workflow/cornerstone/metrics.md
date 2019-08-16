@@ -31,3 +31,14 @@
 - 衡量的缺点是什么？
 - 什么东西是不能衡量的？
 - 有没有衡量的最佳实践？
+
+世界：(观察世界的指标)
+
+- GDP
+- 技术: [MIT 10 breakthrough Tech](https://www.technologyreview.com/lists/technologies/2019/)
+
+
+
+## More
+
+- [走向存量残杀的危险世界](https://www.chainnews.com/articles/093187562752.htm): 通过经济(e.g. GDP)的增长来预判社会问题。启发：找世界变化的上游指标，如科技和经济。
