@@ -12,22 +12,21 @@
 
 ## How
 
-
 1. **结账**: by 超市等
-	- 个人+分享：分类货品，分批结账（没有计算就没有错误）
-	- 共享：直接结账
-2. **扫描**: by「Scannable」（可存入iCloud，便于批量查询记录）
+	- 共享的东西：直接结账
+	- 多人混合的：分类货品，分批结账（因为没有计算就没有错误）
+2. **扫描**: by「Scannable」（可存入云盘，便于批量查询记录）
 3. **记录**: by 「Splitwise」
 	- **命名**付款内容
 	- **上传**小票
 	- **选择**结算方式(谁付，谁分) 
 4. **结算**: by「Venmo」
 
-第一时间，扫遍记录，最省时间。结算最好所有都在场，比如饭桌，有问题可以快速沟通解决。
+第一时间，扫遍记录，最省时间。结算最好所有人都在场，比如饭桌，有问题可以快速沟通解决。
 
 
 ## What
 
-- [Scannable](https://evernote.com/products/scannable): 扫描账本
+- [Scannable](https://evernote.com/products/scannable): 扫描账本，清晰整洁
 - [Splitwise](https://www.splitwise.com/): 记录结账，定期结算，支持venmo付款。
-- [Venmo](https://venmo.com/): 朋友都venmo，便于快速结账
+- [Venmo](https://venmo.com/): 朋友都有venmo，便于快速结账
