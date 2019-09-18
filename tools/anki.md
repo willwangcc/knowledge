@@ -8,15 +8,10 @@
 
 > Includes Anki flashcards.
 
-既然那么多人推荐，那就系统了解一下这个程序员们(意味着可编程)也喜欢的工具。
+既然那么多人推荐，那就系统了解一下这个程序员们(≈可编程)也喜欢的工具。
 
-
-- 全平台支持
-- 高度自定义，程序员喜欢
-- 核心稳定，扩展繁荣。
-- 一切需要**记忆**的都可以交付给Anki。
-- 任何能用**问答方式**总结的知识都可以用anki来搞定。
-- 符合我的[工具观](https://willwang.cc/2019/03/tools)
+- **核心**稳定，**扩展**繁荣: 全平台支持，高度自定义
+- **问答**知识的**记忆面包**: 构建自己Hash{key: val}的数据库，实现O(1)读取知识
 
 ## What?
 
@@ -24,10 +19,12 @@
 > 
 > by [wiki](https://www.wikiwand.com/en/Anki_(software))
 
-- Questions & Answers
-- Scheduling
 
-![what is anki](https://i.imgur.com/z8zxCX9.png)
+Anki can be summed up with two bullets:
+
+- **Questions & Answers**: Anki presents you with a question -- be it a fill-in-the-blank，a definition, or a standard quesiton-marked sentense —— and your job is to recall the correct answer.
+- **Scheduling**: Based on how difficult or easy it was to recall the answer to the question, Anki determines the best amount of time to wait before asking you the same question again, thereby strengthening the memory at just the right moment. 
+
 
 ### Adds-on
 
