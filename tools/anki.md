@@ -11,7 +11,43 @@
 既然那么多人推荐，那就系统了解一下这个程序员们(≈可编程)也喜欢的工具。
 
 - **核心**稳定，**扩展**繁荣: 全平台支持，高度自定义
-- **问答**知识的**记忆面包**: 构建自己的`{key: val}`数据库，实现`O(1)`时间读取知识
+- **问答**知识的**记忆面包**: 构建自己的`{key: val}`知识库，实现`O(1)`时间读取知识
+
+
+## How?
+
+* 用于记忆已经**理解**的东西
+* 在拥有**知识地图**后打磨细节
+
+### workflow 
+
+- 每日@recap，把新学习的知道放到anki中。
+
+### Principle
+
+- Anki只放自己**已经理解**的内容
+
+### Tutorial
+
+- [How I Learn Everything : Anki Tutorial](https://www.youtube.com/watch?v=5urUZUWoTLo&t=946s) 
+- [13 Steps to Better ANKI Flashcards | Part 1/2](https://www.youtube.com/watch?v=AbvaITy3oeQ)
+	*   1) Keep Your Decks **Simple**
+	*   2) First **Understand**, Then Memorize
+	*   3) Lay the **Foundations** First
+	*   4) Follow the **Minimum** Information Principle
+	*   5) **Cloze** Deletions Are Your Best Friend
+	*   6) Use **Images**, Photos, & Figures
+
+### 组合使用
+
+- [Anki x Kindle](https://zhuanlan.zhihu.com/p/37079582) 
+- [Anki x MarginNote](https://zhuanlan.zhihu.com/p/34512119)
+- [Anki x Youtube](https://zhuanlan.zhihu.com/p/40037096)
+- [Anki x workflow](https://zhuanlan.zhihu.com/p/47025287)
+- [Aiki x Web Query](https://zhuanlan.zhihu.com/p/33792983)
+- [Aiki x Chrome extension](?): Anki划词助手
+- [Anki x sub2srs](?): 学习电影
+
 
 ## What?
 
@@ -30,31 +66,10 @@ Anki can be summed up with two bullets:
 
 - review heatmap
 
-## How?
+### tool
 
-* 用于记忆已经**理解**的东西
-* 在拥有**知识地图**后打磨细节
+- [Anki Quick Adder](https://chrome.google.com/webstore/detail/anki-quick-adder/gpbcbbajoagdgnokieocaplbhkiidmmb): to create anki cards directly from Google Chrome
 
-### Tutorial
-
-- [How I Learn Everything : Anki Tutorial](https://www.youtube.com/watch?v=5urUZUWoTLo&t=946s) 
-- [13 Steps to Better ANKI Flashcards | Part 1/2](https://www.youtube.com/watch?v=AbvaITy3oeQ): 
-	*   1) Keep Your Decks **Simple**
-	*   2) First **Understand**, Then Memorize
-	*   3) Lay the **Foundations** First
-	*   4) Follow the **Minimum** Information Principle
-	*   5) **Cloze** Deletions Are Your Best Friend
-	*   6) Use **Images**, Photos, & Figures
-
-### 组合使用
-
-- [Anki x Kindle](https://zhuanlan.zhihu.com/p/37079582) 
-- [Anki x MarginNote](https://zhuanlan.zhihu.com/p/34512119)
-- [Anki x Youtube](https://zhuanlan.zhihu.com/p/40037096)
-- [Anki x workflow](https://zhuanlan.zhihu.com/p/47025287)
-- [Aiki x Web Query](https://zhuanlan.zhihu.com/p/33792983)
-- [Aiki x Chrome extension](?): Anki划词助手
-- [Anki x sub2srs](?): 学习电影
 
 ## When?
 
@@ -82,3 +97,4 @@ Anki can be summed up with two bullets:
 - [Anki——近乎完美的神器](https://zhuanlan.zhihu.com/-anki)
 - [Anki电脑端上值得推荐的十个插件](https://zhuanlan.zhihu.com/p/24650483)
 - [awesome-anki](https://github.com/tianshanghong/awesome-anki)
+- [Study with Me + Anki Flashcard Method - Ali Abdaal](https://www.youtube.com/watch?v=W-EpiaPcgTk): @recap的灵感来源，把每日所学放入到anki中。
