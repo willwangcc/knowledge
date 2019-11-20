@@ -48,7 +48,9 @@
 - [google map](https://www.youtube.com/watch?v=jC9dtTyD3i4): 规划路线，共同编辑
 - [airbnb](https://airbnb.com): 定住所
 
+### To do list:
 
+- 吃饭时：建立一个splitwise群组，方便之后算钱。
 
 ## More 
 
