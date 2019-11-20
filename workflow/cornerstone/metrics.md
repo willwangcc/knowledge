@@ -35,7 +35,8 @@
 世界：(观察世界的指标)
 
 - GDP
-- 技术: [MIT 10 breakthrough Tech](https://www.technologyreview.com/lists/technologies/2019/)
+- **技术**: [MIT 10 breakthrough Tech](https://www.technologyreview.com/lists/technologies/2019/)
+- **余闲**：留有每周固定时间，像对待与其他人约会的态度，对待与自己的约会。免于陷入[稀缺模式](https://book.douban.com/subject/26178426/)，让事件冲走生活的重点。
 
 
 
