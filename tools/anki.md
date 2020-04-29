@@ -43,6 +43,7 @@
 - [Anki x Kindle](https://zhuanlan.zhihu.com/p/37079582) 
 - [Anki x MarginNote](https://zhuanlan.zhihu.com/p/34512119)
 - [Anki x Youtube](https://zhuanlan.zhihu.com/p/40037096)
+	- [youtube2Anki](https://github.com/dobladov/youtube2Anki): allows to download the transcript of a YouTube video to a csv that can be imported into Anki or directly send the cards to Anki using AnkiConnect, allowing to use the original audio/video of the current sentence and without having to download the original media. 
 - [Anki x workflow](https://zhuanlan.zhihu.com/p/47025287)
 - [Aiki x Web Query](https://zhuanlan.zhihu.com/p/33792983)
 - [Aiki x Chrome extension](?): Anki划词助手
