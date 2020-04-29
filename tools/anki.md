@@ -61,6 +61,20 @@ Anki can be summed up with two bullets:
 - **Questions & Answers**: Anki presents you with a question -- be it a fill-in-the-blank，a definition, or a standard quesiton-marked sentense —— and your job is to recall the correct answer.
 - **Scheduling**: Based on how difficult or easy it was to recall the answer to the question, Anki determines the best amount of time to wait before asking you the same question again, thereby strengthening the memory at just the right moment. 
 
+### My wiki Strusture 
+
+- 2019-design 
+- @map
+- @project
+- @recap
+- cornerstone
+	- cs/10-testing
+	- cs/11-management
+	- cs/18--BQ
+	- cs/18--algo
+- cs/02
+- cs/19
+- cs4 
 
 ### Adds-on
 
@@ -69,6 +83,13 @@ Anki can be summed up with two bullets:
 ### tool
 
 - [Anki Quick Adder](https://chrome.google.com/webstore/detail/anki-quick-adder/gpbcbbajoagdgnokieocaplbhkiidmmb): to create anki cards directly from Google Chrome
+
+### Concept 
+
+* 按钮当中的“数”: 20 + 5 + 100
+	* 1 新卡片未学习       
+	* 2 点击重来或者犹豫后正在循环运行中        
+	* 3 以前学过现在待学习
 
 
 ## When?
