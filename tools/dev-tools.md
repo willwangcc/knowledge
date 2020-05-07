@@ -8,3 +8,17 @@
 ## List
 
 * 开发工具： **VS** > Intellij >> eclipse > Xcode?
+* Share:
+	* [asciinema](https://asciinema.org/): Record and share your terminal sessions, the right way.
+* automation
+	* [kasaya](https://github.com/syscolabs/kasaya#installation): A "WYSIWYG" (sort of) scripting language and runtime for browser automation
+
+	
+## Story
+
+- [Writing a Book
+with
+Pandoc, Make, and Vim](https://keleshev.com/my-book-writing-setup/): Pandoc as my Markdown processor	
+ 
+
+
