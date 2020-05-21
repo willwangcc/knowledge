@@ -25,5 +25,6 @@
 	- 用于实践查找原理。
 	- “和其它几本Git的书比起来, 这本对细节讲得都比较细, 而且思路也比较清晰, 看起来比较轻松”
 - [7 Best Git Books](https://www.fromdev.com/2015/02/best-git-books.html)
+- [Git Explorer](https://gitexplorer.com/): Easy way to learn and search git commands. 
 
 
