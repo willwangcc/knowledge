@@ -27,4 +27,11 @@
 - [7 Best Git Books](https://www.fromdev.com/2015/02/best-git-books.html)
 - [Git Explorer](https://gitexplorer.com/): Easy way to learn and search git commands. 
 
+## Example 
+
+- `git push -u origin master`
+	- `git push [variable name] [branch]`: to send the branch commits to your remote repository.
+	- [**origin**](https://www.git-tower.com/learn/git/glossary/origin#:~:text=In%20Git%2C%20%22origin%22%20is,but%20just%20a%20standard%20convention.): a shorthand name for the remote repository that a project was originally cloned from.  = *git push -u https://github.com/willwang-x/cs-cornerstone master*
+	- **master**: stands for the main branch
+
 
