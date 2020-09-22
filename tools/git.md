@@ -15,6 +15,17 @@
 |[Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)|search|[<img src="https://i.imgur.com/I1DE9J9.png" alt="git cheatsheet pdf" width="200"/>](https://education.github.com/git-cheat-sheet-education.pdf)|check|
 
 
+## What 
+
+- [Index](https://gitolite.com/uses-of-index.html): The index (or any of its other names) is essentially a **“holding area”** for changes that will be committed when you next do git commit. The index allows you to **control what parts of the working tree** go into the repository on the next “commit” operation.
+	- staging helps you split up one large change into multiple commits
+	- staging helps in reviewing changes
+	- staging helps when a merge has conflicts
+	- staging helps you keep extra local files hanging around
+	- staging helps you sneak in small changes ;-)
+
+ 
+
 
 ## Reference 
 
@@ -26,6 +37,8 @@
 	- “和其它几本Git的书比起来, 这本对细节讲得都比较细, 而且思路也比较清晰, 看起来比较轻松”
 - [7 Best Git Books](https://www.fromdev.com/2015/02/best-git-books.html)
 - [Git Explorer](https://gitexplorer.com/): Easy way to learn and search git commands. 
+- [Visualizing Git Commands Using M&Ms and Pocky
+](https://www.youtube.com/watch?v=ko3onK77Ni0)
 
 ## Example 
 
