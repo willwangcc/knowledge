@@ -29,9 +29,18 @@
 
 ## Example 
 
-- `git push -u origin master`
-	- `git push [variable name] [branch]`: to send the branch commits to your remote repository.
-	- [**origin**](https://www.git-tower.com/learn/git/glossary/origin#:~:text=In%20Git%2C%20%22origin%22%20is,but%20just%20a%20standard%20convention.): a shorthand name for the remote repository that a project was originally cloned from.  = *git push -u https://github.com/willwang-x/cs-cornerstone master*
-	- **master**: stands for the main branch
+```
+git push -u origin master
+```
 
+- **`git push [variable name] [branch]`**: to send the branch commits to your remote repository.
+- [**origin**](https://www.git-tower.com/learn/git/glossary/origin#:~:text=In%20Git%2C%20%22origin%22%20is,but%20just%20a%20standard%20convention.): a shorthand name for the remote **repository** that a project was originally cloned from.  
+	- 	- **`<remote>`** can be the name of a configured remote or a full URL to a remote git repository. 
+	-  = *git push -u https://github.com/willwang-x/cs-cornerstone master*
+- **master**: stands for the main branch
+- **`-u`**: The **-u** tells Git to remember the parameters, so that next time we can simply run `git push` and Git will know what to do.
+- **[upstream](https://stackoverflow.com/questions/5561295/what-does-git-push-u-mean)**: would refer to the main repo that other people will be pulling from, e.g. your GitHub repo. 
+	- [check upstream](https://higoge.github.io/2015/07/06/git-remote03/):
+	- [`cat .git/config`](https://i.imgur.com/NSURctB.png): [remote "origin"] url = https://github.com/willwang-x/cs-cornerstone 
+	- [`git remote show origin`](https://i.imgur.com/dPf0499.png): Push  URL: https://github.com/willwang-x/cs-cornerstone
 
