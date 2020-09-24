@@ -29,19 +29,17 @@ Anki can be summed up with two bullets:
 
 ## How?
 
-
-*   1) Keep Your Decks **Simple**
-*   2) First **Understand**, Then Memorize
-*   3) Lay the **Foundations** First
-*   4) Follow the **Minimum** Information Principle
-*   5) **Cloze** Deletions Are Your Best Friend
-*   6) Use **Images**, Photos, & Figures
+1. Keep Your Decks **Simple**
+1. First **Understand**, Then Memorize
+1. Lay the **Foundations** First
+1. Follow the **Minimum** Information Principle
+1. **Cloze** Deletions Are Your Best Friend
+1. Use **Images**, Photos, & Figures
 
 ### MAKE(Minimal Actionable Knowledge and Experience)
 
-
-1. [The Ultimate Guide to Anki](https://aliabdaal.com/learn-anything-with-flashcards-the-ultimate-guide-to-anki/)
-- [Anki Manual](https://docs.ankiweb.net/#/): All about Anki
-- [Chasing 10X: How Anki Saved My Software Career](https://senrigan.io/blog/chasing-10x-leveraging-a-poor-memory-in-software-engineering/): Anki Practice for Career
-- [13 Steps to Better ANKI Flashcards | Part 1/2](https://www.youtube.com/watch?v=AbvaITy3oeQ)
-- [Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki/)
+* [The Ultimate Guide to Anki](https://aliabdaal.com/learn-anything-with-flashcards-the-ultimate-guide-to-anki/)
+* [Anki Manual](https://docs.ankiweb.net/#/)
+* [Chasing 10X: How Anki Saved My Software Career](https://senrigan.io/blog/chasing-10x-leveraging-a-poor-memory-in-software-engineering/)
+* [13 Steps to Better ANKI Flashcards | Part 1/2](https://www.youtube.com/watch?v=AbvaITy3oeQ)
+* [Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki/)
