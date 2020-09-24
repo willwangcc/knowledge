@@ -14,6 +14,41 @@
 - **问答**知识的**记忆面包**: 构建自己的`{key: val}`知识库，实现`O(1)`时间读取知识
 
 
+
+## What?
+
+> Anki is a free and open-source spaced repetition flashcard program. "Anki" (暗記) is the Japanese word for "memorization".
+> 
+> by [wiki](https://www.wikiwand.com/en/Anki_(software))
+
+
+Anki can be summed up with two bullets:
+
+- **Questions & Answers**: Anki presents you with a question -- be it a fill-in-the-blank，a definition, or a standard quesiton-marked sentense —— and your job is to recall the correct answer.
+- **Scheduling**: Based on how difficult or easy it was to recall the answer to the question, Anki determines the best amount of time to wait before asking you the same question again, thereby strengthening the memory at just the right moment. 
+
+### Adds-on
+
+- review heatmap
+
+### tool
+
+- [Anki Quick Adder](https://chrome.google.com/webstore/detail/anki-quick-adder/gpbcbbajoagdgnokieocaplbhkiidmmb): to create anki cards directly from Google Chrome
+
+### Concept 
+
+* 按钮当中的“数”: **20 + 5 + 100**
+	* 1 新卡片未学习       
+	* 2 点击重来或者犹豫后正在循环运行中        
+	* 3 以前学过现在待学习
+
+	
+Editing and More
+
+- **Bury Card / Note**: Hides a card or all of the note’s cards from review **until the next day**. This is useful if you cannot answer the card at the moment or you want to come back to it another time.
+- **Suspend Card / Note**: Hides a card or all of the note’s cards from review **until they are manually unsuspended**.  This is useful if you want to avoid reviewing the note **for some time**, but don’t want to delete it.
+
+
 ## How?
 
 * 用于记忆已经**理解**的东西
@@ -49,54 +84,6 @@
 - [Aiki x Chrome extension](?): Anki划词助手
 - [Anki x sub2srs](?): 学习电影
 
-
-## What?
-
-> Anki is a free and open-source spaced repetition flashcard program. "Anki" (暗記) is the Japanese word for "memorization".
-> 
-> by [wiki](https://www.wikiwand.com/en/Anki_(software))
-
-
-Anki can be summed up with two bullets:
-
-- **Questions & Answers**: Anki presents you with a question -- be it a fill-in-the-blank，a definition, or a standard quesiton-marked sentense —— and your job is to recall the correct answer.
-- **Scheduling**: Based on how difficult or easy it was to recall the answer to the question, Anki determines the best amount of time to wait before asking you the same question again, thereby strengthening the memory at just the right moment. 
-
-### My wiki Strusture 
-
-- 2019-design 
-- @map
-- @project
-- @recap
-- cornerstone
-	- cs/10-testing
-	- cs/11-management
-	- cs/18--BQ
-	- cs/18--algo
-- cs/02
-- cs/19
-- cs4 
-
-### Adds-on
-
-- review heatmap
-
-### tool
-
-- [Anki Quick Adder](https://chrome.google.com/webstore/detail/anki-quick-adder/gpbcbbajoagdgnokieocaplbhkiidmmb): to create anki cards directly from Google Chrome
-
-### Concept 
-
-* 按钮当中的“数”: **20 + 5 + 100**
-	* 1 新卡片未学习       
-	* 2 点击重来或者犹豫后正在循环运行中        
-	* 3 以前学过现在待学习
-
-	
-Editing and More
-
-- **Bury Card / Note**: Hides a card or all of the note’s cards from review **until the next day**. This is useful if you cannot answer the card at the moment or you want to come back to it another time.
-- **Suspend Card / Note**: Hides a card or all of the note’s cards from review **until they are manually unsuspended**.  This is useful if you want to avoid reviewing the note **for some time**, but don’t want to delete it.
 
 
 ## When?
