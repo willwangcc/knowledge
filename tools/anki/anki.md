@@ -1,4 +1,4 @@
-# Anki 
+# Anki
 
 > 以知识点为单位的卡片
 
@@ -27,30 +27,20 @@ Anki can be summed up with two bullets:
 - **Questions & Answers**: Anki presents you with a question -- be it a fill-in-the-blank，a definition, or a standard quesiton-marked sentense —— and your job is to recall the correct answer.
 - **Scheduling**: Based on how difficult or easy it was to recall the answer to the question, Anki determines the best amount of time to wait before asking you the same question again, thereby strengthening the memory at just the right moment. 
 
-
 ## How?
 
-* 用于记忆已经**理解**的东西
-* 在拥有**知识地图**后打磨细节
 
-### workflow 
+*   1) Keep Your Decks **Simple**
+*   2) First **Understand**, Then Memorize
+*   3) Lay the **Foundations** First
+*   4) Follow the **Minimum** Information Principle
+*   5) **Cloze** Deletions Are Your Best Friend
+*   6) Use **Images**, Photos, & Figures
 
-- 每日@recap，把新学习的知道放到anki中。
+### MAKE(Minimal Actionable Knowledge and Experience)
 
-### Principle
-
-- Anki只放自己**已经理解**的内容
-
-### Tutorial
-
-- [How I Learn Everything : Anki Tutorial](https://www.youtube.com/watch?v=5urUZUWoTLo&t=946s) 
+- [The Ultimate Guide to Anki](https://aliabdaal.com/learn-anything-with-flashcards-the-ultimate-guide-to-anki/)
 - [13 Steps to Better ANKI Flashcards | Part 1/2](https://www.youtube.com/watch?v=AbvaITy3oeQ)
-	*   1) Keep Your Decks **Simple**
-	*   2) First **Understand**, Then Memorize
-	*   3) Lay the **Foundations** First
-	*   4) Follow the **Minimum** Information Principle
-	*   5) **Cloze** Deletions Are Your Best Friend
-	*   6) Use **Images**, Photos, & Figures
 
 ## When?
 
@@ -80,3 +70,4 @@ Anki can be summed up with two bullets:
 - [awesome-anki](https://github.com/tianshanghong/awesome-anki)
 - [Study with Me + Anki Flashcard Method - Ali Abdaal](https://www.youtube.com/watch?v=W-EpiaPcgTk): @recap的灵感来源，把每日所学放入到anki中。
 - [Anki学习笔记](https://www.yuque.com/purequant/anki)
+- [How I Learn Everything : Anki Tutorial](https://www.youtube.com/watch?v=5urUZUWoTLo&t=946s) 
