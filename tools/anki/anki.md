@@ -27,10 +27,6 @@ Anki can be summed up with two bullets:
 - **Questions & Answers**: Anki presents you with a question -- be it a fill-in-the-blank，a definition, or a standard quesiton-marked sentense —— and your job is to recall the correct answer.
 - **Scheduling**: Based on how difficult or easy it was to recall the answer to the question, Anki determines the best amount of time to wait before asking you the same question again, thereby strengthening the memory at just the right moment. 
 
-### Adds-on
-
-- review heatmap
-
 ### tool
 
 - [Anki Quick Adder](https://chrome.google.com/webstore/detail/anki-quick-adder/gpbcbbajoagdgnokieocaplbhkiidmmb): to create anki cards directly from Google Chrome
