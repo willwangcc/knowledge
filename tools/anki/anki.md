@@ -39,5 +39,9 @@ Anki can be summed up with two bullets:
 
 ### MAKE(Minimal Actionable Knowledge and Experience)
 
-- [The Ultimate Guide to Anki](https://aliabdaal.com/learn-anything-with-flashcards-the-ultimate-guide-to-anki/)
+
+1. [The Ultimate Guide to Anki](https://aliabdaal.com/learn-anything-with-flashcards-the-ultimate-guide-to-anki/)
+- [Anki Manual](https://docs.ankiweb.net/#/): All about Anki
+- [Chasing 10X: How Anki Saved My Software Career](https://senrigan.io/blog/chasing-10x-leveraging-a-poor-memory-in-software-engineering/): Anki Practice for Career
 - [13 Steps to Better ANKI Flashcards | Part 1/2](https://www.youtube.com/watch?v=AbvaITy3oeQ)
+- [Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki/)
