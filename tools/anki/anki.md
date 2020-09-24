@@ -27,9 +27,6 @@ Anki can be summed up with two bullets:
 - **Questions & Answers**: Anki presents you with a question -- be it a fill-in-the-blank，a definition, or a standard quesiton-marked sentense —— and your job is to recall the correct answer.
 - **Scheduling**: Based on how difficult or easy it was to recall the answer to the question, Anki determines the best amount of time to wait before asking you the same question again, thereby strengthening the memory at just the right moment. 
 
-### tool
-
-- [Anki Quick Adder](https://chrome.google.com/webstore/detail/anki-quick-adder/gpbcbbajoagdgnokieocaplbhkiidmmb): to create anki cards directly from Google Chrome
 
 ### Concept 
 
@@ -68,19 +65,6 @@ Editing and More
 	*   4) Follow the **Minimum** Information Principle
 	*   5) **Cloze** Deletions Are Your Best Friend
 	*   6) Use **Images**, Photos, & Figures
-
-### 组合使用
-
-- [Anki x Kindle](https://zhuanlan.zhihu.com/p/37079582) 
-- [Anki x MarginNote](https://zhuanlan.zhihu.com/p/34512119)
-- [Anki x Youtube](https://zhuanlan.zhihu.com/p/40037096)
-	- [youtube2Anki](https://github.com/dobladov/youtube2Anki): allows to download the transcript of a YouTube video to a csv that can be imported into Anki or directly send the cards to Anki using AnkiConnect, allowing to use the original audio/video of the current sentence and without having to download the original media. 
-- [Anki x workflow](https://zhuanlan.zhihu.com/p/47025287)
-- [Aiki x Web Query](https://zhuanlan.zhihu.com/p/33792983)
-- [Aiki x Chrome extension](?): Anki划词助手
-- [Anki x sub2srs](?): 学习电影
-
-
 
 ## When?
 
