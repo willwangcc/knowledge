@@ -87,10 +87,16 @@ Anki can be summed up with two bullets:
 
 ### Concept 
 
-* 按钮当中的“数”: 20 + 5 + 100
+* 按钮当中的“数”: **20 + 5 + 100**
 	* 1 新卡片未学习       
 	* 2 点击重来或者犹豫后正在循环运行中        
 	* 3 以前学过现在待学习
+
+	
+Editing and More
+
+- **Bury Card / Note**: Hides a card or all of the note’s cards from review **until the next day**. This is useful if you cannot answer the card at the moment or you want to come back to it another time.
+- **Suspend Card / Note**: Hides a card or all of the note’s cards from review **until they are manually unsuspended**.  This is useful if you want to avoid reviewing the note **for some time**, but don’t want to delete it.
 
 
 ## When?
@@ -120,3 +126,4 @@ Anki can be summed up with two bullets:
 - [Anki电脑端上值得推荐的十个插件](https://zhuanlan.zhihu.com/p/24650483)
 - [awesome-anki](https://github.com/tianshanghong/awesome-anki)
 - [Study with Me + Anki Flashcard Method - Ali Abdaal](https://www.youtube.com/watch?v=W-EpiaPcgTk): @recap的灵感来源，把每日所学放入到anki中。
+- [Anki学习笔记](https://www.yuque.com/purequant/anki)
