@@ -19,3 +19,19 @@ from [For This Guru, No Question Is Too Big](https://www.nytimes.com/2009/05/24/
 
 而这是一个很重要的问题!?
 
+## How 
+
+1. morning-routine
+1. list: all things I need to do today
+1. priority: which is more important & urgent?
+1. focus
+1. night-routine
+
+## What 
+
+* @email: 进行一部沟通
+* @review: 反思总结如何进步？一切**支线任务**在这里处理(screenshot)
+* @omnifocus: 一切被捕捉的灵感和想法
+* @anki: 永远**记住**那些重要的知识点
+* @toggl: 记录时间
+* @calendar: 稳定时间去向，用哪一个软件呢？先用默认的。
