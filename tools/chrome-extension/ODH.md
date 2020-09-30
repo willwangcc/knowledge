@@ -16,3 +16,4 @@ Online Dictionary Helper is a Chrome/Firefox extension to **show definitions for
 
 * How to set up antimoon? 
 * How to define your own dictionary/template?
+* 如何扩展不同的词典？
