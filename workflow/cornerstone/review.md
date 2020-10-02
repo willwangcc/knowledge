@@ -1,73 +1,70 @@
-# Review system
+# Review: 如何将经验变成积累？
 
-## To do 
-* [x] [morning routine](https://i.imgur.com/xZVfpTV.png): 把Alfred中的命令(m1, m2, m3)三合一: `screenshots to evernote`
-* [x] 如何提高 @review 整理的时间效率，让其**Focus**在最重要的事情上？
-* [ ] 补充整个review system背后的科学原理，why?
-* [ ] 补充为什么使用「Evernote」，以及之后的截图复习系统? 可搜索 + 层级系统
-* [ ] 如何提高信噪比？整理「输入源」，输入的质量决定了输出的上限。「控制输入源」，「关键词过滤」，「Github沉淀」,「强行时间线」
+> 不总结反思，为什么奢望成长？
 
-## Tools
+## Why?
 
-<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/> <img src="https://i.imgur.com/5L0C5zD.png" alt="shortcuts" width="20"/>
-<img src="https://i.imgur.com/xeFNz0B.png" alt="review" width="20"/>
-<img src="https://i.imgur.com/wkAKmBc.png" alt="evernote" width="20"/>
-<img src="https://i.imgur.com/8MyBvDP.png" alt="drawing" width="20"/>
-<img src="https://i.imgur.com/kLLtRlc.png" alt="drawing" width="20"/>
+- 一回生二回熟！书读百遍，其义自现。熟悉会让你更愿意在当下深入。
+- 主题迭代式学习法！
+- 截图是最快的记录方式！
+- **集中**处理所有与世界的交互
 
-
-1. Shortcuts 
-1. Alfred/workflow - [screenshots to evernote](https://github.com/willwang-x/screenshots-to-evernote)  
-1. Evernote 
-1. workflowy.com 
-1. Github with MacDown 
-
-
-## How: 整体逻辑? 
+## How: 
 
 > **起源**于好奇，**定义**成问题，**发展**于阅读、交流与思考，**下切**到行动指南，**回归**到总结反思，**增值**于分享输出
 
+### 整体逻辑
+
 整体的操作逻辑如下：
 
-* **截图**： 包括电脑和手机，条件是**值得复习和深入了解的知识点**都记录保留**学习现场**
-* **归档**： screenshots to evernote using 「shortcuts」 & 「alfred/workflow」
-* **记录**： 在「evernote」用**沉浸模式**阅读，在「workflowy」中记录所有知识点, 这个环节**越快越好**
-* **分类**： 将知识点分类到不同的「github」**知识库**中，然后**排序**处理
+1. **截图**：知识点和做完事，在手机和电脑上截图以保留**认知现场**
+* **归档**：讲所有截图合并一处，以集中处理
+* **浏览**：分类处理
+	* **文章**：放入Pocket
+	* **新知识点**：记录在Anki中，在Github中建立条目
+	* 其他
+
+### 具体细节
 
 
-## How: 具体细节?
+```  bash
+................................  ← 一天所见的知识点
+       \filter1:重要=关键词/
+   ........................       ← 知识&结点截图 (iPhone&Mac)
+       \filter2:紧急=最近/
+          ........                ← 离线@review (workflowy)
+       \filter3:限时=0.5h/
+           .....                  ← 在线@map (Gitub)  
+
+```
+
 
 <img src="https://i.imgur.com/TdhUSIf.png" alt="shortcuts" width="150"/> <img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
 <img src="https://i.imgur.com/9XqaseO.png" alt="alfred-review" width="150"/>
 <img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
-<img src="https://i.imgur.com/2OIL9Zf.jpg" alt="evernote" width="100"/>
-<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
-<img src="https://i.imgur.com/ADELdZ0.jpg" alt="workflowy" width="150"/>
-<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/>
 <img src="https://i.imgur.com/MwXB1il.png" alt="workflowy" width="150"/>
 
 
-1. iPhone screenshots to Mac：
-	* **拿**起iPhone
-	* 右滑屏幕
-	* 点击workflow1
-	* 点击workflow2
-	* 跳出Alert窗口，点击“Delete"
-1. Mac screenshots to Evernote:
-	* **快捷键** `option + command + space` 唤出Alfred
-	* **输入** `m,`, `return`: to evernote
-1. Evernote to workflowy: 
-	* **快捷键** `shift + return` 进入“Present”沉浸模式
-	* 鼠标**点击**图片, 进入图片模式
-	* 开始在workflowy中记录“知识点”
-1. Evernote to Github:
-	* @maps 中**排序**知识点，以github名，将知识点**分类**，如 web knowledge to github/a-growing-web-developer 
-	* 使用Terminal唤出目录
-	* 使用MacDown打开编辑
-	* writing...
-	* 完成一个知识点`git add/commit/push` 
 
-## Q & A 
+
+## What？
+
+<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/> <img src="https://i.imgur.com/5L0C5zD.png" alt="shortcuts" width="20"/>
+<img src="https://i.imgur.com/xeFNz0B.png" alt="review" width="20"/>
+<img src="https://i.imgur.com/CZTaNRb.jpg" alt="anki" width="20"/>
+<img src="https://i.imgur.com/8MyBvDP.png" alt="drawing" width="20"/>
+<img src="https://i.imgur.com/kLLtRlc.png" alt="drawing" width="20"/>
+
+
+*  **重要**: 衡量标准时这个**知识点**对你未来的**行动力**的**Impact**, 必须知道 > 有帮助 > 可能有帮助。 思维的提升 > 实施细节 
+* **shortcut & alfred**: 将[手机截图](https://i.imgur.com/ac30rCf.jpeg)和电脑截图回合到[一处](https://i.imgur.com/PYcxkzW.png)，(降低画质，以省空间)集中处理
+* **认知现场**: 与你有关的知识是决定是否投入时间的第一步，反之，忘记了用途，知识就成了记忆的孤岛。
+* **Pocket**: 处理完Review，查看一下Pocket
+
+
+## Q&A 
+
+* 截图的标准是什么？
 
 ### 1. 每次@review + @map 过程太长(3小时)，但是时间有限，还有其他重要事情，如何提高效率？
 
@@ -139,16 +136,17 @@ App:
 * 标签：标签是为什么，在有限时间内做重要的事情。
 
 from [How your "working memory" makes sense of the world](https://workflowy.com/s/how-your-working-mem/n77TBskIjRQbZRda)
-## Why?
 
-- 一回生二回熟！书读百遍，其义自现。熟悉会让你更愿意在当下深入。
-- 主题迭代式学习法！
 
-## What？
 
-* `@review` : 不访问互联网(避免超时), 只有**截图**和**workflowy**之间进行互动, 同时**标注**重点`#Q`, 便于`@map` 处理。 
-* `@map` : 取函数`map`之意, `map(消化函数，[知识点1，知识点2，...])`
-*  「重要」: 衡量标准时这个**知识点**对你未来的**行动力**的**Impact**, 必须知道 > 有帮助 > 可能有帮助。 思维的提升 > 实施细节 
+
+
+## To do 
+* [x] [morning routine](https://i.imgur.com/xZVfpTV.png): 把Alfred中的命令(m1, m2, m3)三合一: `screenshots to evernote`
+* [x] 如何提高 @review 整理的时间效率，让其**Focus**在最重要的事情上？
+* [ ] 补充整个review system背后的科学原理，why?
+* [ ] 补充为什么使用「Evernote」，以及之后的截图复习系统? 可搜索 + 层级系统
+* [ ] 如何提高信噪比？整理「输入源」，输入的质量决定了输出的上限。「控制输入源」，「关键词过滤」，「Github沉淀」,「强行时间线」
 
 ## Log 
 
