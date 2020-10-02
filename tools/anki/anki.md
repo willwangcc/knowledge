@@ -1,4 +1,4 @@
-# Anki
+# Anki -- [How to remember anything forever](https://ncase.me/remember/)
 
 > 以知识点为单位的卡片
 
@@ -10,9 +10,9 @@
 
 既然那么多人推荐，那就系统了解一下这个程序员们(≈可编程)也喜欢的工具。
 
-- **核心**稳定，**扩展**繁荣: 全平台支持，高度自定义
-- **问答**知识的**记忆面包**: 构建自己的`{key: val}`知识库，实现`O(1)`时间读取知识
-
+* **核心**稳定，**扩展**繁荣: 全平台支持，高度自定义
+* **问答**知识的**记忆面包**: 构建自己的`{key: val}`知识库，实现`O(1)`时间读取知识
+* Let learning be More Effective, More Efficient, Less Stressful
 
 
 ## What?
