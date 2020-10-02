@@ -37,3 +37,7 @@ from [For This Guru, No Question Is Too Big](https://www.nytimes.com/2009/05/24/
 * @toggl: 记录时间
 * @calendar: 稳定时间去向，用哪一个软件呢？先用默认的。
 * @not-to-do-list: 记录那些被吸引但事后觉得不好的事情
+* app:
+	* [F.Lux](https://justgetflux.com/): To feel the time (连续时间)
+	* [Take a break](http://www.miidii.tech/portfolio/items/839266): Automatically lock screen, we make you a break you can't refuse. (间隔时间)
+
