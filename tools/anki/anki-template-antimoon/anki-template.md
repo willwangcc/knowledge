@@ -23,3 +23,4 @@
 * [anki_card_template_digest
 ](https://codepen.io/willwang-x/pen/QWNRaJY)
 * [How to Design Beautiful Anki Cards](https://medshamim.com/med/how-to-design-beautiful-anki-cards)
+* [SVG Text Underline](https://codepen.io/iam_aspencer/pen/qvNPBv)
