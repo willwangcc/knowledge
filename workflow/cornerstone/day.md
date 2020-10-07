@@ -25,7 +25,7 @@ from [For This Guru, No Question Is Too Big](https://www.nytimes.com/2009/05/24/
 1. **list**: all things I need to do today
 1. **priority**: which is more important & urgent? @anki
 1. **focus**: @toggl 行动闭环，结束截图。
-1. **night-routine**: book, @review 	 
+1. **night-routine**: book, @review 	@book
 
 ## What 
 
