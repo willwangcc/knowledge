@@ -1,9 +1,9 @@
 # Anki Concepts 
 
 * 按钮当中的“数”: **20 + 5 + 100**
-	* 1 新卡片未学习       
-	* 2 点击重来或者犹豫后正在循环运行中        
-	* 3 以前学过现在待学习
+	* 20 = New       
+	* 5 = Learning        
+	* 3 = To Review
 
 	
 Editing and More
