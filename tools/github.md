@@ -9,6 +9,10 @@ Learn and Contribute.
 
 ## What 
 
+### MAKE
+
+* [searching on GitHub](https://docs.github.com/en/free-pro-team@latest/github/searching-for-information-on-github)
+
 
 ### chrome extension 
 
