@@ -30,6 +30,7 @@
 - Github
 	- [profile summary for github](https://profile-summary-for-github.com/search) 
 	- [commit history](https://help.github.com/en/articles/searching-commits#search-by-author-or-committer) 
+		- [recent commit by willwang-x](https://github.com/search?o=desc&q=author%3Awillwang-x&s=committer-date&type=Commits)  
 - Mac
 	- RescueTime or Timing (测试中...) 
 - Workflowy 
