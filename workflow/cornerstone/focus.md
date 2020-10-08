@@ -58,3 +58,4 @@
 ## More 
 
 * 你会在20方向上走一步，还是在一个方向上走20步?
+* [10-Minute Focus: 25 Habits for Mastering Your Concentration and Eliminating Distractions](https://www.amazon.com/10-Minute-Focus-Concentration-Eliminating-Distractions-ebook/dp/B07JPWYYCR)
