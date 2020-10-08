@@ -1,6 +1,6 @@
 # Atom -- A hackable text editor for the 21st Century
  
-
+![sublime vs atom](https://i.imgur.com/j87DF4b.png)
 
 ## Why 
 
