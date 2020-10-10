@@ -1,11 +1,11 @@
 # Review: 如何将经验变成积累？
 
 <br>
-<img src="https://i.imgur.com/3xYCguw.png" alt="sceenshot" width ="60"/> 
+<img src="https://i.imgur.com/3xYCguw.png" alt="sceenshot" width ="20"/> 
 <img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/> 
-<img src="https://i.imgur.com/h0VjH0Q.png" alt="review" width="60"/> 
+<img src="https://i.imgur.com/h0VjH0Q.png" alt="review" width="20"/> 
 <img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/> 
-<img src="https://i.imgur.com/MwXB1il.png" alt="workflowy" width="60"/>
+<img src="https://i.imgur.com/MwXB1il.png" alt="workflowy" width="20"/>
 
 > 不总结反思，为什么奢望成长？
 
