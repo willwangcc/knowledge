@@ -1,13 +1,8 @@
 # Review: 如何将经验变成积累？
+
 <br>
 <center>
-
-<img src="https://i.imgur.com/3xYCguw.png" alt="sceenshot" height ="60"/> 
-<img src="https://i.imgur.com/lywdaP3.png" alt="right" height="20"/>
-<img src="https://i.imgur.com/h0VjH0Q.png" alt="review" height="60"/>
-<img src="https://i.imgur.com/lywdaP3.png" alt="right" height="20"/>
-<img src="https://i.imgur.com/MwXB1il.png" alt="workflowy" height="60"/>
-
+<img src="https://i.imgur.com/3xYCguw.png" alt="sceenshot" height ="60"/> <img src="https://i.imgur.com/lywdaP3.png" alt="right" height="20"/> <img src="https://i.imgur.com/h0VjH0Q.png" alt="review" height="60"/> <img src="https://i.imgur.com/lywdaP3.png" alt="right" height="20"/> <img src="https://i.imgur.com/MwXB1il.png" alt="workflowy" height="60"/>
 </center>
 <br>
 
