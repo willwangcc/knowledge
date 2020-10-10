@@ -8,11 +8,11 @@
 
 > Includes Anki flashcards.
 
-既然那么多人推荐，那就系统了解一下这个程序员们(≈可编程)也喜欢的工具。
+既然那么多人推荐，那就系统了解一下这个程序员们(≈可编程)也喜欢的工具。我大概喜欢的原因：
 
 * **核心**稳定，**扩展**繁荣: 全平台支持，高度自定义
 * **问答**知识的**记忆面包**: 构建自己的`{key: val}`知识库，实现`O(1)`时间读取知识
-* Let learning be More Effective, More Efficient, Less Stressful
+* 缓解**压力**的**高效**学习：Let learning be More Effective, More Efficient, Less Stressful
 
 
 ## What?
@@ -24,7 +24,7 @@
 
 Anki can be summed up with two bullets:
 
-- **Questions & Answers**: Anki presents you with a question -- be it a fill-in-the-blank，a definition, or a standard quesiton-marked sentense —— and your job is to recall the correct answer.
+- **Questions & Answers**: Anki presents you with a question -- be it a fill-in-the-blank，a definition, or a standard quesiton-marked sentense —— and your job is to **recall** the correct answer.
 - **Scheduling**: Based on how difficult or easy it was to recall the answer to the question, Anki determines the best amount of time to wait before asking you the same question again, thereby strengthening the memory at just the right moment. 
 
 ## How?
