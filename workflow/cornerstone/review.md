@@ -7,6 +7,12 @@
 <img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/> 
 <img src="https://i.imgur.com/MwXB1il.png" alt="workflowy" width="20"/>
 
+<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/> <img src="https://i.imgur.com/5L0C5zD.png" alt="shortcuts" width="20"/>
+<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/> 
+<img src="https://i.imgur.com/CZTaNRb.jpg" alt="anki" width="20"/>
+<img src="https://i.imgur.com/lywdaP3.png" alt="right" width="20"/> 
+<img src="https://i.imgur.com/kLLtRlc.png" alt="drawing" width="20"/>
+
 > 不总结反思，为什么奢望成长？
 
 ## Why?
