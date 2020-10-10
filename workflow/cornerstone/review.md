@@ -32,7 +32,7 @@
 1. **处理**：分类**处理**，提问，连接，视觉，组织
 	* **知识**：在Anki记录 and/or 在Github中建立条目
 	* **行动**：放入Omnifocus
-	* **未知**：放入workflowy
+	* **其他**：放入workflowy再处理
 
 
 
@@ -49,7 +49,7 @@
 * **认知现场**: 与你有关的知识是决定是否投入时间的第一步，反之，忘记了用途，知识就成了记忆的孤岛。
 * **重要**: 衡量标准时这个**知识点**对你未来的**行动力**的**Impact**, 必须知道 > 有帮助 > 可能有帮助。 系统优化 > 思维提升 > 实施细节。
 * **合并**：配合dropbox利用「shortcuts」的[shortcut](https://i.imgur.com/ac30rCf.jpeg)和[automation](https://i.imgur.com/BoIyroH.png)，同时修改Macbook默认截图存储路径，可以使得iPhone和Macbook的截图在一处，而不用任何额外操作。
-* **提问**：这个「知识点」有什么用？我为什么截图？思维方式，还是实施细节？主线任务，还是支线任务？
+* **提问**：这个「知识点」有什么用？我为什么截图？思维方式，还是实施细节？主线任务，还是支线任务？ 
 * **连接**：这个与我以前做的东西有什么联系？
 * **视觉**：想象实际的使用场景？想象它是如何生长到我的「知识树」上的？
 * **组织**：把这个「知识点」放到那个节点上呢？急迫且重要，则贴上**标签
@@ -63,5 +63,7 @@
 * How to save space for screenshots if needed? 
 	* for i in *.png; do sips -s format jpeg -s formatOptions 5 "${i}" --out "${i%png}jpg"; done
 * Should I delete screenshot after review?
+* Why ASK-CONNECT-VIS-ORGANIZE?
+	* A: [TED: working memory](https://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world) 
 
 
