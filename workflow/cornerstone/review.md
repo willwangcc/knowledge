@@ -52,7 +52,7 @@
 * **提问**：这个「知识点」有什么用？我为什么截图？思维方式，还是实施细节？主线任务，还是支线任务？ 
 * **连接**：这个与我以前做的东西有什么联系？
 * **视觉**：想象实际的使用场景？想象它是如何生长到我的「知识树」上的？
-* **组织**：把这个「知识点」放到那个节点上呢？急迫且重要，则贴上**标签
+* **组织**：把这个「知识点」放到那个节点上呢？急迫且重要，则贴上标签
 
 
 ## Q&A
@@ -65,5 +65,7 @@
 * Should I delete screenshot after review?
 * Why ASK-CONNECT-VIS-ORGANIZE?
 	* A: [TED: working memory](https://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world) 
+* Have you reviewed your review?
+	* A: Yes. Check [github.githistory.xyz](https://github.githistory.xyz/willwang-x/a-growing-cs/blob/master/workflow/cornerstone/review.md) 
 
 
