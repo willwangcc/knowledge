@@ -1,5 +1,7 @@
 # Manico
 
+![manico](https://i.imgur.com/KIBq43g.png)
+
 > a fast app launch and switch tool designed for OS
 
 ## Why 
@@ -16,6 +18,8 @@
 * 其他也没有对比其他同类App，因为前两个原因，已经满足我的要求了
 
 ## How
+
+Configuration -> Custom: 
 
 * 识别常用App
 * 在Manico中给予快捷键：option + app首字母
