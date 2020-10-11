@@ -16,7 +16,8 @@ web/RSS/... > pocket > Reading
 ## How 
 
 1. **Save** to pocket from anywhere
-* **read** & hightlight while available
+* **read** & hightlight while available 
+	* 每周tag优先阅读文章，e.g. algorithm 
 * see weekly **report** from my pockets article
 * hightlight to **anki** by readwise/email
 
