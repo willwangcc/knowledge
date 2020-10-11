@@ -1,5 +1,9 @@
 # Solve: 如何高效解决问题？
 
+> If I had one hour to save the world, I would spend 55 minutes **defining** the problem and only 5 minutes finding the solution. 
+> 
+> source: Albert Einstein
+
 ## Why
 
 * 有时会跳过对问题的定义和思考，而直接跳到解决，从而导致最终效果并不是想要的或者花费了过多的精力。
