@@ -1,4 +1,4 @@
-# Anki -- [How to remember anything forever](https://ncase.me/remember/)
+# Anki:	 [How to remember anything forever](https://ncase.me/remember/)
 
 > 以知识点为单位的卡片
 
@@ -15,6 +15,26 @@
 * 缓解**压力**的**高效**学习：Let learning be More Effective, More Efficient, Less Stressful
 
 
+## How?
+
+1. Keep Your Decks **Simple**
+1. First **Understand**, Then Memorize
+1. Lay the **Foundations** First
+1. Follow the **Minimum** Information Principle
+1. **Cloze** Deletions Are Your Best Friend
+1. Use **Images**, Photos, & Figures
+2. Schedule a **block** of time for Anki (In test...)
+
+### MAKE(Minimal Actionable Knowledge and Experience)
+
+* [The Ultimate Guide to Anki](https://aliabdaal.com/learn-anything-with-flashcards-the-ultimate-guide-to-anki/)
+* [Anki Manual](https://docs.ankiweb.net/#/)
+* [Chasing 10X: How Anki Saved My Software Career](https://senrigan.io/blog/chasing-10x-leveraging-a-poor-memory-in-software-engineering/)
+* [13 Steps to Better ANKI Flashcards | Part 1/2](https://www.youtube.com/watch?v=AbvaITy3oeQ)
+* [Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki/)
+
+
+
 ## What?
 
 > Anki is a free and open-source spaced repetition flashcard program. "Anki" (暗記) is the Japanese word for "memorization".
@@ -27,19 +47,7 @@ Anki can be summed up with two bullets:
 - **Questions & Answers**: Anki presents you with a question -- be it a fill-in-the-blank，a definition, or a standard quesiton-marked sentense —— and your job is to **recall** the correct answer.
 - **Scheduling**: Based on how **difficult** or easy it was to recall the answer to the question, Anki determines the best amount of **time** to wait before asking you the same question again, thereby strengthening the **memory** at just the right moment. 
 
-## How?
+### Term 
 
-1. Keep Your Decks **Simple**
-1. First **Understand**, Then Memorize
-1. Lay the **Foundations** First
-1. Follow the **Minimum** Information Principle
-1. **Cloze** Deletions Are Your Best Friend
-1. Use **Images**, Photos, & Figures
+* **block of time**: Schedule blocks of time for different modes of thinking suggested by <Your brain at work>. To recall information, meaning to bring a memory from the past back to mind, you bring an audience member up on the stage. Otherwise, it is retiring if you keep switch recalling from other modes of thinkging.(I guess)
 
-### MAKE(Minimal Actionable Knowledge and Experience)
-
-* [The Ultimate Guide to Anki](https://aliabdaal.com/learn-anything-with-flashcards-the-ultimate-guide-to-anki/)
-* [Anki Manual](https://docs.ankiweb.net/#/)
-* [Chasing 10X: How Anki Saved My Software Career](https://senrigan.io/blog/chasing-10x-leveraging-a-poor-memory-in-software-engineering/)
-* [13 Steps to Better ANKI Flashcards | Part 1/2](https://www.youtube.com/watch?v=AbvaITy3oeQ)
-* [Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki/)
