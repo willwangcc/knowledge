@@ -1,4 +1,4 @@
-# Maintenance
+# Software Maintenance
 
 > Software maintenance in software engineering is the **modification** of a software product after delivery to correct **faults**, to improve **performance** or other **attributes**. 
 > 
@@ -21,6 +21,17 @@ Highly Maintainable Code can be achieved through two simple, objective and verif
 Layered Architecture prevents entangled code, the well know spaghetti code phenomenon. Dependencies get mastered and when it is time for the code to evolve new classes and interfaces naturally integrate with existing ones.
 
 High Test Coverage Ratio means that when code covered by tests get refactored, existing tests get impacted.
+
+## What
+
+Software maintenance in software engineering is the **modification** of a software product after delivery to 
+
+* correct faults, 
+* to improve performance or 
+* other attributes.
+
+A common perception of maintenance is that it merely involves **fixing defects**. However, one study indicated that over **80%** of maintenance effort is used for **non-corrective actions**.This perception is perpetuated by users submitting problem reports that in reality are functionality enhancements to the system. More recent studies put the bug-fixing proportion closer to 21%.
+
 
 ## More 
 
