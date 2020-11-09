@@ -4,8 +4,7 @@
 <h1 align="center">
 <br>
   <a href="https://www.wikiwand.com/en/Unified_Modeling_Language"><img src="https://i.imgur.com/IGZSPlw.png" alt="Software engineering" width=200"></a>
-  <br>
-    <br>
+  <br><br>
 Unified Modeling Language 
   <br><br>
 </h1>
