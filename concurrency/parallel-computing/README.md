@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <a href="https://www.wikiwand.com/en/Parallel_computing"><img src="https://i.imgur.com/2OkcSNI.png" alt="Parallel computing" width=200"></a>
+  <a href="https://www.wikiwand.com/en/Parallel_computing#/Further_reading"><img src="https://i.imgur.com/2OkcSNI.png" alt="Parallel computing" width=200"></a>
   <br>
     <br>
   Parallel computing
