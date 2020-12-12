@@ -44,7 +44,10 @@ Problem solving consists of using **generic** or **ad hoc** methods in an orderl
 
 #### Q: solution vs approach?
 
-A: A **solution** is applicable only for problems where the **right** answer exists, such as "the solution of a linear equation." On the other hand, I think an **approach** is more applicable to scenarios where it is **unclear** whether it is possible to reach an optimal definitive answer. May 14, 2020
+A: 
+
+* A solution is applicable only for problems where **the right answer** exists, such as "the solution of a linear equation."
+* On the other hand, I think an approach is more applicable to **scenarios where it is unclear** whether it is **possible** to reach an **optimal** definitive answer. May 14, 2020
 
 source: [english.stackexchange.com](https://english.stackexchange.com/questions/534321/solution-vs-approach-in-academic-writing)
 
