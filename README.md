@@ -3,7 +3,7 @@
   <a href="https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/"><img src="https://i.imgur.com/4QwB003.jpeg" alt="Digital Garden" width=200"></a>
   <br>
     <br>
-  Digital Garden
+  My Digital Garden
   <br><br>
 </h1>
 
