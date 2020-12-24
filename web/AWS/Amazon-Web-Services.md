@@ -9,7 +9,7 @@ Amazon Web Services
 </h1>
 
 
-> Cloud computing with AWS [[aws.amazon.com](https://aws.amazon.com/what-is-aws/)]
+> Amazon Web Services (AWS) is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. [[wiki](https://www.wikiwand.com/en/Amazon_Web_Services)]
 
 ## Why 
 
