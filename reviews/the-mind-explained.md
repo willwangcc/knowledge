@@ -1,14 +1,13 @@
---- 
-layout: post
-title: 《The Mind Explained》笔记
-tags: 
-- booknotes
-status: publish
-type: books
-published: true
----
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/The_Mind,_Explained">
+  <img src="https://i.imgur.com/QkjdTdE.jpeg" alt="the mind - mindmap" width=42%">
+  </a>
+  <br><br>
+The Mind, Explained 
+  <br><br>
+</h1>
 
-![the mind - mindmap](https://i.imgur.com/QkjdTdE.jpeg)
 
 
 <br>
