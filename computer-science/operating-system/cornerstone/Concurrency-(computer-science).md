@@ -1,6 +1,14 @@
-# Concurrency 
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/Note-taking">
+  <img src="https://i.imgur.com/oAPBEFi.jpg" alt="Inside the Linux Kernel" width=42%">
+  </a>
+  <br><br>
+Concurrency (computer science)  
+<br><br>
+</h1>
 
-<center><img src="https://i.imgur.com/oAPBEFi.jpg" alt="Inside the Linux Kernel" width="200"/></center>
+
 
 
 > In computer science, concurrency is the ability of **different** parts or units of a program, algorithm, or problem to **be executed out-of-order or in partial order**, without **affecting the final outcome**. 

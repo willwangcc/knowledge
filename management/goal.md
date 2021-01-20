@@ -37,14 +37,14 @@ A goal is roughly similar to a purpose or aim, the anticipated result which guid
 
 ### Goal characteristics
 
-Certain characteristics of a goal help define the goal and determine an individual's motivation to achieve that goal. The characteristics of a goal make it possible to determine what motivates people to achieve a goal, and, along with other personal characteristics, may predict goal achievement.
+Certain characteristics of a goal help define the goal and determine an individual's **motivation** to achieve that goal. The characteristics of a goal make it possible to determine what motivates people to achieve a goal, and, along with other personal characteristics, may predict goal achievement.
 
-* **Importance** is determined by a goal's attractiveness, intensity, relevance, priority, and sign.[10][page needed] Importance can range from high to low.
-* **Difficulty** is determined by general estimates of probability of achieving the goal.[10][page needed]
-* **Specificity** is determined if the goal is qualitative and ranges from being vaguely to precisely stated.[10][page needed] Typically, a higher-level goal is more vague than a lower level subgoal; for example, wanting to have a successful career is more vague than wanting to obtain a master's degree.
-* **Temporal range** is determined by the range from proximal (immediate) to distal (delayed) and the duration of the goal.[10][page needed]
-* **Level of consciousness** refers to a person's cognitive awareness of a goal. Awareness is typically greater for proximal goals than distal goals.[10][page needed]
-* **Complexity** of a goal is determined by how many subgoals are necessary to achieve the goal and how one goal connects to another.[10][page needed] For example, graduating college could be considered a complex goal because it has many subgoals, such as making good grades, and is connected to other goals, such as gaining meaningful employment.
+* **Importance** is determined by a goal's attractiveness, intensity, relevance, priority, and sign. Importance can range from high to low.
+* **Difficulty** is determined by general estimates of probability of achieving the goal.
+* **Specificity** is determined if the goal is qualitative and ranges from being vaguely to precisely stated.Typically, a higher-level goal is more vague than a lower level subgoal; for example, wanting to have a successful career is more vague than wanting to obtain a master's degree.
+* **Temporal range** is determined by the range from proximal (immediate) to distal (delayed) and the duration of the goal.
+* **Level of consciousness** refers to a person's cognitive awareness of a goal. Awareness is typically greater for proximal goals than distal goals.
+* **Complexity** of a goal is determined by how many subgoals are necessary to achieve the goal and how one goal connects to another. For example, graduating college could be considered a complex goal because it has many subgoals, such as making good grades, and is connected to other goals, such as gaining meaningful employment.
 
 
 
@@ -67,3 +67,17 @@ Certain characteristics of a goal help define the goal and determine an individu
 A: Let's look at two synonyms: “purpose” and “goal”. To put it simply, “purpose” is **the reason** why you're doing something and “goal” is a **measurable thing** you want to achieve. “Purpose” is usually more **general**, while “goal” is more **specific**.
 
 source: [metaphorenglish.com](http://www.metaphorenglish.com/2017/05/31/purpose-vs-goal-practical-explanation)
+
+#### Q: Which dimensions should I consider in my life?
+
+A: Here are seven:
+
+* Family (parents, children, siblings, in-laws, and so on)
+* Social and community (friendships and community engagement)
+* Spiritual (religion, philosophy, or emotional outlook)
+* Physical (health and well-being)
+* Material (physical environment and possessions)
+* Avocational (hobbies and other nonprofessional activities)
+* Career (both short- and long-term perspectives)
+
+source: [hbr: No, You Can’t Have It All](https://hbr.org/2012/10/no-you-cant-have-it-all)

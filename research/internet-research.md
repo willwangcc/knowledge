@@ -14,7 +14,13 @@ Internet research
 
 Internet research has had a **profound** impact on the way **ideas** are formed and **knowledge** is created. Common applications of Internet research include personal research on a particular subject (something mentioned on the news, a health problem, etc.), students doing research for academic projects and papers, and journalists and other writers researching stories.
 
-Through **searches** on the Internet hundreds or thousands of pages can often be quickly found with some relation to a given topic. In addition, email (including mailing lists), online discussion forums (aka message boards, BBS's), and other personal communication facilities (instant messaging, IRC, newsgroups, etc.) can provide direct access to **experts** and other individuals with relevant **interests** and **knowledge**.
+Through **searches** on the Internet hundreds or thousands of pages can often be quickly found with some relation to a given topic. In addition, 
+
+* email (including mailing lists), 
+* online discussion forums (aka message boards, BBS's), and 
+* other personal communication facilities (instant messaging, IRC, newsgroups, etc.) can provide 
+	* direct access to **experts** and 
+	* other individuals with relevant **interests** and **knowledge**.
 
 
 ## How

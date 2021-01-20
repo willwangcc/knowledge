@@ -27,19 +27,6 @@ The goal of estimating is to help us **plan**. By having some kind of notion of 
 
 * [How to Develop a Rough Order of Magnitude Estimate (ROM Estimate)](https://pmdocuments.com/how-to-develop-a-rough-order-of-magnitude-estimate-rom-estimate/)
 
-MAKE(**M**inimum **A**ctionable **K**nowledge and **E**xperience)
-
-* [wikihow](https://www.wikihow.com/Main-Page) 
-* [learn-anything](https://learn-anything.xyz/)
-* [linkedin.com/learning](https://www.linkedin.com/learning/me)
-* [google](https://www.google.com/imghp?hl=en): keyword + 
-	* cheatsheet 
-	* infographic
-	* intuition
-	* why
-	* how
-	* what
-	* best practice
 
 ## What 
 
