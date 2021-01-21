@@ -19,6 +19,8 @@ Amazon S3
 * Query-in-place services for analytics
 * Most supported cloud storage service
 
+source: [aws.amazon.com](https://aws.amazon.com/s3/)
+
 ## How
 
 [How it works - S3 features](https://aws.amazon.com/s3/)
