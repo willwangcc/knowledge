@@ -14,19 +14,14 @@
 
 在反复尝试各种知识管理方式之后，**Digital Garden** 的概念完美地击中了我：To cultivate your own little bit of the internet. 
 
-因为再小的花园也是自己的。
+再小的花园也是自己的，因为终究你的花园，才会芬芳你的人生。
 
 ## How
 
-> Q → wiki → id.md → github  → anki
+> Q → define(wiki) → 🌱seed(id.md) → 🌷garden(github)  → 💧water(anki)
 
 * **定义** when in need / out of curiosity 
 * **更新** when more 交流/阅读/思考/行动 
 * **分享** when many parts are connected in a new way
 
-
-## What 
-
-* Topics: [Computer Science](https://www.wikiwand.com/en/ACM_Computing_Classification_System#/Structure)
-* Tools: [learning-anything](https://learn-anything.xyz/computer-science) & wikihow
 
