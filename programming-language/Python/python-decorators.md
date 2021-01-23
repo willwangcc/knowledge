@@ -1,25 +1,25 @@
-# Python Decorators 
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/Python_syntax_and_semantics#/Decorators">
+    <img src="http://qxf2.com/blog/wp-content/uploads/2014/09/qxf2-gun-decorator1.jpg" alt="Understanding Python decorators" width=42%">
+  </a>
+  <br><br>
+Python Decorators 
+  <br><br>
+</h1>
 
-![Gun](http://qxf2.com/blog/wp-content/uploads/2014/09/qxf2-gun-decorator1.jpg)
+> A Python decorator is a **specific change to the Python syntax** that allows us to more conveniently **alter** functions and methods (and possibly classes in a future version). [[wiki.python.org](https://wiki.python.org/moin/PythonDecorators#What_is_a_Decorator)]
 
-source: [Understanding Python decorators](https://qxf2.com/blog/python-decorators/)
+
+
 
 
 ## Why 
 
 * More readable
 
-## What 
 
-
-> In object-oriented programming, the decorator pattern is a design pattern that allows **behavior** to be added to **an individual object**, dynamically, without affecting the behavior of other objects from the same class.
-> 
-> The "decorators" we talk about with concern to Python are **not** exactly the same thing as the DecoratorPattern described above. A Python decorator is a **specific change to the Python syntax** that allows us to more conveniently **alter** functions and methods (and possibly classes in a future version). This supports more readable applications of the **DecoratorPattern** but also other uses as well.
-> 
-> source: [PythonDecorators](https://wiki.python.org/moin/PythonDecorators#What_is_a_Decorator)
-
-
-## Code 
+## How 
 
 [Decorators](https://repl.it/@WillWang42/decorator)
 
@@ -47,3 +47,33 @@ print(divide(2,5))
 # 0.4
 
 ```
+
+## What 
+
+### Overview
+
+A decorator is any callable Python object that is used to modify a function, method or class definition. A decorator is passed the original object being defined and returns a modified object, which is then bound to the name in the definition. Python decorators were inspired in part by Java annotations, and have a similar syntax; the decorator syntax is pure syntactic sugar, using @ as the keyword:
+
+``` python 
+@viking_chorus
+def menu_item():
+    print("spam")
+```
+is equivalent to
+
+``` python
+def menu_item():
+    print("spam")
+menu_item = viking_chorus(menu_item) 
+``` 
+ 
+..
+
+## FAQs
+
+#### Q: Good resource about python decorator?
+
+A: 
+
+* [PythonDecorators](https://wiki.python.org/moin/PythonDecorators#What_is_a_Decorator)
+* [Understanding Python decorators](https://qxf2.com/blog/python-decorators/)

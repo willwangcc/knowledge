@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-	<a href="https://www.wikiwand.com/en/Note-taking">
+	<a href="https://docs.python.org/3/library/index.html">
   <img src="https://i.imgur.com/VeYFI5k.jpeg" alt="The Python Standard Library map" width=42%">
   </a>
   <br><br>

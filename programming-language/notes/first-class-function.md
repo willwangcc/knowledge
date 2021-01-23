@@ -39,7 +39,7 @@ source: [http://rosettacode.org/](http://rosettacode.org/wiki/First-class_functi
 
 ## What 
 
-### Basics
+### Overview
 
 In computer science, a programming language is said to have first-class functions if it treats functions as first-class citizens. This means the language supports 
 

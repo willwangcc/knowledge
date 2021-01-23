@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <a href="https://www.wikiwand.com/en/JavaScript"><img src="https://i.imgur.com/3JRaHWU.png" alt="Javascript" width=400">
+  <a href="https://www.wikiwand.com/en/JavaScript#/External_links"><img src="https://i.imgur.com/3JRaHWU.png" alt="Javascript" width=400">
   </a>
   <br><br>
   JavaScript

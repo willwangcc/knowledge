@@ -12,12 +12,12 @@ grep
 
 ## Why 
 
-* **Saves time** over finding the required configuration.
-* Solves the problem related to the **troubleshooting** more quickly.
-* Help for **debugging** the code more quickly.
-* Finding out the **blank files and folders** in Linux.
+1. **Saves time** over finding the required configuration.
+1. Solves the problem related to the **troubleshooting** more quickly.
+1. Help for **debugging** the code more quickly.
+1. Finding out the **blank files and folders** in Linux.
 
-source: [Top 5 uses of GREP command in Linux](https://www.fosslinux.com/18892/top-5-uses-of-grep-command.htm)
+source: [fosslinux.com](https://www.fosslinux.com/18892/top-5-uses-of-grep-command.htm)
 
 ## How
 
@@ -33,6 +33,17 @@ $ grep -n root /etc/passwd
 $ grep -c false /etc/passwd
 7
 ```
+
+### use case 
+
+1. How to exclude the parameter/search string?
+2. Count the **occurrence** of a string
+3. How to search in the tar(zip) file
+4. How to get the line before and after the searched string?
+5. BONUS and the Bumper One, How the search a string in all file in the directory
+
+source: [Top 5 uses of GREP command in Linux](https://www.fosslinux.com/18892/top-5-uses-of-grep-command.htm)
+
 
 ## What 
 

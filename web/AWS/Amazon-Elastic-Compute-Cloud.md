@@ -17,6 +17,7 @@ Amazon Elastic Compute Cloud
 * Flexible options to optimize cost
 * Easy to migrate and build apps
 
+source: [aws.amazon.com](https://aws.amazon.com/ec2/)
 
 ## How
 
