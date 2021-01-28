@@ -16,6 +16,9 @@ Amazon Elastic Compute Cloud
 * Secure compute for your applications
 * Flexible options to optimize cost
 * Easy to migrate and build apps
+	* Get started quickly through AWS Migration Tools, AWS Managed Services, or Amazon Lightsail
+	* AWS Professional Services, AWS Support, and AWS Training and Certification help you along the way
+	* Tens of thousands of APN Partners to help companies build, market, and sell their AWS offerings
 
 source: [aws.amazon.com](https://aws.amazon.com/ec2/)
 
