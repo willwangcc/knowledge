@@ -40,7 +40,7 @@ In addition to the standard library, there is a growing collection of several th
 7. Binary Data Services
 8.  **Data Types** (13)
 9. Numeric and Mathematical Modules
-10.  Functional Programming Modules(3)
+10. **Functional Programming Modules**(3)
 11. File and Directory Access
 12. Data Persistence
 13. Data Compression and Archiving
