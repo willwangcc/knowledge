@@ -1,19 +1,13 @@
---- 
-layout: post
-title: 《好奇心》笔记
-tags: 
-- booknotes
-status: publish
-type: books
-published: true
----
 
-![来自微博](https://i.imgur.com/aPQz3w0.jpg)
-
-
+<h1 align="center">
 <br>
-<br>
-
+	<a href="https://www.wikiwand.com/en/Note-taking">
+  <img src="https://i.imgur.com/aPQz3w0.jpg" alt="intuition or map" width=42%">
+  </a>
+  <br><br>
+Curious: <br>The Desire to Know and Why Your Future Depends On It
+  <br><br>
+</h1>
 
 > Curious: The Desire to Know and Why Your Future Depends On It
 
