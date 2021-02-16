@@ -20,8 +20,8 @@
 
 > Q(screenshot) → define(wikiwand.com/id) → 🌱seed(id.md) → 🌷garden(github/map)  → 💧water(anki)
 
-* **定义** when in need / out of curiosity 
-* **更新** when more 交流/阅读/思考/行动 
+* **定义** when in need / out of curiosity (优先级算法)
+* **更新** when 被动触发 with more 交流/阅读/思考/行动
 * **分享** when many parts are connected in a new way
 
 
