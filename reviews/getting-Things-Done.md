@@ -44,6 +44,20 @@ GETTING THINGS DONE® is a personal productivity methodology that redefines how 
 
 source: [gettingthingsdone.com](https://gettingthingsdone.com/what-is-gtd/)
 
+The GTD workflow consists of five stages: capture, clarify, organize, reflect, and engage.[3] (The first edition used the names collect, process, organize, plan, and do; the descriptions of the stages are similar in both editions). Once all the material ("stuff") is captured (or collected) in the inbox,[1]:106 each item is clarified[1]:122 and organized[1]:141 by asking and answering questions about each item in turn as shown in the black boxes in the logic tree diagram. As a result, items end up in one of the eight oval end points in the diagram:
+
+* in the trash
+* on the someday/maybe list
+* in a neat reference filing system
+* on a list of tasks, with the outcome and next action defined if the "incomplete" is a "project" (i.e., if it will require two or more steps to complete it)
+* immediately completed and checked off if it can be completed in **under two minutes**
+* delegated to someone else and, if you want a reminder to follow up, added to a "waiting for" list
+* on a context-based "next action" list if there is only one step to complete it
+* on your calendar[1]:27
+* Empty your inbox or inboxes daily or at least weekly ("in" to empty).[1]:122 Don't use your inbox as a "to do" list. Don't put clarified items back into the inbox.[1]:27 Emptying your inbox doesn't mean finishing everything. It just means applying the "capture, clarify, organize" steps to all your "stuff".[1]:27
+
+Next, reflection (termed planning in the first edition) occurs. Multi-step projects identified above are assigned a desired outcome and a single "next action".[1]:191 Finally, a task from your task list is worked on ("engage" in the 2nd edition, "do" in the 1st edition) unless the calendar dictates otherwise. You select which task to work on next by considering where you are (i.e., the "context", such as at home, at work, out shopping, by the phone, at your computer, with a particular person), time available, energy available, and priority.[1]:204
+
 #### Perspective
 
 Allen emphasizes two key elements of GTD — **control** and **perspective**. The workflow is the center of the control aspect. The goal of the control processes in GTD is to get everything except the current task out of your head and into this trusted system external to your mind. He borrows a simile used in martial arts termed "**mind like water**". When a small object is thrown into a pool of water, the water responds appropriately with a small splash followed by quiescence. When a large object is thrown in the water again responds appropriately with a large splash followed by quiescence. The opposite of "mind like water" is a mind that never returns to quiescence but remains continually stressed by every input. With a trusted system and "mind like water" you can have a better perspective on your life. Allen recommends reflection from six levels, called "Horizons of Focus":
@@ -85,3 +99,21 @@ A:
 
 source: [todoist.com](https://todoist.com/productivity-methods/weekly-review)
 
+
+#### Q: What is Two-Minute Rule?
+
+A: Processing is the stage of the GTD workflow in which **you make decisions**. You get all the stuff you have collected and, one by one, decide what are you going to do with them.
+
+For you to decide, you must first define clearly what each item is. Once you have a clear and specific statement of the desired result, the first question is whether you need to take action or not. If the answer is yes, the next thing is to decide **what the next action is**.
+
+Here is where the famous **Two-Minute Rule** comes in: If the next action can be done in two minutes or less, do it now, although it is not an urgent or high-priority task.
+
+It does not need to take two minutes exactly, it may take three or five. If you have to read a short text to make the following decision, read it. If you have to send an email or make a quick call, just do it.
+
+If you do not complete the result with that action, identify the next action and process it following the same criteria: **If you need less than two minutes, do it; if not, defer it or delegate it**.
+
+In short, if doing a task will take less time than processing it, organizing it in your lists and tracking it timely, it is much more efficient to do it the first time it is in your hands.
+
+The Two-Minute Rule can **greatly improve your productivity**, making your projects move forward incessantly and preventing many small things get to overload your system.
+
+source: [basics-two-minute-rule](https://facilethings.com/blog/en/basics-two-minute-rule)

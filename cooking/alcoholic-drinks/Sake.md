@@ -73,3 +73,11 @@ A:
 * 燗酒	热或温清酒
 
 source: [www.hakutsuru.co.jp](http://www.hakutsuru.co.jp/chinese/enjoy/taste.html)
+
+#### Q: Good resouces about Sake?
+
+A:
+
+![Sakeist®︎ #1 Online Seminar by Xavier](https://i.imgur.com/KnZBBbM.png)
+
+* [Sakeist®︎ #1 Online Seminar by Xavier](https://vimeo.com/508243613/44f54c202e)
