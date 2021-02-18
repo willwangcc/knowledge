@@ -89,17 +89,32 @@ A: Here are some:
 
 A: 
 
-* 食材：老妈拌面，蒜，葱。
-* [工具](https://kit.co/will.wang.wang/lo-mein)：清洗，煮，捞。
-	* 面锅
-	* 蛋锅
-	* 菜锅 	
-* 步骤：
-	1. **煮蛋**：6min中。
-		* 备面：**烧水**，老妈拌面，蒜，葱。
-		* 煮菜：洗**菜** (with 葱)，放盐，煮菜。
-	* **下面**：6mins。
-		* 等蛋：关火。 
-	* **搅拌**：佐料依次此放入。
+<a href="https://kit.co/will.wang.wang/lo-mein">
+<img src="https://i.imgur.com/SLrf5Rr.jpg" alt="Lo mein" width=42%">
+</a>
+
+* 备菜：
+	* 食材：老妈拌面，蒜，葱，鸡蛋，菜。
+	* [工具](https://kit.co/will.wang.wang/lo-mein)：清洗（spinner），煮 - 三锅（面锅，蛋锅，菜锅），捞 - Strainer。	
+* 步骤：(15 mins)
+	1. 准备 6min。
+		* 冷水煮蛋，定时6mins。
+		* 烧第一份热水，放盐，for 菜。
+		* 洗菜和葱 with Spinner。
+		* 煮菜。
+		* 烧第二份热水，for 面。 		
+		* 切葱。
+		* 开面。酱料以此摆开。
+	* 等待 6mins。
+		* 关火。鸡蛋，定时6mins。
+		* 煮面。 	
+	* 上菜 3 mins。
 		* 凉蛋：放入凉水。
+		* 滤菜。
+		* 滤面。
+		* 佐料依次此放入。
+		* 剥蛋，切蛋，放蛋。
+		* 放葱，蒜泥，菜。
+		* 搅拌。
+	* 开吃 with 一罐 sparking water
 	
