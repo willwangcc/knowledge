@@ -63,10 +63,10 @@ A:
 
 1. 1 banana
 1. 1/2 avocado
-1. 1 piece of kale
-1. 1 cup of spinach 
+1. 1 piece of kale 
+1. 1 cup of spinach (1 cup = 8 oz) 
 1. 1 cup of blueberries (fresh/frozen) = 8 oz
-1. 1 cup of almond milk
+1. 1 cup of almond milk (= 236.588 ml)
 1. 1/4 cup walnuts = 2 oz
 1. 1 cup of ice by [Trays](https://www.amazon.com/dp/B074CRKP7V?tag=kitco079-20&geniuslink=true)
 
@@ -77,3 +77,5 @@ Before & After:
 * **先**烤[面包](https://www.amazon.com/gp/product/B01EVNQBUE?fpw=alm&almBrandId=VUZHIFdob2xlIEZvb2Rz): 因为面包冷却需要一点时间
 * avocado: 去皮，保鲜膜，冷冻保存
 * Test: 30 sec & 45 sec & 1 mins (Best?)
+
+购买：(一次买4份量) 因为一袋 blueberries 是4份的量

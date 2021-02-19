@@ -46,7 +46,7 @@ English phonology Map
 
 **Variable features**
 
-Rhoticity
+* Rhoticity
 * Flapping
 * L-vocalization
 * T-glottalization

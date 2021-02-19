@@ -33,6 +33,7 @@ source:
 * [How to Buy Sake](https://www.wikihow.com/Buy-Sake)
 * [How to Serve and Drink Sake](https://www.wikihow.com/Serve-and-Drink-Sake)
 * [How to Make a Sake Bomb](https://www.wikihow.com/Make-a-Sake-Bomb)
+* [pinterest](https://www.pinterest.com/willwillwang/sake/)
 
 ## What 
 
@@ -81,3 +82,11 @@ A:
 ![Sakeist®︎ #1 Online Seminar by Xavier](https://i.imgur.com/KnZBBbM.png)
 
 * [Sakeist®︎ #1 Online Seminar by Xavier](https://vimeo.com/508243613/44f54c202e)
+
+#### Q: 清酒的适饮温度?
+
+A:
+
+<a href="https://zhuanlan.zhihu.com/p/61016292">
+  <img src="https://i.imgur.com/nNT4uV3.jpg" alt="intuition or map" width=42%">
+  </a>
