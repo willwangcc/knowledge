@@ -90,7 +90,7 @@ Because hardware and software is changing so rapidly, GTD is deliberately techno
 
 ### Summary
 
-GTD is based on storing, tracking, and retrieving the information related to the things that need to get done. Mental blocks we encounter are caused by insufficient 'front-end' planning. This means thinking in advance, generating a series of actions which can later be undertaken without further planning. The mind's "reminder system" is inefficient and seldom reminds us of what we need to do at the time and place when we can do it. Consequently, the "next actions" stored by context in the "trusted system" act as an external support which ensures that we are presented with the right reminders at the right time. As GTD relies on external reminders, it can be seen as an application of the theories of distributed cognition or the extended mind.[7]
+GTD is based on storing, tracking, and retrieving the information related to the things that need to get done. Mental blocks we encounter are caused by insufficient 'front-end' planning. This means thinking in advance, generating a series of actions which can later be undertaken without further planning. The mind's "reminder system" is inefficient and seldom reminds us of what we need to do at the time and place when we can do it. Consequently, the "next actions" stored by context in the "trusted system" act as an external support which ensures that we are presented with the right reminders at the right time. As GTD relies on external reminders, it can be seen as an application of the theories of **distributed cognition** or the **extended mind**.[7]
 
 ### Reception
 
