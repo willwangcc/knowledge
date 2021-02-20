@@ -58,6 +58,7 @@ The GTD workflow consists of five stages: capture, clarify, organize, reflect, a
 
 Next, reflection (termed planning in the first edition) occurs. Multi-step projects identified above are assigned a desired outcome and a single "next action".[1]:191 Finally, a task from your task list is worked on ("engage" in the 2nd edition, "do" in the 1st edition) unless the calendar dictates otherwise. You select which task to work on next by considering where you are (i.e., the "context", such as at home, at work, out shopping, by the phone, at your computer, with a particular person), time available, energy available, and priority.[1]:204
 
+
 #### Perspective
 
 Allen emphasizes two key elements of GTD — **control** and **perspective**. The workflow is the center of the control aspect. The goal of the control processes in GTD is to get everything except the current task out of your head and into this trusted system external to your mind. He borrows a simile used in martial arts termed "**mind like water**". When a small object is thrown into a pool of water, the water responds appropriately with a small splash followed by quiescence. When a large object is thrown in the water again responds appropriately with a large splash followed by quiescence. The opposite of "mind like water" is a mind that never returns to quiescence but remains continually stressed by every input. With a trusted system and "mind like water" you can have a better perspective on your life. Allen recommends reflection from six levels, called "Horizons of Focus":
@@ -83,10 +84,25 @@ The GTD method rests on the idea of moving **planned tasks and projects out of t
 
 First published in 2001, a revised edition of the book was released in **2015** to reflect the **changes** in information technology during the preceding decade.
 
-### Others
+### Implementation
 
-* Themes
-* Reception
+Because hardware and software is changing so rapidly, GTD is deliberately technologically-neutral. (In fact, Allen advises people to start with a paper-based system.[4]) Many task management tools claim to implement GTD methodology[5] and Allen maintains a list of some technology that has been adopted in or designed for GTD. Some are designated "GTD Enabled", meaning Allen was involved in the design.[6]
+
+### Summary
+
+GTD is based on storing, tracking, and retrieving the information related to the things that need to get done. Mental blocks we encounter are caused by insufficient 'front-end' planning. This means thinking in advance, generating a series of actions which can later be undertaken without further planning. The mind's "reminder system" is inefficient and seldom reminds us of what we need to do at the time and place when we can do it. Consequently, the "next actions" stored by context in the "trusted system" act as an external support which ensures that we are presented with the right reminders at the right time. As GTD relies on external reminders, it can be seen as an application of the theories of distributed cognition or the extended mind.[7]
+
+### Reception
+
+In 2005, Wired called GTD a "new cult for the info age",[8] describing the enthusiasm for this method among information technology and knowledge workers as a kind of cult following. Allen's ideas have also been popularized through the Howard Stern Show (Stern referenced it daily throughout 2012's summer) and the Internet, especially via blogs such as 43 Folders,[9] Lifehacker,[10] and The Simple Dollar.[11]
+
+In 2005, Ben Hammersley interviewed David Allen for The Guardian article titled "Meet the man who can bring order to your universe",[12] saying: "For me, as with the hundreds of thousands around the world who press the book into their friends' hands with fire in their eyes, Allen's ideas are nothing short of life-changing".
+
+In 2007, Time Magazine called Getting Things Done the self-help business book of its time.[13]
+
+In 2007, Wired ran another article about GTD and Allen,[14] quoting him as saying "the workings of an automatic transmission are more complicated than a manual transmission... to simplify a complex event, you need a complex system".
+
+A paper in the journal Long Range Planning by Francis Heylighen and Clément Vidal of the Free University of Brussels showed "recent insights in psychology and cognitive science support and extend GTD's recommendations".[7]
 
 
 ## FAQs
