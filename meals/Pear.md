@@ -78,7 +78,7 @@ A:
 1. 准备食材及厨具：(2碗)
 	* 两个梨，切完约300g
 	* 枸杞 10g
-	* [冰糖](https://www.wikiwand.com/zh-hans/%E5%86%B0%E7%B3%96) 100g
+	* [冰糖](https://www.wikiwand.com/zh-hans/%E5%86%B0%E7%B3%96) 100g (冰糖可以再少一些)
 	* 水 1000 ml 
 	*  <del>  山楂 10g (北美难买)  </del> 
 	* 厨具：锅，切梨刀，去皮刀，砧板

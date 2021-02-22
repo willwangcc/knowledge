@@ -61,6 +61,8 @@ A:
 
 [BRAIN, CONCENTRATION AND MEMORY SMOOTHIE](https://www.youtube.com/watch?v=Iue4Dh7rDVQ) - [amazon](https://www.amazon.com/uff/your-account/order-details/ref=ppx_yo_dt_b_uff_or_o00?_encoding=UTF8&orderID=111-9195321-0312214&page=itemmod)
 
+准备：
+
 1. 1 banana
 1. 1/2 avocado
 1. 1 piece of kale 
@@ -69,13 +71,16 @@ A:
 1. 1 cup of almond milk (= 236.588 ml)
 1. 1/4 cup walnuts = 2 oz
 1. 1 cup of ice by [Trays](https://www.amazon.com/dp/B074CRKP7V?tag=kitco079-20&geniuslink=true)
+2. 6个小碗，1个shot
 
-**Blend**(1 mins)
+步骤：
 
-Before & After:
+1. **先**烤[面包](https://www.amazon.com/gp/product/B01EVNQBUE?fpw=alm&almBrandId=VUZHIFdob2xlIEZvb2Rz): 因为面包冷却需要一点时间
+2. 量食物
+3. **Blend**(30 sec)
+4. 加冰 (30 sec)
 
-* **先**烤[面包](https://www.amazon.com/gp/product/B01EVNQBUE?fpw=alm&almBrandId=VUZHIFdob2xlIEZvb2Rz): 因为面包冷却需要一点时间
+补充：
+
+1. 每周购买：(一次买4份量) 因为一袋 blueberries 是4份的量
 * avocado: 去皮，保鲜膜，冷冻保存
-* Test: 30 sec & 45 sec & 1 mins (Best?)
-
-购买：(一次买4份量) 因为一袋 blueberries 是4份的量

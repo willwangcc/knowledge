@@ -23,6 +23,13 @@ Time management
 
 ### Setting priorities and goals
 
+Time management strategies are often associated with the recommendation to set personal goals. The literature stresses themes such as:
+
+* "Work in **Priority Order**" – set goals and prioritize,
+* "Set **gravitational goals**" – that attract actions automatically[citation needed].
+
+These goals are recorded and may be broken down into a project, an action plan, or a simple task list. For individual tasks or for goals, an importance rating may be established, deadlines may be set, and priorities assigned. This process results in a plan with a task list, schedule, or calendar of activities. Authors may recommend a daily, weekly, monthly, or other planning periods, associated with different scope of planning or review. This is done in various ways, as follows:
+
 * ABCD analysis
 * Pareto analysis
 * The Eisenhower Method

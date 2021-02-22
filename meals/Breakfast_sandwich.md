@@ -23,9 +23,9 @@ source: [What Are the Health Benefits of Bacon, Egg & Cheese on Wheat Toast?](ht
 
 ### 食材
 
-* English Muffin
+* [English Muffin](https://www.amazon.com/gp/product/B000R4JHRQ/)
 * Egg
-* 2 Sliced Ham 
+* 2 Sliced Ham
 * 黑胡椒
 * 盐
 * 1 tsp. water
@@ -34,10 +34,14 @@ source: [What Are the Health Benefits of Bacon, Egg & Cheese on Wheat Toast?](ht
 ### 步骤
 
 1. Put **1 tsp.** of water in a microwavable dish.
-2. Place a slice of ham, place an egg, prick some holes in the egg yolk with a pick or a fork (to avoid exploding), then place another slice of ham.
-3. Cover with plastic wrap or a microwavable lid, and cook at 500W for a minute and a half. *You want to adjust and find the cooking time of your preference.
+2. Place a slice of **ham**, place an **egg**, prick some **holes** in the egg yolk with a pick or a fork (to avoid exploding), then place another slice of ham.
+3. Cover with plastic **wrap** or a microwavable lid, and cook at **500W** for **a minute and a half**. *You want to adjust and find the cooking time of your preference.
 
 source: [No Fail Perfect Ham and Eggs in a Microwave](https://www.youtube.com/watch?v=8yNC9o5_z_8)
+
+### log
+
+* 2020.02.20: English Muffin + Cheese -> 15s
 
 ## What 
 
