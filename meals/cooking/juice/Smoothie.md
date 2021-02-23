@@ -75,6 +75,7 @@ A:
 
 **步骤**：
 
+1. 手机拍我，然后**按步骤**，有问题事后**更新**。
 1. **先**烤[面包](https://www.amazon.com/gp/product/B01EVNQBUE?fpw=alm&almBrandId=VUZHIFdob2xlIEZvb2Rz): 因为面包冷却需要一点时间
 2. 量食物
 3. 依次放入，用完物品放在一起
