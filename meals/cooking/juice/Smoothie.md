@@ -71,16 +71,18 @@ A:
 1. 1 cup of almond milk (= 236.588 ml)
 1. 1/4 cup walnuts = 2 oz
 1. 1 cup of ice by [Trays](https://www.amazon.com/dp/B074CRKP7V?tag=kitco079-20&geniuslink=true)
-2. 6个小碗，1个shot
+2. 4个小碗，1个shot
 
-步骤：
+**步骤**：
 
 1. **先**烤[面包](https://www.amazon.com/gp/product/B01EVNQBUE?fpw=alm&almBrandId=VUZHIFdob2xlIEZvb2Rz): 因为面包冷却需要一点时间
 2. 量食物
-3. **Blend**(30 sec)
-4. 加冰 (30 sec)
+3. 依次放入，用完物品放在一起
+3. **Blend**(30 sec) while 水冲冰
+4. 加冰 (30 sec) while 东西放冰箱
 
 补充：
 
 1. 每周购买：(一次买4份量) 因为一袋 blueberries 是4份的量
-* avocado: 去皮，保鲜膜，冷冻保存
+* avocado: 去皮，保鲜膜，冷冻保存，选择熟的
+* 30 sec 不要管
