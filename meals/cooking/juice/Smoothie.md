@@ -61,6 +61,16 @@ A:
 
 [BRAIN, CONCENTRATION AND MEMORY SMOOTHIE](https://www.youtube.com/watch?v=Iue4Dh7rDVQ) - [amazon](https://www.amazon.com/uff/your-account/order-details/ref=ppx_yo_dt_b_uff_or_o00?_encoding=UTF8&orderID=111-9195321-0312214&page=itemmod)
 
+**步骤**：
+
+1. 手机拍我，然后**按步骤**，有问题事后**更新**。
+1. **先**烤[面包](https://www.amazon.com/gp/product/B01EVNQBUE?fpw=alm&almBrandId=VUZHIFdob2xlIEZvb2Rz): 因为面包冷却需要一点时间
+2. 找食物
+2. 量食物
+3. 依次放入，用完物品放在一起
+3. **Blend**(30 sec) while 水冲冰
+4. 加冰 (30 sec) while 东西放冰箱
+
 准备：
 
 1. **banana & avocado & walnuts**
@@ -76,14 +86,6 @@ A:
 	1. 1 cup of ice by [Trays](https://www.amazon.com/dp/B074CRKP7V?tag=kitco079-20&geniuslink=true)
 2. 4个小碗，1个shot
 
-**步骤**：
-
-1. 手机拍我，然后**按步骤**，有问题事后**更新**。
-1. **先**烤[面包](https://www.amazon.com/gp/product/B01EVNQBUE?fpw=alm&almBrandId=VUZHIFdob2xlIEZvb2Rz): 因为面包冷却需要一点时间
-2. 量食物
-3. 依次放入，用完物品放在一起
-3. **Blend**(30 sec) while 水冲冰
-4. 加冰 (30 sec) while 东西放冰箱
 
 补充：
 
