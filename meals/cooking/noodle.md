@@ -92,3 +92,10 @@ Noodles are usually cooked in **boiling water**, sometimes with **cooking oil** 
 A: 
 
 
+#### Q: list of noodle RECIPES?
+
+A: 
+
+* [叉烧面](https://www.youtube.com/watch?v=_5KuZlR4CcQ): 吃过这一碗面，从此再也不愿将就
+* [臭豆腐烤冷面](https://www.youtube.com/watch?v=uaVCafIOY3U)
+* [葱油拌面 - 日食记](https://www.youtube.com/watch?v=xhE-HVHOdgs&t=65s)

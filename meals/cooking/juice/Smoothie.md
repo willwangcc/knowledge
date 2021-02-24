@@ -63,14 +63,17 @@ A:
 
 准备：
 
-1. 1 banana
-1. 1/2 avocado
-1. 1 piece of kale 
-1. 1 cup of spinach (1 cup = 8 oz) 
-1. 1 cup of blueberries (fresh/frozen) = 8 oz
-1. 1 cup of almond milk (= 236.588 ml)
-1. 1/4 cup walnuts = 2 oz
-1. 1 cup of ice by [Trays](https://www.amazon.com/dp/B074CRKP7V?tag=kitco079-20&geniuslink=true)
+1. **banana & avocado & walnuts**
+	1. 1 banana
+	1. 1/2 avocado
+	2. 1/4 cup walnuts = 2 oz
+2. **kale, spinach, milk**
+	1. 1 piece of kale 
+	1. 1 cup of spinach (1 cup = 8 oz) 
+	1. 1 cup of almond milk (= 236.588 ml)
+1. **blueberries & ice**
+	1. 1 cup of blueberries (fresh/frozen) = 8 oz
+	1. 1 cup of ice by [Trays](https://www.amazon.com/dp/B074CRKP7V?tag=kitco079-20&geniuslink=true)
 2. 4个小碗，1个shot
 
 **步骤**：

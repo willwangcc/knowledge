@@ -31,7 +31,20 @@ GETTING THINGS DONE® is a personal productivity methodology that redefines how 
 
 ## How
 
-#### Workflow 
+* [Linked-learning: Getting Things Done](https://www.linkedin.com/learning/getting-things-done/benefits-of-getting-things-done): Join world-renowned productivity and time management expert David Allen as he walks you through his five-step process for Getting Things Done®. He shows you how to stay on top of your work and avoid feeling buried by it, while carving out space in your life to do more meaningful things. Learn how to capture, clarify, organize, reflect, and engage with tasks that are demanding your attention, and come away with a clear head and a clear focus.
+
+
+## What 
+
+### Overview
+
+Getting Things Done (GTD) is a **time management** method, described in the book of the same title by productivity consultant **David Allen**.
+
+The GTD method rests on the idea of moving **planned tasks and projects out of the mind** by **recording** them externally and then breaking them into **actionable work items**. This allows **attention** to be focused on taking action on tasks, instead of **recalling** them.
+
+First published in 2001, a revised edition of the book was released in **2015** to reflect the **changes** in information technology during the preceding decade.
+
+### Workflow 
 
 > Five clear steps that apply order to chaos.
 
@@ -59,7 +72,7 @@ The GTD workflow consists of five stages: capture, clarify, organize, reflect, a
 Next, reflection (termed planning in the first edition) occurs. Multi-step projects identified above are assigned a desired outcome and a single "next action".[1]:191 Finally, a task from your task list is worked on ("engage" in the 2nd edition, "do" in the 1st edition) unless the calendar dictates otherwise. You select which task to work on next by considering where you are (i.e., the "context", such as at home, at work, out shopping, by the phone, at your computer, with a particular person), time available, energy available, and priority.[1]:204
 
 
-#### Perspective
+### Perspective
 
 Allen emphasizes two key elements of GTD — **control** and **perspective**. The workflow is the center of the control aspect. The goal of the control processes in GTD is to get everything except the current task out of your head and into this trusted system external to your mind. He borrows a simile used in martial arts termed "**mind like water**". When a small object is thrown into a pool of water, the water responds appropriately with a small splash followed by quiescence. When a large object is thrown in the water again responds appropriately with a large splash followed by quiescence. The opposite of "mind like water" is a mind that never returns to quiescence but remains continually stressed by every input. With a trusted system and "mind like water" you can have a better perspective on your life. Allen recommends reflection from six levels, called "Horizons of Focus":
 
@@ -73,16 +86,6 @@ Allen emphasizes two key elements of GTD — **control** and **perspective**. Th
 Unlike some theories, which focus on top-down goal-setting, GTD works in the **opposite direction**. Allen argues that it is often difficult for individuals to focus on big picture goals if they cannot sufficiently control the day-to-day tasks that they frequently must face.[1]:54 By developing and using the trusted system that deals with day-to-day inputs, an individual can free up mental space to begin moving up to the next level.
 
 Allen recommends scheduling a **weekly review**, reflecting on the different levels. The perspective gained from these reviews should drive one's priorities at the project level. **Priorities** at the project level in turn determine the priority of the individual tasks and commitments gathered during the workflow process. During a weekly review, determine the context for the tasks and put each task on its appropriate list. An example of grouping together similar tasks would be making a list of outstanding telephone calls, or the tasks/errands to perform while out shopping. Context lists can be defined by the set of tools available or by the presence of individuals or groups for whom one has items to discuss or present.
-
-## What 
-
-### Overview
-
-Getting Things Done (GTD) is a **time management** method, described in the book of the same title by productivity consultant **David Allen**.
-
-The GTD method rests on the idea of moving **planned tasks and projects out of the mind** by **recording** them externally and then breaking them into **actionable work items**. This allows **attention** to be focused on taking action on tasks, instead of **recalling** them.
-
-First published in 2001, a revised edition of the book was released in **2015** to reflect the **changes** in information technology during the preceding decade.
 
 ### Implementation
 
