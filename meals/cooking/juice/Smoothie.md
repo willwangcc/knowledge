@@ -63,13 +63,22 @@ A:
 
 **步骤**：
 
-1. 手机拍我，然后**按步骤**，有问题事后**更新**。
+1. 手机拍我，**按步骤做**，事后**更新**。
 1. **先**烤[面包](https://www.amazon.com/gp/product/B01EVNQBUE?fpw=alm&almBrandId=VUZHIFdob2xlIEZvb2Rz): 因为面包冷却需要一点时间
-2. 找食物
+2. 备料: 
+	4. 保鲜：**kale, spinach, milk** 
+	5. 冷藏：**blueberries & ice**
+	6. 常温：banana & avocado & walnuts
+	6. 容器：搅拌机，4个小碗，1个shot
+	7. 工具：刀和砧板
 2. 量食物
-3. 依次放入，用完物品放在一起
-3. **Blend**(30 sec) while 水冲冰
-4. 加冰 (30 sec) while 东西放冰箱
+	3. 1碗： kale，spinach，milk
+	4. 1 shot: walnuts
+	5. 刀：avocado
+	6. 拨：banana
+3. 依次放入搅拌机
+3. **Blend**(30 sec) while **水冲冰**
+4. 加冰 (30 sec) while **东西放冰箱**
 
 准备：
 
