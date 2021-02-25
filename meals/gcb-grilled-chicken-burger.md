@@ -27,6 +27,11 @@ A whole grilled chicken thigh, served with freshly toasted sesame seed bun, topp
 * [chicken thigh](https://www.amazon.com/Just-BARE-Chicken-Hand-Trimmed-Boneless/dp/B00AR100NE/)
 	*  腌料 (料酒、蚝油、酱油、香油、蜂蜜）
 
+[步骤](https://www.dealmoon.com/guide/771140)：
+
+* 把去骨鸡腿肉洗净，放入碗中，再加入料酒、酱油、蚝油、香油、蜂蜜，这里根据自己口味控制咸淡，可以再加少许盐，我淡口没加，基本靠蚝油和酱油的咸度～**抓拌均匀后放入冰箱冷藏腌制12小时以上后使用**。这里腌制鸡腿肉可以提前一天准备～第二天直接煎好就能吃了，非常方便快捷～
+
+
 ## What 
 
 ### Overview
