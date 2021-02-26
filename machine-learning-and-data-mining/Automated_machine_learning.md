@@ -24,7 +24,7 @@ Automated machine learning
 course: 
 
 * [Exam Tips: Microsoft Azure AI Fundamentals (AI-900)](https://www.linkedin.com/learning/exam-tips-microsoft-azure-ai-fundamentals-ai-900/automated-machine-learning): In this course, learn about the features of Microsoft Azure AI and get an overview of the concepts covered in the AI-900 certification exam. 
-* [Learn Automated Machine Learning (Auto ML) With 10 Projects](https://www.udemy.com/course/automated-machine-learning-automl/)
+* [Learn Automated Machine Learning (Auto ML) With 10 Projects](https://www.udemy.com/course/automated-machine-learning-automl/): In the course you are going to learn about Automated Machine Learning (Auto ML) with python using google colab.
 * [Become a Machine Learning Engineer](https://www.educative.io/path/become-a-machine-learning-engineer)
 * [Machine Learning System Design](https://www.educative.io/courses/machine-learning-system-design)
 * [Feature Engineering for Machine Learning](https://www.educative.io/courses/feature-engineering-for-machine-learning)
