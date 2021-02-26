@@ -69,23 +69,21 @@ A:
 	4. 保鲜：**kale, spinach, milk** 
 	5. 冷藏：**blueberries & ice**
 	6. 常温：banana & avocado & walnuts
-	6. 容器：搅拌机，4个小碗，1个shot
-	7. 工具：刀和砧板
+	6. 容器：4个小碗，1个shot，搅拌机
+	7. 工具：刀，砧板，勺子
+1. 洗手
 2. 量食物
-	3. 1碗： kale，spinach，milk
-	4. 1 shot: walnuts
-	5. 刀：avocado
-	6. 拨：banana
-3. 依次放入搅拌机
-3. **Blend**(30 sec) while **水冲冰**
+	3. 1 cup: kale，spinach，blueberries, milk
+	4. 1/4 cup: walnuts
+	5. 以上放入搅拌机
+	5. 刀：avocado -> 果皮放碗里
+	6. 拨：banana  -> 果皮放碗里
+	7. 放入搅拌机
+3. 搅拌 (30 sec) while **水冲冰**，倒扣冰块在盖子上
 4. 加冰 (30 sec) while **东西放冰箱**
 
-准备：
+食材：
 
-1. **banana & avocado & walnuts**
-	1. 1 banana
-	1. 1/2 avocado
-	2. 1/4 cup walnuts = 2 oz
 2. **kale, spinach, milk**
 	1. 1 piece of kale 
 	1. 1 cup of spinach (1 cup = 8 oz) 
@@ -93,7 +91,10 @@ A:
 1. **blueberries & ice**
 	1. 1 cup of blueberries (fresh/frozen) = 8 oz
 	1. 1 cup of ice by [Trays](https://www.amazon.com/dp/B074CRKP7V?tag=kitco079-20&geniuslink=true)
-2. 4个小碗，1个shot
+1. **banana & avocado & walnuts**
+	1. 1 banana
+	1. 1/2 avocado
+	2. 1/4 cup walnuts = 2 oz
 
 
 补充：
