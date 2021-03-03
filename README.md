@@ -18,7 +18,7 @@
 
 ## How
 
-> Q(screenshot) → define(wikiwand.com/id) → 🌱seed(id.md) → 🌷garden(github/map)  → 💧water(anki)
+> 😯 Q(screenshot) → 🆕 define(wikiwand.com/id) → 🌱 seed(id.md) → 🌷 garden(github/map)  → 💧 water(anki)
 
 * **定义** when in need / out of curiosity (优先级算法)
 * **更新** when 被动触发 with more 交流/阅读/思考/行动
