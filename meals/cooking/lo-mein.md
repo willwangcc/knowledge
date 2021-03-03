@@ -95,7 +95,15 @@ A:
 
 * 备菜：
 	* 食材：老妈拌面，蒜，葱，鸡蛋，（菜，虾。）
-	* [工具](https://kit.co/will.wang.wang/lo-mein)：清洗（spinner），煮 - 三锅（面锅，蛋锅，菜锅），捞 - Strainer，拌 (zipper bag)，垫子(Cloth Pan), 砧板，刀，勺子，大碗（用于放垃圾），sparkling water
+	* [工具](https://kit.co/will.wang.wang/lo-mein)：
+		* 清洗（spinner），
+		* 煮 - 三锅（面锅，蛋锅，菜锅），
+		* 捞 - Strainer，拌 (zipper bag)，
+		* 垫子(Cloth Pan), 
+		* 砧板，刀，剪刀
+		* 勺子，
+		* 大碗（用于放垃圾），
+		* sparkling water, 筷子
 * 步骤：(15 mins)
 	1. 准备 6min。
 		* 冷水煮蛋，**定时**6mins。
@@ -103,7 +111,7 @@ A:
 		* 冷水洗菜和葱 with Spinner。
 		* 煮菜。
 		* 烧第二份热水(1L)，for 面。 		
-		* 开面。酱料依次摆开。
+		* 开面 -> 面锅。酱料依次摆开。
 		* 切葱。
 	* 等待 6mins。
 		* 关火。鸡蛋，定时6mins。
