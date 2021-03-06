@@ -31,6 +31,7 @@ A whole grilled chicken thigh, served with freshly toasted sesame seed bun, topp
 
 * **腌制**：提前一天腌制，冷藏腌制12小时以上。用zipper袋分开。
 * **解冻**：早晨解冻
+* **备菜**：平板锅，汉堡胚，鸡肉，烧鸡酱，生菜，沙拉酱，汉堡胚。 
 * **慢煎**：中小火慢煎，煎至两面金黄上色，筷子戳通。
 * **温壳**：bun 微波炉 10s
 * **上菜**：依次上 汉堡胚，鸡肉，烧鸡酱，生菜，沙拉酱，汉堡胚

@@ -31,6 +31,12 @@ source: [11-reasons-to-start-home-brewing-pour-over-coffee-today](https://kurasu
 
 * [wikihow](https://www.wikihow.com/Make-Pour-Over-Coffee): How to Make Pour Over Coffee
 * [tool](https://fellowproducts.com/products/the-pour-over-social-kit): The Pour-Over Social Kit - Fellow® Stagg
+	* Stagg EKG Electric Pour-Over Kettle
+	* Stagg [XF] Pour-Over Dripper  
+	* [Stagg Double Wall Carafe](https://fellowproducts.com/products/stagg-double-wall-carafe)
+	* 30 paper filters 
+
+ 
 
 ## What 
 

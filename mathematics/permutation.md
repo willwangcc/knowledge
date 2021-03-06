@@ -29,6 +29,9 @@ There are many ways to systematically generate all permutations of a given seque
 
 The following algorithm generates the next permutation lexicographically after a given permutation. It changes the given permutation in-place.
 
+<img src="https://i.imgur.com/eHiu7JS.png" alt="Permutation" width=42%">
+
+
 1. Find the largest index k such that a[k] < a[k + 1]. If no such index exists, the permutation is the last permutation.
 1. Find the largest index l greater than k such that a[k] < a[l].
 1. Swap the value of a[k] with that of a[l].
@@ -47,8 +50,8 @@ This method uses about 3 comparisons and 1.5 swaps per permutation, amortized ov
 
 ### Generation with minimal changes
 
-* [Steinhaus–Johnson–Trotter algorithm](https://www.wikiwand.com/en/Steinhaus%E2%80%93Johnson%E2%80%93Trotter_algorithm)
-* [Heap's algorithm](https://www.wikiwand.com/en/Heap%27s_algorithm)
+* [Steinhaus–Johnson–Trotter algorithm](https://www.wikiwand.com/en/Steinhaus%E2%80%93Johnson%E2%80%93Trotter_algorithm): Each permutation in the sequence that it generates differs from the previous permutation by swapping two adjacent elements of the sequence. 
+* [Heap's algorithm](https://www.wikiwand.com/en/Heap%27s_algorithm): It was first proposed by B. R. Heap in 1963.[1] The algorithm minimizes movement: it generates each permutation from the **previous one by interchanging a single pair of elements**; the other n−2 elements are not disturbed.
 
 ###  Meandric permutations
 
