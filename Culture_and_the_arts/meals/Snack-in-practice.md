@@ -27,6 +27,8 @@ source: [health-benefits-of-snacking](https://blog.mercy.com/health-benefits-of-
 
 ## What 
 
+* [HighKey Keto Friendly Mini Chocolate Chip Cookies](https://www.costco.com/highkey-keto-friendly-mini-chocolate-chip-cookies-12-oz%2c-2-pack.product.100724650.html): 既然是生酮食品，那就一定比普通曲奇要健康得多。这款新品无糖低卡，无麸质，用来当零食也不怕吃多了。
+
 
 ## FAQs
 

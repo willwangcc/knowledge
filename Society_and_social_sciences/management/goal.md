@@ -13,7 +13,18 @@ Goal
 
 ## Why 
 
-Without goals, your move is a waste of time.
+> A goal properly set is halfway reached. - Zig Ziglar
+
+1. **Clearer Focus**: Properly thought out and stated, goals clearly set out your intentions and desires; the things you really want to achieve.
+1. **Optimum Use of Resources**: There are never enough resources to do everything so setting goals can help you to prioritise. Place your resources behind what you really want to do, rather than on things you are doing by default or by deflection.
+1. **Effective Use of Time**: Of course time is a resource, but it deserves special consideration because it is so important. As Peter Drucker says: “If you want to improve how you manage time – stop doing what doesn’t need to be done!”
+1. **Peace of Mind**: Too often you can have many things on your mind. Writing down your goals can help you take all of those ideas, apply perspective and priority, then galvanize you into commitment and action
+1. **Clarity to Decision Making**: Knowing what you are trying to do means that you can now ask: “does this activity get me closer to my goal?”
+1. **Easier Measurement of What You Do**: Setting goals, especially SMART and SHARP goals, allows you to measure how well effectively you are moving towards achieving them
+1. **More Freedom of Thought**: Setting goals can help to release your creative energies so you can focus on how to achieve them. You’ll start to look for ways to make it happen.
+1. **Easier Communication with Others**: Setting goals enables you to clarify with other people what you are trying to do, and therefore what they need to do to contribute or support.
+
+source: [8 Benefits of Goal Setting](https://the-happy-manager.com/tips/benefits-of-goal-setting/)
 
 ## How
 
@@ -81,3 +92,10 @@ A: Here are seven:
 * Career (both short- and long-term perspectives)
 
 source: [hbr: No, You Can’t Have It All](https://hbr.org/2012/10/no-you-cant-have-it-all)
+
+#### Q: See Also?
+
+A:
+
+* [The Importance and Benefits of Setting Goals](https://accountable2you.com/blog/importance-of-goals/)
+* [The Importance, Benefits, and Value of Goal Setting](https://positivepsychology.com/benefits-goal-setting/)

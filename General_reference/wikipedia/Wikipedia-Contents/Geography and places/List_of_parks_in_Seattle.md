@@ -97,7 +97,7 @@ Seattle's oldest park is **Denny Park** and its largest is **Discovery Park**. T
 1. Magnuson Park	
 1. *Matthews Beach Park*	
 1. McCurdy Park	
-1. *[Me-Kwa-Mooks Park](https://www.wikiwand.com/en/Me-Kwa-Mooks_Park)*: 1994	
+1. *[Me-Kwa-Mooks Park](https://www.wikiwand.com/en/Me-Kwa-Mooks_Park)*: 1994
 1. Meridian Playground	
 1. Montlake Playfield	
 1. Myrtle Edwards Park	
@@ -123,8 +123,10 @@ Seattle's oldest park is **Denny Park** and its largest is **Discovery Park**. T
 1. **Washington Park Arboretum**	
 1. **Waterfront Park**	
 1. **Westlake Park**	
-1. *West Montlake Park*	
+1. **[West Montlake Park](https://www.wikiwand.com/en/West_Montlake_Park)**
 1. *Woodland Park*
+
+注：**加粗**是去过。*斜体*是想去。
 
 ### Others
 
