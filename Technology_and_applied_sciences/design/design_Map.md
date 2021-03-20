@@ -3,7 +3,7 @@
   <a href="https://www.wikiwand.com/en/Design"><img src="https://i.imgur.com/cBMjYD7.png" alt="Design" width=42%"></a>
   <br>
     <br>
-  Design
+  Design Map
   <br><br>
 </h1>
 

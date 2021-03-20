@@ -38,6 +38,10 @@ source: [8 Benefits of Goal Setting](https://the-happy-manager.com/tips/benefits
 * How to [Accomplish](https://www.wikihow.com/Accomplish-a-Goal) a Goal
 * How to [Visualize](https://www.wikihow.com/Visualize)
 
+### Courses
+
+* [linkedin-learning](https://www.linkedin.com/learning/defining-and-achieving-professional-goals/set-yourself-up-for-success): Defining and Achieving Professional Goals
+
 ## What 
 
 ### Overview

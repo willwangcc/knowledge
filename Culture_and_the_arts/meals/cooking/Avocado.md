@@ -28,7 +28,20 @@ source: [12 Proven Health Benefits of Avocado](https://www.healthline.com/nutrit
 
 ## How
 
-[How to Freeze Avocados](https://www.wikihow.com/Freeze-Avocados)
+* [How to Freeze Avocados](https://www.wikihow.com/Freeze-Avocados)
+* [How to Keep Avocados Fresh](https://www.wikihow.com/Keep-Avocados-Fresh)
+* [How to Ripen and Store Avocados](https://www.wikihow.com/Ripen-and-Store-Avocados)
+* [How to Keep Avocados from Ripening](https://www.wikihow.com/Keep-Avocados-from-Ripening)
+* [How to Ripen an Avocado](https://www.wikihow.com/Ripen-an-Avocado)
+
+### [How to Store Avocado](https://www.wikihow.com/Store-Avocado)
+	
+* Storing an **Unripe** Avocado
+* Refrigerating a **Ripe** Avocado	
+* **Packaging** a Cut Avocado
+* **Freezing** an Avocado
+	
+
 
 
 ## What 
@@ -62,3 +75,8 @@ Avocados are commercially valuable and are cultivated in tropical and Mediterran
 A: 
 
 
+#### Q: See Also?
+
+A:
+
+* [This is Why Everybody Loves Avocados Now ❤️🥑](https://www.youtube.com/watch?v=G7RB5IHoSWI)
