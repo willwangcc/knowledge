@@ -37,7 +37,10 @@ source: [12 Proven Health Benefits of Avocado](https://www.healthline.com/nutrit
 ### [How to Store Avocado](https://www.wikihow.com/Store-Avocado)
 	
 * Storing an **Unripe** Avocado
-* Refrigerating a **Ripe** Avocado	
+* [Refrigerating](https://www.wikihow.com/Store-Avocado#Refrigerating-a-Ripe-Avocado) a **Ripe** Avocado	
+	* Put your avocado in an airtight plastic bag.  
+	* Squeeze the air out before sealing the bag’s zipper. 
+	* Place the avocado in the refrigerator to store it for 3-5 days. 
 * **Packaging** a Cut Avocado
 * **Freezing** an Avocado
 	

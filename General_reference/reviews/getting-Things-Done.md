@@ -32,6 +32,8 @@ GETTING THINGS DONE® is a personal productivity methodology that redefines how 
 ## How
 
 * [Linked-learning: Getting Things Done](https://www.linkedin.com/learning/getting-things-done/benefits-of-getting-things-done): Join world-renowned productivity and time management expert David Allen as he walks you through his five-step process for Getting Things Done®. He shows you how to stay on top of your work and avoid feeling buried by it, while carving out space in your life to do more meaningful things. Learn how to capture, clarify, organize, reflect, and engage with tasks that are demanding your attention, and come away with a clear head and a clear focus.
+* [Defining and Achieving Professional Goals](https://www.linkedin.com/learning/defining-and-achieving-professional-goals/what-you-should-know-8343866): Plenty of people have had the experience of setting goals and then failing to achieve them—think of all the New Year's resolutions that are never realized. But with the right strategies, even your loftiest professional goals are attainable. In this course, career and personal branding expert Dorie Clark helps you identify what's most important to you, and provides specific strategies for achieving your goals, such as getting an accountability partner, making your intentions public, and more. She also helps you maintain your goals by sharing tips and techniques for turning your goals into habits.
+
 
 
 ## What 
