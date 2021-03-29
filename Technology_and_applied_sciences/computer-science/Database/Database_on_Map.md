@@ -1,10 +1,10 @@
 <h1 align="center">
 <br>
-	<a href="https://www.wikiwand.com/en/NoSQL">
+	<a href="https://www.wikiwand.com/en/NoSQL#/External_links">
   <img src="https://i.imgur.com/q4jhms1.png" alt="intuition or map" width=42%">
   </a>
   <br><br>
-Database management systems Map <br><br>
+Database management systems on Map <br><br>
 </h1>
 
 > A database is an organized collection of **data**, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal **design and modeling techniques**. [[wiki](https://www.wikiwand.com/en/Database)]

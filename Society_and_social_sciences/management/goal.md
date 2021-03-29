@@ -61,14 +61,50 @@ Certain characteristics of a goal help define the goal and determine an individu
 * **Level of consciousness** refers to a person's cognitive awareness of a goal. Awareness is typically greater for proximal goals than distal goals.
 * **Complexity** of a goal is determined by how many subgoals are necessary to achieve the goal and how one goal connects to another. For example, graduating college could be considered a complex goal because it has many subgoals, such as making good grades, and is connected to other goals, such as gaining meaningful employment.
 
+### Goal setting
 
+Goal-setting theory was formulated based on empirical research and has been called one of the most important theories in organizational psychology.[2] Edwin A. Locke and Gary P. Latham, the fathers of goal-setting theory, provided a comprehensive review of the core findings of the theory in 2002.[3] In summary, Locke and Latham found that specific, difficult goals lead to higher **performance** than either easy goals or instructions to "do your best", as long as **feedback** about progress is provided, the person is committed to the goal, and the person has the ability and knowledge to perform the task.[4]
 
+According to Locke and Latham, goals affect performance in the following ways:[3]
 
+1. goals direct attention and effort toward goal-relevant activities,
+1. difficult goals lead to greater effort,
+1. goals increase persistence, with difficult goals prolonging effort, and
+1. goals indirectly lead to arousal, and to discovery and use of task-relevant knowledge and strategies.
+
+A positive relationship between goals and performance depends on several factors. 
+
+* First, the goal must be considered **important** and the individual must be **committed**. Participative goal setting can help increase performance, but participation itself does not directly improve performance.[3] 
+* **Self-efficacy** also enhances goal commitment.[5] 
+* For goals to be effective, people need **feedback** that details their progress in relation to their goal.[3] This feedback needs to be positive, immediate, graphic, and specific. Providing feedback leads to set references points and "comparisons to the standard inform their behavioral responses" (Stajkovic A.D. and Sergent, K, Cognitive Automation and Organizational Psychology).
+
+Some coaches recommend establishing specific, measurable, achievable, relevant, and time-bounded (SMART) objectives, but not all researchers agree that these SMART criteria are necessary.[6] The SMART framework does not include goal difficulty as a criterion; in the goal-setting theory of Locke and Latham, it is recommended to choose goals within the 90th percentile of difficulty, based on the average prior performance of those that have performed the task.[7][3]
+
+Goals can be long-term, intermediate, or short-term. The primary difference is the time required to achieve them.[8] Short-term goals expect to be finished in a relatively short period of time, long-term goals in a long period of time, and intermediate in a medium period of time.
+
+#### Mindset theory of action phases
+
+Before an individual can set out to achieve a goal, they must first decide on what their desired end-state will be. Peter Gollwitzer's mindset theory of action phases proposes that there are two phases in which an individual must go through if they wish to achieve a goal.[9] 
+
+* For the first phase, the individual will mentally select their goal by specifying the criteria and deciding on which goal they will set based on their commitment to seeing it through. 
+* The second phase is the planning phase, in which that individual will decide which set of behaviors are at their disposal and will allow them to best reach their desired end-state or goal.[10]:342–348
+
+### Personal goals
+
+Individuals can set personal goals. A student may set a goal of a high mark in an exam. An athlete might run five miles a day. A traveler might try to reach a destination-city within three hours. Financial goals are a common example, to save for retirement or to save for a purchase.
+
+Managing goals can give returns in all areas of personal life. Knowing precisely what one wants to achieve makes clear what to concentrate and improve on, and often subconsciously prioritizes that goal. However, successful goal adjustment (goal disengagement and goal re-engagement capacities) is also a part of leading a healthy life.[11]
+
+**Goal setting** and planning ("goal work") promotes long-term **vision**, intermediate **mission** and short-term **motivation**. It focuses intention, **desire**, acquisition of knowledge, and helps to organize resources.
+
+Efficient goal work includes recognizing and resolving all **guilt**, inner conflict or limiting belief that might cause one to sabotage one's efforts. By setting clearly defined goals, one can subsequently measure and take pride in the accomplishment of those goals. One can see progress in what might have seemed a long, perhaps difficult, grind.
+
+#### Achieving personal goals
+
+#### Personal goal achievement and happiness
 
 ### Others
 
-* Goal setting
-* Goal characteristics
 * Personal goals
 * Self-concordance model
 * Goal management in organizations

@@ -25,14 +25,6 @@ source: [Are Smoothies Good for You?](https://www.healthline.com/nutrition/are-s
 * [diagram](https://www.pinterest.com/pin/545076361129358742/)
 * [11 Brain-Boosting Smoothies](https://www.prevention.com/health/memory/g20503171/11-brain-boosting-smoothies/)
 * [kit.co/smoothie](https://kit.co/will.wang.wang/smoothie)
-* [Green Smoothie Freezer Packs - Meal Prepping Made Easy](https://www.skillshare.com/classes/Green-Smoothie-Freezer-Packs-Meal-Prepping-Made-Easy/992794848?via=search-layout-grid)
-	* Freezer 
-	* Pack
-	* Yorgurt
-	* 3 months
-	* 蜂蜜 
-* [Best Pre-Workout Smoothie Recipes - For Your Personal Goals](https://www.skillshare.com/classes/Best-Pre-Workout-Smoothie-Recipes-For-Your-Personal-Goals/1455341069?via=search-layout-grid)
-* [The Green Smoothie Course - Beginner to Pro](https://www.udemy.com/course/the-green-smoothie-course-beginner-to-pro/)
 
 ## What 
 
@@ -63,3 +55,50 @@ A:
 
 source: [23 Important Benefits of Drinking Healthy Smoothies](https://thatsmyjamok.com/23-important-benefits-of-drinking-healthy-smoothies/#:~:text=Controls%20Cravings,away%20from%20eating%20junk%20food.)
 
+#### Q: List of Recipt?
+
+A: 
+
+[BRAIN, CONCENTRATION AND MEMORY SMOOTHIE](https://www.youtube.com/watch?v=Iue4Dh7rDVQ) - [amazon](https://www.amazon.com/uff/your-account/order-details/ref=ppx_yo_dt_b_uff_or_o00?_encoding=UTF8&orderID=111-9195321-0312214&page=itemmod)
+
+**步骤**：
+
+1. 手机拍我，**按步骤做**，事后**更新**。
+1. **先**烤[面包](https://www.amazon.com/gp/product/B01EVNQBUE?fpw=alm&almBrandId=VUZHIFdob2xlIEZvb2Rz): 因为面包冷却需要一点时间
+2. 备料: 
+	4. 保鲜：**kale, spinach, milk** 
+	5. 冷藏：**blueberries & ice**
+	6. 常温：banana & avocado & walnuts
+	6. 容器：4个小碗，1个shot，搅拌机
+	7. 工具：刀，砧板，勺子
+1. 洗手
+2. 量食物
+	3. 1 cup: kale，spinach，blueberries, milk
+	4. 1/4 cup: walnuts
+	5. 以上放入搅拌机
+	5. 刀：avocado -> 果皮放碗里
+	6. 拨：banana  -> 果皮放碗里
+	7. 放入搅拌机
+3. 搅拌 (30 sec) while **水冲冰**，倒扣冰块在盖子上
+4. 加冰 (30 sec) while **东西放冰箱**
+
+食材：
+
+2. **kale, spinach, milk**
+	1. 1 piece of kale 
+	1. 1 cup of spinach (1 cup = 8 oz) 
+	1. 1 cup of almond milk (= 236.588 ml)
+1. **blueberries & ice**
+	1. 1 cup of blueberries (fresh/frozen) = 8 oz
+	1. 1 cup of ice by [Trays](https://www.amazon.com/dp/B074CRKP7V?tag=kitco079-20&geniuslink=true)
+1. **banana & avocado & walnuts**
+	1. 1 banana
+	1. 1/2 avocado
+	2. 1/4 cup walnuts = 2 oz
+
+
+补充：
+
+1. 每周购买：(一次买4份量) 因为一袋 blueberries 是4份的量
+* avocado: 去皮，保鲜膜，冷冻保存，选择熟的
+* 30 sec 不要管

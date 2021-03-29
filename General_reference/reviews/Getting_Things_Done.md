@@ -46,7 +46,26 @@ The GTD method rests on the idea of moving **planned tasks and projects out of t
 
 First published in 2001, a revised edition of the book was released in **2015** to reflect the **changes** in information technology during the preceding decade.
 
-### Workflow 
+### Themes
+
+Allen first demonstrates stress reduction from the method with the following exercise, centered on a task that has an unclear outcome or whose next action is not defined. Allen calls these sources of stress "open loops", "incompletes", or "stuff".[1]:13
+
+1. The most annoying, distracting, or interesting task is chosen, and defined as an "**incomplete**".
+1. A description of the successful outcome of the "incomplete" is written down in one sentence, along with the criteria by which the task will be considered **completed**.
+1. The **next step** required to approach completion of the task is written down.
+1. A **self-assessment** is made of the emotions experienced after completing the steps of this process.
+
+He claims stress can be reduced and productivity increased by putting reminders about everything you are not working on into a trusted system external to your mind. In this way, you can work on the task at hand without distraction from the "incompletes".[1]:14 The system in GTD requires you to have the following tools within easy reach:
+
+* An inbox
+* A trash can
+* A filing system for reference material
+* Several lists (detailed below)
+* A calendar.
+
+These tools can be physical or electronic as appropriate (e.g., a physical "in" tray or an email inbox).[1]:88 Then, as "stuff" enters your life, it is captured in these tools and processed with the following workflow.[1]:27
+
+#### Workflow 
 
 > Five clear steps that apply order to chaos.
 
@@ -74,7 +93,7 @@ The GTD workflow consists of five stages: capture, clarify, organize, reflect, a
 Next, reflection (termed planning in the first edition) occurs. Multi-step projects identified above are assigned a desired outcome and a single "next action".[1]:191 Finally, a task from your task list is worked on ("engage" in the 2nd edition, "do" in the 1st edition) unless the calendar dictates otherwise. You select which task to work on next by considering where you are (i.e., the "context", such as at home, at work, out shopping, by the phone, at your computer, with a particular person), time available, energy available, and priority.[1]:204
 
 
-### Perspective
+#### Perspective
 
 Allen emphasizes two key elements of GTD — **control** and **perspective**. The workflow is the center of the control aspect. The goal of the control processes in GTD is to get everything except the current task out of your head and into this trusted system external to your mind. He borrows a simile used in martial arts termed "**mind like water**". When a small object is thrown into a pool of water, the water responds appropriately with a small splash followed by quiescence. When a large object is thrown in the water again responds appropriately with a large splash followed by quiescence. The opposite of "mind like water" is a mind that never returns to quiescence but remains continually stressed by every input. With a trusted system and "mind like water" you can have a better perspective on your life. Allen recommends reflection from six levels, called "Horizons of Focus":
 
@@ -89,11 +108,11 @@ Unlike some theories, which focus on top-down goal-setting, GTD works in the **o
 
 Allen recommends scheduling a **weekly review**, reflecting on the different levels. The perspective gained from these reviews should drive one's priorities at the project level. **Priorities** at the project level in turn determine the priority of the individual tasks and commitments gathered during the workflow process. During a weekly review, determine the context for the tasks and put each task on its appropriate list. An example of grouping together similar tasks would be making a list of outstanding telephone calls, or the tasks/errands to perform while out shopping. Context lists can be defined by the set of tools available or by the presence of individuals or groups for whom one has items to discuss or present.
 
-### Implementation
+#### Implementation
 
 Because hardware and software is changing so rapidly, GTD is deliberately technologically-neutral. (In fact, Allen advises people to start with a paper-based system.[4]) Many task management tools claim to implement GTD methodology[5] and Allen maintains a list of some technology that has been adopted in or designed for GTD. Some are designated "GTD Enabled", meaning Allen was involved in the design.[6]
 
-### Summary
+#### Summary
 
 GTD is based on storing, tracking, and retrieving the information related to the things that need to get done. Mental blocks we encounter are caused by insufficient 'front-end' planning. This means thinking in advance, generating a series of actions which can later be undertaken without further planning. The mind's "reminder system" is inefficient and seldom reminds us of what we need to do at the time and place when we can do it. Consequently, the "next actions" stored by context in the "trusted system" act as an external support which ensures that we are presented with the right reminders at the right time. As GTD relies on external reminders, it can be seen as an application of the theories of **distributed cognition** or the **extended mind**.[7]
 
