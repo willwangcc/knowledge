@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/x5Zldex.png" alt="intuition or map" width=42%">
   </a>
   <br><br>
-Meditation Map
+Meditation on Map
   <br><br>
 </h1>
 
