@@ -16,10 +16,10 @@ Goal
 > A goal properly set is halfway reached. - Zig Ziglar
 
 1. **Clearer Focus**: Properly thought out and stated, goals clearly set out your intentions and desires; the things you really want to achieve.
-1. **Optimum Use of Resources**: There are never enough resources to do everything so setting goals can help you to prioritise. Place your resources behind what you really want to do, rather than on things you are doing by default or by deflection.
+1. **Optimum Use of [Resources](https://www.wikiwand.com/en/Resource)**: There are never enough resources to do everything so setting goals can help you to prioritise. Place your resources behind what you really want to do, rather than on things you are doing by default or by deflection.
 1. **Effective Use of Time**: Of course time is a resource, but it deserves special consideration because it is so important. As Peter Drucker says: “If you want to improve how you manage time – stop doing what doesn’t need to be done!”
 1. **Peace of Mind**: Too often you can have many things on your mind. Writing down your goals can help you take all of those ideas, apply perspective and priority, then galvanize you into commitment and action
-1. **Clarity to Decision Making**: Knowing what you are trying to do means that you can now ask: “does this activity get me closer to my goal?”
+1. **Clarity to [Decision Making](https://www.wikiwand.com/en/Decision-making)**: Knowing what you are trying to do means that you can now ask: “does this activity get me closer to my goal?”
 1. **Easier Measurement of What You Do**: Setting goals, especially SMART and SHARP goals, allows you to measure how well effectively you are moving towards achieving them
 1. **More Freedom of Thought**: Setting goals can help to release your creative energies so you can focus on how to achieve them. You’ll start to look for ways to make it happen.
 1. **Easier Communication with Others**: Setting goals enables you to clarify with other people what you are trying to do, and therefore what they need to do to contribute or support.
@@ -103,11 +103,36 @@ Efficient goal work includes recognizing and resolving all **guilt**, inner conf
 
 #### Personal goal achievement and happiness
 
+### Goal management in organizations
+
+In organizations, goal management consists of the process of recognizing or inferring goals of individual team-members, abandoning goals that are no longer relevant, identifying and resolving conflicts among goals, and prioritizing goals consistently for optimal team-collaboration and effective operations.
+
+For any successful commercial system, it means deriving profits by making the best quality of goods or the best quality of services available to end-users (customers) at the best possible cost.[citation needed] Goal management includes:
+
+* assessment and dissolution of non-rational blocks to success
+* time management
+* frequent reconsideration (consistency checks)
+* feasibility checks
+* adjusting milestones and main-goal targets
+
+Jens Rasmussen (human factors expert) and Morten Lind distinguish three fundamental categories of goals related to technological system management:[21]
+
+* production goals
+* safety goals
+* economy goals
+
+Organizational goal-management aims for individual employee goals and objectives to align with the vision and strategic goals of the entire organization. Goal-management provides organizations with a mechanism[which?] to effectively communicate corporate goals and strategic objectives to each person across the entire organization.[citation needed] The key consists of having it all emanate from a pivotal source and providing each person with a clear, consistent organizational-goal message so that every employee understands how their efforts contribute to an enterprise's success.[citation needed]
+
+An example of goal types in business management:
+
+* **Consumer goals**: this refers to supplying a product or service that the market/consumer wants[22]
+* **Product goals**: this refers to supplying an outstanding value proposition compared to other products - perhaps due to factors such as quality, design, reliability and novelty[23]
+* **Operational goals**: this refers to running the organization in such a way as to make the best use of management skills, technology and resources
+* **Secondary goals**: this refers to goals which an organization does not regard as priorities[citation needed]
+
 ### Others
 
-* Personal goals
 * Self-concordance model
-* Goal management in organizations
 * Goal displacement
 
 

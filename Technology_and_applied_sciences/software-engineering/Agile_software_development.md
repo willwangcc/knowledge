@@ -29,7 +29,9 @@ source: [dragonspears.com](https://www.dragonspears.com/blog/11-benefits-of-agil
 ## How
 
 
-* [HBR - Agile Advantage: Creating Flexible, Innovative, Results Driven Teams](https://store.hbr.org/product/agile-advantage-creating-flexible-innovative-results-driven-teams/1107bn)
+* [HBR](https://store.hbr.org/product/agile-advantage-creating-flexible-innovative-results-driven-teams/1107bn): Agile Advantage: Creating Flexible, Innovative, Results Driven Teams
+* [in/learning](https://www.linkedin.com/learning/paths/become-an-agile-software-developer): Become an Agile Software Developer
+
 
 ## What 
 

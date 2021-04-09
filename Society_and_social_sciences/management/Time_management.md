@@ -8,7 +8,7 @@ Time management
   <br><br>
 </h1>
 
-> Time management is the **process** of **planning** and **exercising** **conscious** control of time spent on specific **activities**, especially to increase **effectiveness**, **efficiency**, and **productivity**. [[wiki](https://www.wikiwand.com/en/Time_management#)]
+> Time management is the **process** of **planning** and **exercising** **conscious** control of time spent on specific **activities**, especially to increase **effectiveness**, **efficiency**, and **productivity**. [[wiki](https://www.wikiwand.com/en/Time_management)]
 
 ## Why 
 

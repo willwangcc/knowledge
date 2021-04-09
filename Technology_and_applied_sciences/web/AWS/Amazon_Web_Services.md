@@ -21,6 +21,17 @@ Amazon Web Services
 
 source: [aws.amazon.com](https://aws.amazon.com/what-is-aws/)
 
+## How
+
+* [udemy](https://www.udemy.com/course/aws-solutions-architect-professional/): Ultimate AWS Certified Solutions Architect Professional 2021  (susu推荐)
+* [AWS Certification](https://aws.amazon.com/certification): You can benefit from a wide range of expert insights, resources, and programs as you progress toward achieving AWS Certification. Whether you’re just starting out or adding another certification, AWS can help you effectively validate your cloud expertise.
+* [paths](https://www.linkedin.com/learning/paths/prepare-for-the-aws-certified-solutions-architect-associate-exam-saa-c01): Prepare for the AWS Certified Solutions Architect (Associate) Exam (SAA-C01)
+* [Essential](https://www.linkedin.com/learning/aws-essential-training-for-developers/what-is-the-best-way-to-use-aws): AWS Essential Training for Developers
+* [Path: Scalability & System Design for Developers](https://www.educative.io/path/scalability-system-design)
+* [educative](https://www.educative.io/explore?search=true&search_string=AWS&free=false&pageNo=1)
+
+
+
 ## What 
 
 ### Overview

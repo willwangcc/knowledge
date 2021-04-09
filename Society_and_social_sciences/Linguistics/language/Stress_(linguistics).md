@@ -1,4 +1,12 @@
-# Stress
+<h1 align="center">
+<br>
+	<a href="https://www.wikiwand.com/en/Note-taking">
+  <img src="https://i.imgur.com/EFEoch9.png" alt="intuition or map" width=42%">
+  </a>
+  <br><br>
+Stress (linguistics)  
+  <br><br>
+</h1>
 
 > In linguistics, and particularly phonology, **stress** or accent is relative **emphasis** or prominence given to a certain syllable in a word, or to a certain word in a phrase or sentence.  [[wiki](https://www.wikiwand.com/en/Stress_(linguistics))]
 
