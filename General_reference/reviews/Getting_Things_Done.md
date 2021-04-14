@@ -157,3 +157,10 @@ In short, if doing a task will take less time than processing it, organizing it 
 The Two-Minute Rule can **greatly improve your productivity**, making your projects move forward incessantly and preventing many small things get to overload your system.
 
 source: [basics-two-minute-rule](https://facilethings.com/blog/en/basics-two-minute-rule)
+
+#### Q: Tools used for GTD?
+
+A:
+
+* Things
+* [Workflowy](https://www.youtube.com/watch?v=qDWYpf3sHyk)

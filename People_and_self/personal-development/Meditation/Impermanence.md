@@ -42,4 +42,9 @@ Impermanence, also known as the **philosophical problem of change**, is a philos
 
 A: 
 
+#### Q: See Also?
+
+A: 
+
+* [Impermanence and change](https://youtu.be/FR2IejTqj9c): As you move into the next stage of your practice, remember that in life, and in meditation, change is the only constant.
 

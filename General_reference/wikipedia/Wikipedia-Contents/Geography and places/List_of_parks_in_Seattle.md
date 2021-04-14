@@ -120,7 +120,7 @@ Seattle's oldest park is **Denny Park** and its largest is **Discovery Park**. T
 1. Victor Steinbrueck Park	
 1. Viretta Park	
 1. **Volunteer Park**	
-1. **Washington Park Arboretum**	
+1. [**Washington Park Arboretum**](https://www.wikiwand.com/en/Washington_Park_Arboretum)	
 1. **Waterfront Park**	
 1. **Westlake Park**	
 1. **[West Montlake Park](https://www.wikiwand.com/en/West_Montlake_Park)**

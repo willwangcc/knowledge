@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/KCvSSwp.png" alt="intuition or map" width=42%">
   </a>
   <br><br>
-Activities of daily living Map
+Activities of daily living on Map
   <br><br>
 </h1>
 
