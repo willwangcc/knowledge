@@ -18,6 +18,15 @@ Noodles are a staple food in many cultures
 
 * [How to Cook Ramen Noodles](https://www.wikihow.com/Cook-Ramen-Noodles)
 
+### Documentary 
+
+* Flavorful Origins
+* [How Noodles Are Made Around the World](https://www.youtube.com/watch?v=AIxN1IRi-wQ)
+
+### Course
+
+* [Gordon Ramsay Teaches Cooking II: Restaurant Recipes at Home](https://www.masterclass.com/classes/gordon-ramsay-teaches-cooking-restaurant-recipes-at-home)
+
 ## What 
 
 ### Overview
