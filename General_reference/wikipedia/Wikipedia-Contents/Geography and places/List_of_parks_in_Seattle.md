@@ -94,8 +94,8 @@ Seattle's oldest park is **Denny Park** and its largest is **Discovery Park**. T
 1. Louisa Boren Park	
 1. Madison Park	
 1. Madrona Park	
-1. Magnuson Park	
-1. *Matthews Beach Park*	
+1. [Magnuson Park](https://www.wikiwand.com/en/Magnuson_Park)
+1. [Matthews Beach Park](https://www.wikiwand.com/en/Matthews_Beach_Park)	
 1. McCurdy Park	
 1. *[Me-Kwa-Mooks Park](https://www.wikiwand.com/en/Me-Kwa-Mooks_Park)*: 1994
 1. Meridian Playground	

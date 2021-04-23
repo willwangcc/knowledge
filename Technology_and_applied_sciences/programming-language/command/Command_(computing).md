@@ -24,11 +24,11 @@ command [options] [arguments]
 
 ### MAKE
 
+- [index](https://ss64.com/osx/)：An A-Z Index of command line
 - [manual page](https://www.macworld.com/article/2044790/master-the-command-line-how-to-use-man-pages.html): just ask anything you don't know, e.g. `man grep`
 - [tldr](https://github.com/tldr-pages/tldr): simplified and community-driven man pages, e,g. `tldr tar` 
 - [cheat](https://github.com/cheat/cheat)：use case, e.g. `cheat akw`
 - [explainshell](https://www.explainshell.com)：to see the help text that **matches** each argument 
-- [index](https://ss64.com/osx/)：An A-Z Index of command line
 - [notes](https://workflowy.com/s/command-line/FdNg3k448yn6v1LV)：write  down my notes and **connect** with what I know
 - [checklist](https://github.com/jlevy/the-art-of-command-line): **essential** with goals of breadth, specificity and brevity
 

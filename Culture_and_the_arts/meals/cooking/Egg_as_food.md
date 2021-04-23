@@ -28,6 +28,7 @@ source: [healthline.com](https://www.healthline.com/nutrition/10-proven-health-b
 ## How
 
 * [wikihow: Egg Basics](https://www.wikihow.com/Category:Egg-Basics) 
+* [Every Way to Cook an Egg｜居家料理 | Vogue Taiwan](https://www.youtube.com/watch?v=0zpy2DIBMIc)
 
 
 ## What 
