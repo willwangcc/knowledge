@@ -41,6 +41,9 @@ source: [8 Benefits of Goal Setting](https://the-happy-manager.com/tips/benefits
 ### Courses
 
 * [linkedin-learning](https://www.linkedin.com/learning/defining-and-achieving-professional-goals/set-yourself-up-for-success): Defining and Achieving Professional Goals
+* [Successful Goal Setting](https://www.linkedin.com/learning/successful-goal-setting/introduction)
+* [Goal Setting: Objectives and Key Results (OKRs)](https://www.linkedin.com/learning/goal-setting-objectives-and-key-results-okrs/the-power-of-strategic-goals-objectives-and-key-results-okrs)
+* [Creating a High Performance Culture](https://www.linkedin.com/learning/creating-a-high-performance-culture/welcome)
 
 ## What 
 

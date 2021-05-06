@@ -32,6 +32,18 @@ Through **searches** on the Internet hundreds or thousands of pages can often be
 * [How to Expand Your Knowledge Using the Internet](https://www.wikihow.com/Expand-Your-Knowledge-Using-the-Internet)
 * [How to Find the Answer to Most Questions](https://www.wikihow.com/Find-the-Answer-to-Most-Questions)
 
+### Course
+
+* [20堂高能搜索修炼课](https://www.icourse163.org/columns/1205927209.htm?outVendor=zw_mooc_pckcjsywntj)
+
+
+### Book
+
+* [The Joy of Search](https://book.douban.com/subject/34441105/)
+
+
+
+
 
 ## What 
 

@@ -43,6 +43,8 @@ It was popularized by the Manifesto for Agile Software Development.[5] The value
 
 While there is much anecdotal evidence that adopting agile practices and values improves the agility of software professionals, teams and organizations, the empirical evidence is mixed and hard to find.[8][9]
 
+### History
+
 ### Others
 
 * History

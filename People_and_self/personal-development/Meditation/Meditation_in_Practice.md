@@ -31,6 +31,12 @@ Meditation in Practice
 
 Meditation is a practice where an individual uses a technique – such as mindfulness, or focusing the mind on a particular object, thought, or activity – to train attention and awareness, and achieve **a mentally clear and emotionally calm and stable state**.
 
+### Intuition
+
+* Changing experience: Meditation isn't a thing. That's why it's so difficult to talk about. It's a changing experience that's unique to each and every person.
+* Meditation is like a mental muscle. The stronger it is, the more you can use it to redirect your attention when you find yourself lying in bed at night, consumed by anxious thoughts.
+
+
 ### terms
 
 * [Headspace](https://www.wikiwand.com/en/Headspace_(company))
