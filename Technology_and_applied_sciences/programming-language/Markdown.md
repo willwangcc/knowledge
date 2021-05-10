@@ -52,3 +52,11 @@ A: **note.md** → **note.html** by Macdown → **note.png** by [FireShot](https
 #### Q: How to render Tex-like math snytax?
 
 A: In [Macdown](https://macdown.uranusjr.com/features/) by `$ snytex $`. e.g. $ \displaystyle \scriptstyle \mathcal O\left(n^{2}\right) $
+
+
+#### Q: Markdown Spoilers or Hidden Text?
+
+A: 
+
+
+>! Spoiler Text

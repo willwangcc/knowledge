@@ -51,6 +51,7 @@ A：practice vs act
 
 * Meditation typically refers to formal, seated meditation **practice**. 
 * Mindfulness is the simple **act** of paying attention and noticing and being present in whatever you’re doing. 
+* Magnifying the mind: Meditation is like a magnifying glass for the mind. The trick is to not get swept away nor shy away from what we see.
 
 
 #### Q： 冥想 vs 发呆？
