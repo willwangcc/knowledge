@@ -37,6 +37,8 @@ Noodles are usually cooked in **boiling water**, sometimes with **cooking oil** 
 
 ### Types by primary ingredient
 
+> Wheat, Rice, Buckwheat, Egg and others
+
 **[Wheat](https://www.wikiwand.com/en/Chinese_noodles#/Wheat)**
  
 * Bakmi: Indonesian Chinese yellow wheat noodles with egg and meat, usually pork. The Chinese word bak (肉), which means "meat" (or more specifically pork), is the vernacular pronunciation in Hokkien, but not in Teochew (which pronounced it as nek), suggesting an original Hokkien root. Mi derives from miàn.In Chinese, miàn (simplified Chinese: 面; traditional Chinese: 麵; often transliterated as "mien" or "mein" ) refers to noodles made from wheat.

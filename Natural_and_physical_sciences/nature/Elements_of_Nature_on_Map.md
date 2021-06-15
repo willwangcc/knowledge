@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/XqJLeil.png" alt="intuition or map" width=42%">
   </a>
   <br><br>
-Elements of nature map
+Elements of Nature on Map
   <br><br>
 </h1>
 

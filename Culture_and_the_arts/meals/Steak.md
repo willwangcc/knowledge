@@ -29,6 +29,10 @@ Steak
 
 source: [sous-vide-steak](https://anovaculinary.com/sous-vide-steak/)
 
+### Sous Vide Steak
+
+* Ribeye Steak Medium-rare: 130 F x 1h 
+
 ### To Finish on the Stovetop
 
 Prep:

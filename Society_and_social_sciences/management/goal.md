@@ -40,10 +40,11 @@ source: [8 Benefits of Goal Setting](https://the-happy-manager.com/tips/benefits
 
 ### Courses
 
-* [linkedin-learning](https://www.linkedin.com/learning/defining-and-achieving-professional-goals/set-yourself-up-for-success): Defining and Achieving Professional Goals
-* [Successful Goal Setting](https://www.linkedin.com/learning/successful-goal-setting/introduction)
-* [Goal Setting: Objectives and Key Results (OKRs)](https://www.linkedin.com/learning/goal-setting-objectives-and-key-results-okrs/the-power-of-strategic-goals-objectives-and-key-results-okrs)
-* [Creating a High Performance Culture](https://www.linkedin.com/learning/creating-a-high-performance-culture/welcome)
+* [linkedin-learning](https://www.linkedin.com/learning/defining-and-achieving-professional-goals/set-yourself-up-for-success): 
+	* [linkedin-learning](https://www.linkedin.com/learning/defining-and-achieving-professional-goals/set-yourself-up-for-success): Defining and Achieving Professional Goals
+	* [Successful Goal Setting](https://www.linkedin.com/learning/successful-goal-setting/introduction)
+	* [Goal Setting: Objectives and Key Results (OKRs)](https://www.linkedin.com/learning/goal-setting-objectives-and-key-results-okrs/the-power-of-strategic-goals-objectives-and-key-results-okrs)
+	* [Creating a High Performance Culture](https://www.linkedin.com/learning/creating-a-high-performance-culture/welcome)
 
 ## What 
 
@@ -132,6 +133,10 @@ An example of goal types in business management:
 * **Product goals**: this refers to supplying an outstanding value proposition compared to other products - perhaps due to factors such as quality, design, reliability and novelty[23]
 * **Operational goals**: this refers to running the organization in such a way as to make the best use of management skills, technology and resources
 * **Secondary goals**: this refers to goals which an organization does not regard as priorities[citation needed]
+
+### Goal displacement
+
+Goal displacement occurs when the original goals of an entity or organization are replaced over time by different goals. In some instances, this creates problems, because the new goals may exceed the capacity of the mechanisms put in place to meet the original goals. New goals adopted by an organization may also increasingly become focused on internal concerns, such as establishing and enforcing structures for reducing common employee disputes.[24] In some cases, the original goals of the organization become displaced in part by repeating behaviors that become traditional within the organization. For example, a company that manufactures widgets may decide to do seek good publicity by putting on a fundraising drive for a popular charity, or having a tent at a local county fair. If the fundraising drive or county fair tent is successful, the company may choose to make this an annual tradition, and may eventually involve more and more employees and resources in the new goal of raising the most charitable funds, or having the best county fair tent. In some cases, goals are displaced because the initial problem is resolved or the initial goal becomes impossible to pursue. A famous example is the March of Dimes, which began as an organization to fund the fight against polio, but once that disease was effectively brought under control by the polio vaccine, transitioned to being an organization for combating birth defects.[24]
 
 ### Others
 
